@@ -7,17 +7,11 @@ Please check the <a href="CONTRIBUTING.md">contribution guidelines</a> for infor
   
 ### Contents
 
-- [DeSciWorld](#DeSciWorld)
-    - [Job Board](#jobs)
-    - [Listed Projects](#listedprojects)
-    - [NFT Projects](#DeSci-NFTs)
-    - [Documents](#documents)
-        -[Whitepaper](#whitepaper)
-    - [Dashboard Form](#DSWDashboardForm)
-    - [NFT Launchpad Form](#NFTLaunchpad)
-      
 - [Resources](#resources) 
-   - [Calendar](#calendar) 
+
+   - [Events calendar](#calendar)
+   - [Jobs](#jobs)
+   - [NFT Projects](#DeSci-NFTs)
    - [DeSci Projects](#desciprojects)
    - [Articles](#articles)
    - [Podcasts](#podcasts)
