@@ -11,20 +11,21 @@ Please check the <a href="CONTRIBUTING.md">contribution guidelines</a> for infor
 
    - [DeSci Events calendar](https://www.desci.global/)
    - [Jobs](#jobs)
-   - [DeSci Landscape](#desciprojects)
+   - [DeSci Universe](#desciprojects)
    - [Articles](#articles)
    - [Podcasts](#podcasts)
    - [YouTube channels](#youtube)
+   - [DeScitionary](#desci-dictionary)
 
 ## Resources
 
 #### Jobs
 
-#### DeSci Landscape
+#### DeSci Universe
 
-  | Project   | Category      | Tags         | Geographical Location|
-| ------------- | ------------- | -------------| ---------------------|
-   Abakhus
+  | Project   | Geographical Location|
+| -------------| ---------------------|
+   Abakhus       | Latin America
    AcID
    AKASHA Foundation
    Algovera
@@ -32,8 +33,8 @@ Please check the <a href="CONTRIBUTING.md">contribution guidelines</a> for infor
    AthenaDAO
    Atoms
    Avano (ex-AkornDAO)
-   [AxonDAO](https://desci.world/project/62cb980abc63adff7b602bd2)
-   BioDAOContent 
+   [AxonDAO](https://desci.world/project/62cb980abc63adff7b602bd2)| North America
+   [BioDAO](https://desci.world/project/625f65d3dcfaec643ea479a5) | Metaverse 
    Blockchain BioPharma
    Blockchain for Science
    Bloxberg
@@ -42,7 +43,7 @@ Please check the <a href="CONTRIBUTING.md">contribution guidelines</a> for infor
    Cherubs DAO
    ClimeCheck
    CRISPR DAO
-   Crowd Funded Cures
+   [Crowd Funded Cures](https://desci.world/project/62db3b8fc1807e671021c571)|North America
    CrunchDAO
    Crypto, Culture, & Society
    CureDAO
@@ -54,17 +55,17 @@ Please check the <a href="CONTRIBUTING.md">contribution guidelines</a> for infor
    DeSci Africa
    DeSci Collective
    DeSci Foundation
-   DeSci Labs
+   [DeSci Labs](https://desci.world/project/62db3a87c1807e671021c570)|Europe
    DeSciWorld
    deXiv
    DNAVerse
-   EncrypGen, Inc.
+   [EncrypGen, Inc.](https://desci.world/project/62db3986c1807e671021c56e)|North America
    Etica Protocol
    Fleming Protocol
    Foresight Institute
    Frontier DAO
    Gene-0.eth
-   GenomesDAO
+   [GenomesDAO](https://desci.world/project/625f65d3dcfaec643ea479a4)| Europe
    Governance Research Institute
    Governauts
    Grassland
@@ -77,22 +78,21 @@ Please check the <a href="CONTRIBUTING.md">contribution guidelines</a> for infor
    INTLEKT Metadata Inc.
    IUCN - Porini Foundation
    Just One Giant Lab
-   LabDAO
+   [LabDAO](https://desci.world/project/625f65d3dcfaec643ea479a5)|Metaverse 
    Ledgerback Digital Commons Research Cooperative
    LIberate Science
    Llama
    LunCo  
    LYNX Technology
    MedDAO
-   Medical.watch
+   [Medical.watch](https://desci.world/project/62db3a33c1807e671021c56f)|North America
    Metagov DAO
    Molecule DAO
    NeuraDAO
    New Atlantis
    Open NMN
-   Open Therapeutics
    OpenAccessDAO
-   OpSci
+   [OpSci](https://desci.world/project/625f65d3dcfaec643ea479a9)|Metaverse
    Other Internet
    Phage Directory
    Planck
@@ -116,11 +116,12 @@ Please check the <a href="CONTRIBUTING.md">contribution guidelines</a> for infor
    TalentDAO
    The DeSci Academy
    The Science Commons Initiative
+   [Therapoid by Open Therapeutics](https://desci.world/project/625f65d3dcfaec643ea479a5)|Metaverse 
    Ultra Rare Bio
    ValleyDAO 
    Vibe Bio
    ViralCure
-   VitaDAO
+   [VitaDAO](https://desci.world/project/625fb37edcfaec643ea479aa)| Europe
+   [Weavechain](https://desci.world/project/625f65d3dcfaec643ea479a8)|North America
    Web3 Women in Science
-
-
+  
