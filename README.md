@@ -20,19 +20,18 @@ Please check the <a href="CONTRIBUTING.md">contribution guidelines</a> for infor
 ## Resources
 
 ### Jobs
-[DeSciWorld](https://discord.gg/Frmu3bGPkz) #job-listings and #job-seeking channels
+[Job-listings](https://discord.gg/Frmu3bGPkz) 
+[job-seeking](https://discord.gg/Frmu3bGPkz)
+
 
 ### Projects
 
-  | Name   | Geographical Location|
-| -------------| ---------------------|
-   Abakhus       | Latin America
-   AcID
-   AKASHA Foundation
-   Algovera
-   AntidoteDAO
-   AthenaDAO
-   Atoms
+  | Name   | Tags | Geographical Location|
+| -------------| ---------------------|-------------|
+   Abakhus       |Ecosystems, Data Storage, Blockchain protocols | Latin America
+   Algovera |Decentralized Funding, Ecosystems, Data Storage|Europe
+   AntidoteDAO |Focused Research, Decentralized Funding, Decentralized Biotech, Biopharma, NFTs, Cancer|North America
+   AthenaDAO |Focused Research, Decentralized Funding, Decentralized Biotech, Biopharma, Women Reproductive Health|North America
    Avano (ex-AkornDAO)
    [AxonDAO](https://desci.world/project/62cb980abc63adff7b602bd2)| North America
    [BioDAO](https://desci.world/project/625f65d3dcfaec643ea479a5) | Metaverse 
