@@ -9,23 +9,20 @@ Please check the <a href="CONTRIBUTING.md">contribution guidelines</a> for infor
 
 - [Resources](#resources) 
 
-   - [DeSci Events calendar](https://www.desci.global/)
-   - [Jobs](#jobs)
+   - [DeSci Events calendar](#desci-calendar)
    - [Projects](#projects)
    - [Scientific papers](#scientific-papers)
    - [Articles](#articles)   
    - [Blogs](#blogs)
    - [Podcasts](#podcasts)
    - [YouTube](#youtube)
+   - [Jobs](#jobs)
    - [DeScitionary](#desci-dictionary)
 
 ## Resources
 
-### Jobs
-[Job-listings](https://discord.gg/Frmu3bGPkz) 
-
-[Job-seeking](https://discord.gg/Frmu3bGPkz)
-
+### DeSci Calendar
+Find information on all DeSci past and upcoming events [here](https://www.desci.global/)
 
 ### Projects
 
@@ -214,5 +211,10 @@ Please check the <a href="CONTRIBUTING.md">contribution guidelines</a> for infor
   8. [Intro a DeSci Decentralized Science 🚀 2|9|2022](https://www.youtube.com/watch?v=ijpalN226Kc) by Mujeres en Crypto
   9. [Investigación y transferencia tecnológica en longevidad y ciencia descentralizada con Estéfano](https://www.youtube.com/watch?v=X4tfnFJOz7M) by Investigando la Investigación.
   
+ ### Jobs
+[Job-listings](https://discord.gg/Frmu3bGPkz) 
+
+[Job-seeking](https://discord.gg/Frmu3bGPkz)
+
   
   
