@@ -12,8 +12,8 @@ Please check the <a href="CONTRIBUTING.md">contribution guidelines</a> for infor
    - [DeSci Events calendar](https://www.desci.global/)
    - [Jobs](#jobs)
    - [Projects](#projects)
-   - [Articles](#articles)
-   - [Scientific papers](#papers)
+   - [Scientific papers](#scientific-papers)
+   - [Articles](#articles)   
    - [Blogs](#blogs)
    - [Podcasts](#podcasts)
    - [YouTube](#youtube)
@@ -134,7 +134,7 @@ Please check the <a href="CONTRIBUTING.md">contribution guidelines</a> for infor
    Weavechain|[🌐](https://desci.world/project/625f65d3dcfaec643ea479a8)|Data storage, Blockchain protocols|North America
    Web3 Women in Science|🌐|Focused Research, Philantropy, Ecosystems|North America
   
-  ### Articles
+  ### Scientific papers
  
   F. -Y. Wang et al. (2022). [The DAO to DeSci: AI for Free, Fair, and Responsibility Sensitive Sciences](https://ieeexplore.ieee.org/document/9779591) IEEE Intelligent Systems 37(2), 16-22
   
@@ -142,9 +142,9 @@ Please check the <a href="CONTRIBUTING.md">contribution guidelines</a> for infor
   
   Coelho FC, Brandão A. (2019) [Decentralising scientific publishing: can the blockchain improve science communication?](https://www.scielo.br/j/mioc/a/pGbLcFHfhKGvXvTYPcGrfWw/abstract/?lang=en) Mem Inst Oswaldo Cruz. 2019;114:e190257. doi: 10.1590/0074-02760190257. PMID: 31432893; PMCID: PMC6701880.
   
-  Lieble, S.et al. (2019) [A Review on Blockchain Technology and Blockchain Projects Fostering Open Science](https://www.frontiersin.org/articles/10.3389/fbloc.2019.00016/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Blockchain&id=486595) Frontiers in Blockchain 2. 
+  Lieble, S.et al. (2019) [A Review on Blockchain Technology and Blockchain Projects Fostering Open Science](https://www.frontiersin.org/articles/10.3389/fbloc.2019.00016/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Blockchain&id=486595). Frontiers in Blockchain 2. 
   
-
+  ### Articles
   
   #### English
   
