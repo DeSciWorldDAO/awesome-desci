@@ -137,7 +137,12 @@ Please check the <a href="CONTRIBUTING.md">contribution guidelines</a> for infor
   ### Articles
  
   F. -Y. Wang et al. (2022). [The DAO to DeSci: AI for Free, Fair, and Responsibility Sensitive Sciences](https://ieeexplore.ieee.org/document/9779591) IEEE Intelligent Systems 37(2), 16-22
+  
   Nicola, J.(2021). [How scientists are embracing NFTs](https://www.nature.com/articles/d41586-021-01642-3). Nature 594, 481-482
+  
+  Lieble, S.et al. (2019) [A Review on Blockchain Technology and Blockchain Projects Fostering Open Science](https://www.frontiersin.org/articles/10.3389/fbloc.2019.00016/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Blockchain&id=486595) 
+  
+  Coelho FC, Brandão A. Decentralising scientific publishing: can the blockchain improve science communication? Mem Inst Oswaldo Cruz. 2019;114:e190257. doi: 10.1590/0074-02760190257. Epub 2019 Aug 19. PMID: 31432893; PMCID: PMC6701880.
   
   #### English
   
