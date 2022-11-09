@@ -87,7 +87,7 @@ Find information on all DeSci past and upcoming events [here](https://www.desci.
    Ledgerback Digital Commons Research Cooperative
    LIberate Science
    Llama
-   LunCo|🌐|Data Storage, Ecosystems, space simulators|Metaverse
+   LunCo|[🌐][https://lunco.space]|Engineering Software, Data Storage, Ecosystems, Space Simulators|Metaverse
    LYNX Technology
    MedDAO|🌐|Decentralized Biotech / Biopharma, Ecosystems, NFTs, Decentralized Funding, Blockchain protocols, Science DeFi|North America
    Medical.watch|[🌐](https://desci.world/project/62db3a33c1807e671021c56f)|Ecosystems, Data Storage, Decentralized Biotech, Biopharma|North America
