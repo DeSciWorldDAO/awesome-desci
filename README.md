@@ -87,7 +87,7 @@ Find information on all DeSci past and upcoming events [here](https://www.desci.
    Ledgerback Digital Commons Research Cooperative
    LIberate Science
    Llama
-   LunCo|🌐|Data Storage, Ecosystems, space simulators|Metaverse
+   LunCo|[🌐](https://lunco.space)|Engineering Software, Data Storage, Ecosystems, Space Simulators|Metaverse
    LYNX Technology
    MedDAO|🌐|Decentralized Biotech / Biopharma, Ecosystems, NFTs, Decentralized Funding, Blockchain protocols, Science DeFi|North America
    Medical.watch|[🌐](https://desci.world/project/62db3a33c1807e671021c56f)|Ecosystems, Data Storage, Decentralized Biotech, Biopharma|North America
@@ -231,4 +231,14 @@ Stencel, A. [Science and Web3: Do non-fungible tokens (NFTs) provide a way to de
 [Job-seeking](https://discord.gg/Frmu3bGPkz)
 
   
-  
+### Telegram
+
+#### Groups
+
+1. [BlockchainForScience](https://t.me/BlockchainForScience)
+2. [DeSci Boston](https://t.me/desci_boston)
+3. [GR15 DeSci Founders](https://t.me/gr15_desci)
+4. [DeSci London](https://t.me/DeSciLondon)
+5. [DeSciOnPolygon](https://t.me/DeSciOnPolygon)
+6. [GR15 Space Founders](https://t.me/gr15_space)
+
