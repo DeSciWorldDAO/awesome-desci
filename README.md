@@ -39,7 +39,7 @@ Find information on all DeSci past and upcoming events [here](https://www.desci.
    Blockchain for Science||Ecosystems, Community|Metaverse
    Bloxberg||Ecosystems, Blockchain protocols|Europe
    Braid Science||Decentralized Publishing|Metaverse
-   Cannabis Genome DAO|[🌐](|Science DeFi, Decentralized Funding, NFTs, Focused Research, Ecosystems, Publishing, Decentralized Biotech, Biopharma|North America
+   Cannabis Genome DAO|[🌐]|Science DeFi, Decentralized Funding, NFTs, Focused Research, Ecosystems, Publishing, Decentralized Biotech, Biopharma|North America
    ClimeCheck
    CRISPR DAO
    Crowd Funded Cures|[🌐](https://desci.world/project/62db3b8fc1807e671021c571)|Biopharma, Decentralized funding|North America
