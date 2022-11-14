@@ -182,6 +182,7 @@ Stencel, A. [Science and Web3: Do non-fungible tokens (NFTs) provide a way to de
 
   ### Blogs
   1. [FrontierDAO](https://mirror.xyz/0x4A35674727c44cf4375d80C6171281Ba2f764213)
+  2. [Crypto Altruism](https://www.cryptoaltruism.org/)
   
   ### Podcasts
   
@@ -189,6 +190,7 @@ Stencel, A. [Science and Web3: Do non-fungible tokens (NFTs) provide a way to de
   1. [The DeSci Podcast](https://linktr.ee/thedescipodcast) by Molecule
   2. [UltraRare The Podcast](https://rss.com/podcasts/ultrarare/) by UltraRare Bio
   3. [Every Cure For Every Community- The Podcast](https://open.spotify.com/show/5fcNHh65oeeee5vrCTPJON) by VibeBio
+  4. [Crypto Altruism Podcast](https://www.cryptoaltruism.org/podcast) by Crypto Altruism
   
   
   #### Spanish
