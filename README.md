@@ -39,7 +39,7 @@ Find information on all DeSci past and upcoming events [here](https://www.desci.
    Blockchain for Science||Ecosystems, Community|Metaverse
    Bloxberg||Ecosystems, Blockchain protocols|Europe
    Braid Science||Decentralized Publishing|Metaverse
-   Cannabis Genome DAO|[🌐]|Science DeFi, Decentralized Funding, NFTs, Focused Research, Ecosystems, Publishing, Decentralized Biotech, Biopharma|North America
+   Cannabis Genome DAO|[🌐]|(https://desci.world/project/637473206ef6dbcf1d58884d)|Science DeFi, Decentralized Funding, NFTs, Focused Research, Ecosystems, Publishing, Decentralized Biotech, Biopharma|North America
    ClimeCheck
    CRISPR DAO
    Crowd Funded Cures|[🌐](https://desci.world/project/62db3b8fc1807e671021c571)|Biopharma, Decentralized funding|North America
@@ -129,7 +129,7 @@ Find information on all DeSci past and upcoming events [here](https://www.desci.
    ViralCure|[🌐](https://desci.world/project/6333d4ee89588cc81d14039c)|Decentralized Biotech / Biopharma, Decentralized Funding, Science DeFi, NFTs|Latin America
    VitaDAO|[🌐](https://desci.world/project/625fb37edcfaec643ea479aa)|Biopharma, Science DeFi, Philantropy|Europe
    Weavechain|[🌐](https://desci.world/project/625f65d3dcfaec643ea479a8)|Data storage, Blockchain protocols|North America
-   Web3 Women in Science|🌐|Focused Research, Philantropy, Ecosystems|North America
+   Web3 Women in Science|[🌐](https://desci.world/project/63746508cabb12576663d18d)|Focused Research, Philantropy, Ecosystems|North America
   
   ### Scientific papers
  
