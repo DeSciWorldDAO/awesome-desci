@@ -132,6 +132,8 @@ Find information on all DeSci past and upcoming events [here](https://www.desci.
    Web3 Women in Science|[🌐](https://desci.world/project/63746508cabb12576663d18d)|Focused Research, Philantropy, Ecosystems|North America
   
   ### Scientific papers
+  
+  Jaiman V. et al. (2022). [User incentives for blockchain-based data sharing platforms.](https://doi.org/10.1371/journal.pone.0266624) PLOS ONE 17(4): e0266624.
  
   F. -Y. Wang et al. (2022). [The DAO to DeSci: AI for Free, Fair, and Responsibility Sensitive Sciences](https://ieeexplore.ieee.org/document/9779591) IEEE Intelligent Systems 37(2), 16-22
   
@@ -139,7 +141,7 @@ Find information on all DeSci past and upcoming events [here](https://www.desci.
   
   Coelho FC, Brandão A. (2019) [Decentralising scientific publishing: can the blockchain improve science communication?](https://www.scielo.br/j/mioc/a/pGbLcFHfhKGvXvTYPcGrfWw/abstract/?lang=en) Mem Inst Oswaldo Cruz. 2019;114:e190257. doi: 10.1590/0074-02760190257. PMID: 31432893; PMCID: PMC6701880.
   
-  Lieble, S.et al. (2019) [A Review on Blockchain Technology and Blockchain Projects Fostering Open Science](https://www.frontiersin.org/articles/10.3389/fbloc.2019.00016/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Blockchain&id=486595). Frontiers in Blockchain 2. 
+  Lieble, S. et al. (2019) [A Review on Blockchain Technology and Blockchain Projects Fostering Open Science](https://www.frontiersin.org/articles/10.3389/fbloc.2019.00016/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Blockchain&id=486595). Frontiers in Blockchain 2. 
   
   ### Articles
   
