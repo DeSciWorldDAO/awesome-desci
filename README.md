@@ -132,9 +132,7 @@ Find information on all DeSci past and upcoming events [here](https://www.desci.
    Web3 Women in Science|[🌐](https://desci.world/project/63746508cabb12576663d18d)|Focused Research, Philantropy, Ecosystems|North America
   
   ### Scientific papers
-   
-  Jaiman V. et al. (2022). [User incentives for blockchain-based data sharing platforms](https://doi.org/10.1371/journal.pone.0266624) PLOS ONE 17(4): e0266624 
-   
+      
   F. -Y. Wang et al. (2022). [The DAO to DeSci: AI for Free, Fair, and Responsibility Sensitive Sciences](https://ieeexplore.ieee.org/document/9779591) IEEE Intelligent Systems 37(2), 16-22
   
   Nicola, J.(2021). [How scientists are embracing NFTs](https://www.nature.com/articles/d41586-021-01642-3). Nature 594, 481-482
