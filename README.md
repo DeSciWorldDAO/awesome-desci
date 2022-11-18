@@ -136,6 +136,8 @@ Find information on all DeSci past and upcoming events [here](https://www.desci.
   Jaiman V. et al. (2022). [User incentives for blockchain-based data sharing platforms](https://doi.org/10.1371/journal.pone.0266624) PLOS ONE 17(4): e0266624
       
   F. -Y. Wang et al. (2022). [The DAO to DeSci: AI for Free, Fair, and Responsibility Sensitive Sciences](https://ieeexplore.ieee.org/document/9779591) IEEE Intelligent Systems 37(2), 16-22
+    
+  Ducrée J. t al.(2021) Unchaining Collective Intelligence for Science, Research, and Technology Development by Blockchain-Boosted Community Participation. Front. Blockchain 4:631648. doi: 10.3389/fbloc.2021.631648
   
   Nicola, J.(2021). [How scientists are embracing NFTs](https://www.nature.com/articles/d41586-021-01642-3). Nature 594, 481-482
   
