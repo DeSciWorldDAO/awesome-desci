@@ -178,6 +178,8 @@ DeAngelis, A. [With cryptocurrency and NFTs, ‘decentralized science’ seeks t
 Roberts, T. [Shifting Ideas to Reality](https://aitheric.medium.com/shifting-ideas-to-reality-3796f7dafc07)
 
 Stencel, A. [Science and Web3: Do non-fungible tokens (NFTs) provide a way to democratise and increase scientific funding?](https://medium.com/@AdrianoStencel/science-and-web3-do-non-fungible-tokens-nfts-provide-a-way-to-democratise-and-increase-b57b5caa246b)
+
+#### Portuguese
   
   #### Spanish
   1. [Pantaleo, P. (2022) DeSci o el futuro de la Ciencia](https://paideiastudio.net/desci-o-el-futuro-de-la-ciencia/)
