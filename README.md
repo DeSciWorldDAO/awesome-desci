@@ -143,6 +143,8 @@ Find information on all DeSci past and upcoming events [here](https://www.desci.
   
   Lieble, S. et al. (2019) [A Review on Blockchain Technology and Blockchain Projects Fostering Open Science](https://www.frontiersin.org/articles/10.3389/fbloc.2019.00016/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Blockchain&id=486595). Frontiers in Blockchain 2. 
   
+  Ozercan HI, Ileri AM, Ayday E, Alkan C. [Realizing the potential of blockchain technologies in genomics](https://pubmed.ncbi.nlm.nih.gov/30076130/).Genome Res. 2018 Sep;28(9):1255-1263. doi: 10.1101/gr.207464.116. Epub 2018 Aug 3. PMID: 30076130; PMCID: PMC6120626
+  
   ### Articles
   
   #### English
