@@ -1,4 +1,4 @@
-# awesome-DeSci
+# Awesome DeSci
 
 
 A curated list of awesome **(De)centralized (Sci)ence** resources, projects, articles and more.
