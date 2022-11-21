@@ -5,22 +5,23 @@ A curated list of awesome **(De)centralized (Sci)ence** resources, projects, art
 
 Please check the <a href="CONTRIBUTING.md">contribution guidelines</a> for information on formatting and writing pull requests.
   
-### Contents
+## Contents
 
-- [Resources](#resources) 
+   - 📅[DeSci Events calendar](#desci-calendar)
+   - 🔬[Projects](#projects)
+   - 📄[Scientific papers](#scientific-papers)
+   - 📰[Articles](#articles)   
+   - ✏️[Blogs](#blogs)
+   - 🎙️[Podcasts](#podcasts)
+   - ▶️[YouTube](#youtube)
+   - 💬[Telegram groups](#telegram-groups)
+   - 🛠️[Jobs](#jobs)
+   - 📖[DeScitionary](#desci-dictionary)
 
-   - [DeSci Events calendar](#desci-calendar)
-   - [Projects](#projects)
-   - [Scientific papers](#scientific-papers)
-   - [Articles](#articles)   
-   - [Blogs](#blogs)
-   - [Podcasts](#podcasts)
-   - [YouTube](#youtube)
-   - [Telegram groups](#telegram-groups)
-   - [Jobs](#jobs)
-   - [DeScitionary](#desci-dictionary)
 
-## Resources
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### DeSci Calendar
 Find information on all DeSci past and upcoming events [here](https://www.desci.global/)
