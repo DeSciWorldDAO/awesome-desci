@@ -133,6 +133,8 @@ Find information on all DeSci past and upcoming events [here](https://www.desci.
   
   ### Scientific papers
   
+  Jeng W. et al. (2020). [A decentralized framework for cultivating research lifecycle transparency](https://doi.org/10.1371/journal.pone.0241496) PLOS ONE 15(11): e0241496
+  
   Jaiman V. et al. (2022). [User incentives for blockchain-based data sharing platforms](https://doi.org/10.1371/journal.pone.0266624) PLOS ONE 17(4): e0266624
       
   F. -Y. Wang et al. (2022). [The DAO to DeSci: AI for Free, Fair, and Responsibility Sensitive Sciences](https://ieeexplore.ieee.org/document/9779591) IEEE Intelligent Systems 37(2), 16-22
