@@ -16,6 +16,7 @@ Please check the <a href="CONTRIBUTING.md">contribution guidelines</a> for infor
    - [Blogs](#blogs)
    - [Podcasts](#podcasts)
    - [YouTube](#youtube)
+   - [Telegram groups](#telegram-groups)
    - [Jobs](#jobs)
    - [DeScitionary](#desci-dictionary)
 
@@ -278,7 +279,7 @@ Stencel, A. [Science and Web3: Do non-fungible tokens (NFTs) provide a way to de
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#### Telegram Groups
+#### Telegram groups
 
 1. [BlockchainForScience](https://t.me/BlockchainForScience)
 2. [DeSci Boston](https://t.me/desci_boston)
