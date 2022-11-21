@@ -3,7 +3,7 @@
 
 A curated list of awesome **(De)centralized (Sci)ence** resources, projects, articles and more.
 
-Please check the <a href="CONTRIBUTING.md">contribution guidelines</a> for information on formatting and writing pull requests.
+Please check the [contribution guidelines](https://github.com/DeSciWorldDAO/awesome-desci/blob/main/CONTRIBUTING.MD) for information on formatting and writing pull requests.
   
 ## Contents
 
