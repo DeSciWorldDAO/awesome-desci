@@ -24,6 +24,8 @@ Please check the <a href="CONTRIBUTING.md">contribution guidelines</a> for infor
 ### DeSci Calendar
 Find information on all DeSci past and upcoming events [here](https://www.desci.global/)
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### Projects
 
   | Name   |Integrations| Tags | Geographical Location|
@@ -131,21 +133,49 @@ Find information on all DeSci past and upcoming events [here](https://www.desci.
    Weavechain|[🌐](https://desci.world/project/625f65d3dcfaec643ea479a8)|Data storage, Blockchain protocols|North America
    Web3 Women in Science|[🌐](https://desci.world/project/63746508cabb12576663d18d)|Focused Research, Philantropy, Ecosystems|North America
   
+ 
+ 
+ 
+  -----------------------------------------------------------------------------------------------------------------------------------------------------------------
   ### Scientific papers
   
-  Jeng W. et al. (2020). [A decentralized framework for cultivating research lifecycle transparency](https://doi.org/10.1371/journal.pone.0241496) PLOS ONE 15(11): e0241496
+   **Beinke** JH, Fitte C, Teuteberg F(2019).[Towards a Stakeholder-Oriented Blockchain-Based Architecture for Electronic Health Records: Design Science Research Study](10.2196/13585). J Med Internet Res. 2019 Oct 7;21(10):e13585. PMID: 31593548; PMCID: PMC6914222.
   
-  Jaiman V. et al. (2022). [User incentives for blockchain-based data sharing platforms](https://doi.org/10.1371/journal.pone.0266624) PLOS ONE 17(4): e0266624
-      
-  F. -Y. Wang et al. (2022). [The DAO to DeSci: AI for Free, Fair, and Responsibility Sensitive Sciences](https://ieeexplore.ieee.org/document/9779591) IEEE Intelligent Systems 37(2), 16-22
+  **Coelho** FC, Brandão A. (2019) [Decentralising scientific publishing: can the blockchain improve science communication?](https://www.scielo.br/j/mioc/a/pGbLcFHfhKGvXvTYPcGrfWw/abstract/?lang=en) Mem Inst Oswaldo Cruz. 2019;114:e190257. doi: 10.1590/0074-02760190257. PMID: 31432893; PMCID: PMC6701880. 
   
-  Nicola, J.(2021). [How scientists are embracing NFTs](https://www.nature.com/articles/d41586-021-01642-3). Nature 594, 481-482
+  **Ducrée** J et al.(2021) [Unchaining Collective Intelligence for Science, Research, and Technology Development by Blockchain-Boosted Community Participation](https://www.frontiersin.org/articles/10.3389/fbloc.2021.631648/full). Front. Blockchain 4:631648.
   
-  Coelho FC, Brandão A. (2019) [Decentralising scientific publishing: can the blockchain improve science communication?](https://www.scielo.br/j/mioc/a/pGbLcFHfhKGvXvTYPcGrfWw/abstract/?lang=en) Mem Inst Oswaldo Cruz. 2019;114:e190257. doi: 10.1590/0074-02760190257. PMID: 31432893; PMCID: PMC6701880.
+  **Hasselgren** A et al. (2020) [Blockchain in healthcare and health sciences-A scoping review](10.1016/j.ijmedinf.2019.104040). Int J Med Inform. 2020
+Feb; 134:104040. Epub 2019 Dec 11. PMID:31865055.
   
-  Lieble, S. et al. (2019) [A Review on Blockchain Technology and Blockchain Projects Fostering Open Science](https://www.frontiersin.org/articles/10.3389/fbloc.2019.00016/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Blockchain&id=486595). Frontiers in Blockchain 2. 
+  **Jaiman** V. et al. (2022). [User incentives for blockchain-based data sharing platforms](https://doi.org/10.1371/journal.pone.0266624) PLOS ONE 17(4): e0266624
   
-  Ozercan HI, Ileri AM, Ayday E, Alkan C. [Realizing the potential of blockchain technologies in genomics](https://pubmed.ncbi.nlm.nih.gov/30076130/).Genome Res. 2018 Sep;28(9):1255-1263. doi: 10.1101/gr.207464.116. Epub 2018 Aug 3. PMID: 30076130; PMCID: PMC6120626
+  **Jeng** W. et al. (2020). [A decentralized framework for cultivating research lifecycle transparency](https://doi.org/10.1371/journal.pone.0241496) PLOS ONE 15(11): e0241496
+  
+  **Justinia** T (2019) [Blockchain Technologies: Opportunities for Solving Real-World Problems in Healthcare and Biomedical Sciences](10.5455/aim.2019.27.284-291). Acta Inform Med. Dec;27(4):284-291. PMID: 32055097; PMCID: PMC7004292.
+  
+  **Kochupillai**, M., Köninger, J. (2022). [Creating a Digital Marketplace for Agrobiodiversity and Plant Genetic Sequence Data: Legal and Ethical Considerations of an AI and Blockchain Based Solution](https://doi.org/10.1007/978-3-031-13276-6_12). In: Williamson, H.F., Leonelli, S. (eds) Towards Responsible Plant Data Linkage: Data Challenges for Agricultural Research and Development. Springer, Cham.
+  
+  **Lieble** S. et al. (2019) [A Review on Blockchain Technology and Blockchain Projects Fostering Open Science](https://www.frontiersin.org/articles/10.3389/fbloc.2019.00016/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Blockchain&id=486595). Frontiers in Blockchain 2. 
+   
+  **Mohammadipanah** F, Sajedi H. [Potential of blockchain approach on development and security of microbial databases]( 10.1186/s12575-020-00139-z). Biol Proced Online. 2021 Feb 1;23(1):3.PMID: 33517878; PMCID: PMC7847748.
+  
+  **Nicola** J.(2021). [How scientists are embracing NFTs](https://www.nature.com/articles/d41586-021-01642-3). Nature 594, 481-482.
+  
+  **Ng** WY et al. (2021) [Blockchain applications in health care for COVID-19 and beyond: a systematic review](10.1016/S2589-7500(21)00210-7). Lancet Digit Health. 2021 Dec;3(12):e819-e829. Epub 2021 Oct 13. PMID: 34654686; PMCID:PMC8510632.
+  
+  **OECD** (2021). [OECD Digital Education Outlook 2021: Pushing the Frontiers with Artificial Intelligence, Blockchain and Robots](https://doi.org/10.1787/589b283f-en). OECD Publishing, Paris
+  
+  **Ozercan** HI et al.(2018) [Realizing the potential of blockchain technologies in genomics](https://pubmed.ncbi.nlm.nih.gov/30076130/).Genome Res. Sep;28(9):1255-1263. doi: 10.1101/gr.207464.116. Epub 2018 Aug 3. PMID: 30076130; PMCID: PMC6120626  
+  
+  **van der Waal** MB et al.(2020)[Blockchain-facilitated sharing to advance outbreak R&D](10.1126/science.aba1355). Science. May 15;368(6492):719-721.PMID: 32409465.
+  
+  **Wang** F. -Y. et al. (2022). [The DAO to DeSci: AI for Free, Fair, and Responsibility Sensitive Sciences](https://ieeexplore.ieee.org/document/9779591) IEEE Intelligent Systems 37(2), 16-22
+  
+  **Wittek** K. et al (2021). [A Blockchain-Based Approach to Provenance and Reproducibility in Research Workflows](https://arxiv.org/ftp/arxiv/papers/2202/2202.13747.pdf). IEEE International Conference on Blockchain and Cryptocurrency (ICBC), 2021, pp. 1-6
+  
+    
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
   
   ### Articles
   
@@ -186,10 +216,14 @@ Stencel, A. [Science and Web3: Do non-fungible tokens (NFTs) provide a way to de
   #### Spanish
   1. [Pantaleo, P. (2022) DeSci o el futuro de la Ciencia](https://paideiastudio.net/desci-o-el-futuro-de-la-ciencia/)
 
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ### Blogs
   1. [FrontierDAO](https://mirror.xyz/0x4A35674727c44cf4375d80C6171281Ba2f764213)
   2. [Crypto Altruism](https://www.cryptoaltruism.org/)
   
+  
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ### Podcasts
   
   #### English
@@ -203,6 +237,8 @@ Stencel, A. [Science and Web3: Do non-fungible tokens (NFTs) provide a way to de
   1. [Cinco Minutos al futuro: DeSci](https://open.spotify.com/episode/0gaoq6ZZP4zhz9y9d1KC0n?si=dbb80ea34d434f1f&nd=1) by Nuestro Día
   2. [Publicar o Perecer: DeSci-Ciencia Descentralizada](https://paideiastudio.net/tag/publicar-o-perecer/) by Paideia Studio
    
+  
+  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ### YouTube 
   
   #### Channels
@@ -233,12 +269,15 @@ Stencel, A. [Science and Web3: Do non-fungible tokens (NFTs) provide a way to de
   8. [Intro a DeSci Decentralized Science 🚀 2|9|2022](https://www.youtube.com/watch?v=ijpalN226Kc) by Mujeres en Crypto
   9. [Investigación y transferencia tecnológica en longevidad y ciencia descentralizada con Estéfano](https://www.youtube.com/watch?v=X4tfnFJOz7M) by Investigando la Investigación.
   
+  
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
  ### Jobs
 [Job-listings](https://discord.gg/Frmu3bGPkz) 
 
 [Job-seeking](https://discord.gg/Frmu3bGPkz)
 
-  
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #### Telegram Groups
 
 1. [BlockchainForScience](https://t.me/BlockchainForScience)
