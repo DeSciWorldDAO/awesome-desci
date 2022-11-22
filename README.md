@@ -282,3 +282,7 @@ Find information on DeSci jobs listings and seeking [here](https://discord.gg/Fr
 5. [DeSciOnPolygon](https://t.me/DeSciOnPolygon)
 6. [GR15 Space Founders](https://t.me/gr15_space)
 
+---
+### DeScitionary
+
+Coming soon 🙂
