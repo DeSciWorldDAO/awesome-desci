@@ -25,7 +25,7 @@ Please check the [contribution guidelines](https://github.com/DeSciWorldDAO/awes
 ### DeSci Calendar
 Find information on all DeSci past and upcoming events [here](https://www.desci.global/)
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 ### Projects
 
@@ -137,7 +137,7 @@ Find information on all DeSci past and upcoming events [here](https://www.desci.
  
  
  
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ---
   ### Scientific papers
   **Beinke** JH, Fitte C, Teuteberg F(2019).[Towards a Stakeholder-Oriented Blockchain-Based Architecture for Electronic Health Records: Design Science Research Study](10.2196/13585). J Med Internet Res. 2019 Oct 7;21(10):e13585. PMID: 31593548; PMCID: PMC6914222.
   
@@ -175,7 +175,7 @@ Feb; 134:104040. Epub 2019 Dec 11. PMID:31865055.
   **Wittek** K. et al (2021). [A Blockchain-Based Approach to Provenance and Reproducibility in Research Workflows](https://arxiv.org/ftp/arxiv/papers/2202/2202.13747.pdf). IEEE International Conference on Blockchain and Cryptocurrency (ICBC), 2021, pp. 1-6
   
     
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
   
   ### Articles
   
@@ -215,13 +215,13 @@ Stencel, A. [Science and Web3: Do non-fungible tokens (NFTs) provide a way to de
   1. [Pantaleo, P. (2022) DeSci o el futuro de la Ciencia](https://paideiastudio.net/desci-o-el-futuro-de-la-ciencia/)
 
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
   ### Blogs
   1. [FrontierDAO](https://mirror.xyz/0x4A35674727c44cf4375d80C6171281Ba2f764213)
   2. [Crypto Altruism](https://www.cryptoaltruism.org/)
   
   
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ---
   ### Podcasts
   
   #### English
@@ -236,7 +236,7 @@ Stencel, A. [Science and Web3: Do non-fungible tokens (NFTs) provide a way to de
   2. [Publicar o Perecer: DeSci-Ciencia Descentralizada](https://paideiastudio.net/tag/publicar-o-perecer/) by Paideia Studio
    
   
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ---
   ### YouTube 
   
   #### Channels
