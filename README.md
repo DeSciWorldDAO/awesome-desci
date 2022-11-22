@@ -27,9 +27,10 @@ Find information on all DeSci past and upcoming events [here](https://www.desci.
 
 ---
 
-### Projects
+### Projects                
+🌐= DeSciWorld dashboard integration. Projects can be listed by filling out the form [here](https://airtable.com/shrtaKfMlH2q24lYh)
 
-  | Name   |Integrations| Tags | Geographical Location|
+| Name   |Integrations| Tags | Geographical Location|
 | -------------|-| ---------------------|-------------|
    Abakhus|[🌐](https://desci.world/project/637277ad1503962283965fa2)|Ecosystems, Data Storage, Blockchain protocols | Latin America
    Algovera |[🌐](https://desci.world/project/637264412a9e2b5f7b9d8347)|Decentralized Funding, Ecosystems, Data Storage|Europe
