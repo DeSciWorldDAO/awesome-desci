@@ -48,7 +48,7 @@ Find information on all DeSci past and upcoming events [here](https://www.desci.
    Crowd Funded Cures|[🌐](https://desci.world/project/62db3b8fc1807e671021c571)|Biopharma, Decentralized funding|North America
    CrunchDAO|[🌐](https://desci.world/project/632552b0de4422cf89b69abb)|Science DeFi|Metaverse 
    Crypto, Culture, & Society
-   CureDAO
+   CureDAO | [🌐](https://www.curedao.org/)|Medical Data, Health| Metaverse 
    DAO Research Collective
    DAOstewards
    DATA LAKE|[🌐](https://desci.world/project/635371309809da2300334312)|Science DeFi, Ecosystems|Europe
