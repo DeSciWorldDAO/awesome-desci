@@ -52,7 +52,7 @@ Find information on all DeSci past and upcoming events [here](https://www.desci.
    DAO Research Collective
    DAOstewards
    DATA LAKE|[🌐](https://desci.world/project/635371309809da2300334312)|Science DeFi, Ecosystems|Europe
-   DB DAO
+   DB DAO |[🌐](https://desci.world/project/6375416a4cedb58de3847c3e)|Data storage
    Decentralized Science
    DeSci Africa|[🌐](https://desci.world/project/635b54db0b57f22ac9a041d9)|Ecosystems, Philantropy, Community| Africa
    DeSci Brazil
