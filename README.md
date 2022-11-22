@@ -270,11 +270,7 @@ Stencel, A. [Science and Web3: Do non-fungible tokens (NFTs) provide a way to de
   
 ---
 ### Jobs
-
-[Job-listings](https://discord.gg/Frmu3bGPkz) 
-
-[Job-seeking](https://discord.gg/Frmu3bGPkz)
-
+Find information on DeSci jobs listings and seeking [here](https://discord.gg/Frmu3bGPkz)
 
 ---
 #### Telegram groups
