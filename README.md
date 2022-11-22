@@ -86,7 +86,7 @@ Find information on all DeSci past and upcoming events [here](https://www.desci.
    INTLEKT Metadata Inc.
    IUCN - Porini Foundation
    Just One Giant Lab
-   LabDAO|[🌐](https://desci.world/project/625f65d3dcfaec643ea479a5)|Decentralized Biotech / Biopharma, Decentralized Funding, Focused Research, NFTs, Data Storage, Blockchain protocols, Ecosystems|Metaverse 
+   LabDAO|[🌐](https://desci.world/project/625f65d3dcfaec643ea479a7)|Decentralized Biotech / Biopharma, Decentralized Funding, Focused Research, NFTs, Data Storage, Blockchain protocols, Ecosystems|Metaverse 
    Ledgerback Digital Commons Research Cooperative
    LIberate Science
    Llama
@@ -127,7 +127,7 @@ Find information on all DeSci past and upcoming events [here](https://www.desci.
    The Science Commons Initiative|[🌐](https://desci.world/project/630aca18900d8f427a2e95e7)|Ecosystems, Publishing, Decentralized Funding, Blockchain protocols, Philantropy|Metaverse
    Therapoid by Open Therapeutics|[🌐](https://desci.world/project/62db3bd6c1807e671021c572)|Ecosystems, Publishing, Philantropy|Metaverse 
    Ultra Rare Bio
-   ValleyDAO|[🌐](https://desci.world/project/625f65d3dcfaec643ea479a4)|Ecosystems, Decentralized Biotech / Biopharma, Focused Research, Decentralized Funding|Metaverse 
+   ValleyDAO|[🌐](https://desci.world/project/62db3bd6c1807e671021c572)|Ecosystems, Decentralized Biotech / Biopharma, Focused Research, Decentralized Funding|Metaverse 
    VibeBio| |Decentralized Biotech / Biopharma, Decentralized Funding, Philantropy|Metaverse
    ViralCure|[🌐](https://desci.world/project/6333d4ee89588cc81d14039c)|Decentralized Biotech / Biopharma, Decentralized Funding, Science DeFi, NFTs|Latin America
    VitaDAO|[🌐](https://desci.world/project/625fb37edcfaec643ea479aa)|Biopharma, Science DeFi, Philantropy|Europe
@@ -138,7 +138,7 @@ Find information on all DeSci past and upcoming events [here](https://www.desci.
  
  
   ---
-  ### Scientific papers
+### Scientific papers
   **Beinke** JH, Fitte C, Teuteberg F(2019).[Towards a Stakeholder-Oriented Blockchain-Based Architecture for Electronic Health Records: Design Science Research Study](10.2196/13585). J Med Internet Res. 2019 Oct 7;21(10):e13585. PMID: 31593548; PMCID: PMC6914222.
   
   **Coelho** FC, Brandão A. (2019) [Decentralising scientific publishing: can the blockchain improve science communication?](https://www.scielo.br/j/mioc/a/pGbLcFHfhKGvXvTYPcGrfWw/abstract/?lang=en) Mem Inst Oswaldo Cruz. 2019;114:e190257. doi: 10.1590/0074-02760190257. PMID: 31432893; PMCID: PMC6701880. 
@@ -177,10 +177,10 @@ Feb; 134:104040. Epub 2019 Dec 11. PMID:31865055.
     
 ---
   
-  ### Articles
+### Articles
   
-  #### English  
-  ##### 2022
+#### English  
+##### 2022
 Baloyan, S. [DeSci - the New Web 3 Movement to Revolutionize Scientific Research & Funding](https://hackernoon.com/desci-the-new-web-3-movement-to-revolutionize-scientific-research-and-funding)
 
 Couvat, E. [DeSci: How Can DAOs Facilitate Collaboration And Push The Open Science Movement Forward](https://coinvise.mirror.xyz/d_jTD1q4pFNXT8JwWUAp0o9TUacsBWNHr_LnRvTmivc)
@@ -211,71 +211,72 @@ Roberts, T. [Shifting Ideas to Reality](https://aitheric.medium.com/shifting-ide
 
 Stencel, A. [Science and Web3: Do non-fungible tokens (NFTs) provide a way to democratise and increase scientific funding?](https://medium.com/@AdrianoStencel/science-and-web3-do-non-fungible-tokens-nfts-provide-a-way-to-democratise-and-increase-b57b5caa246b)
   
-  #### Spanish
-  1. [Pantaleo, P. (2022) DeSci o el futuro de la Ciencia](https://paideiastudio.net/desci-o-el-futuro-de-la-ciencia/)
+#### Spanish
+1. [Pantaleo, P. (2022) DeSci o el futuro de la Ciencia](https://paideiastudio.net/desci-o-el-futuro-de-la-ciencia/)
 
 
 ---
-  ### Blogs
-  1. [FrontierDAO](https://mirror.xyz/0x4A35674727c44cf4375d80C6171281Ba2f764213)
-  2. [Crypto Altruism](https://www.cryptoaltruism.org/)
+### Blogs
+1. [FrontierDAO](https://mirror.xyz/0x4A35674727c44cf4375d80C6171281Ba2f764213)
+2. [Crypto Altruism](https://www.cryptoaltruism.org/)
   
   
   ---
-  ### Podcasts
+### Podcasts
   
-  #### English
-  1. [The DeSci Podcast](https://linktr.ee/thedescipodcast) by Molecule
-  2. [UltraRare The Podcast](https://rss.com/podcasts/ultrarare/) by UltraRare Bio
-  3. [Every Cure For Every Community- The Podcast](https://open.spotify.com/show/5fcNHh65oeeee5vrCTPJON) by VibeBio
-  4. [Crypto Altruism Podcast](https://www.cryptoaltruism.org/podcast) by Crypto Altruism
+#### English
+1. [The DeSci Podcast](https://linktr.ee/thedescipodcast) — Molecule
+2. [UltraRare The Podcast](https://rss.com/podcasts/ultrarare/) — UltraRare Bio
+3. [Every Cure For Every Community- The Podcast](https://open.spotify.com/show/5fcNHh65oeeee5vrCTPJON) — VibeBio
+4. [Crypto Altruism Podcast](https://www.cryptoaltruism.org/podcast) — Crypto Altruism
   
   
-  #### Spanish
-  1. [Cinco Minutos al futuro: DeSci](https://open.spotify.com/episode/0gaoq6ZZP4zhz9y9d1KC0n?si=dbb80ea34d434f1f&nd=1) by Nuestro Día
-  2. [Publicar o Perecer: DeSci-Ciencia Descentralizada](https://paideiastudio.net/tag/publicar-o-perecer/) by Paideia Studio
+#### Spanish
+1. [Cinco Minutos al futuro: DeSci](https://open.spotify.com/episode/0gaoq6ZZP4zhz9y9d1KC0n?si=dbb80ea34d434f1f&nd=1) — Nuestro Día
+2. [Publicar o Perecer: DeSci-Ciencia Descentralizada](https://paideiastudio.net/tag/publicar-o-perecer/) — Paideia Studio
    
   
   ---
-  ### YouTube 
+### YouTube 
   
-  #### Channels
+#### Channels
   
-  1. [Cannabis Genome DAO](https://www.youtube.com/channel/UC4eu4SR0D06qJ8KLCtNvL3g)
-  2. [CrunchDAO](https://www.youtube.com/channel/UCJojcucwteZRnxyLyu-7TZw)
-  3. [DeSci Labs](https://www.youtube.com/channel/UCzVdQSku9md4WxruSIKdnZw)
-  4. [DeSciWorld](https://www.youtube.com/channel/UCivzXLAo8a_m28qEIGWjvUQ/featured)
-  5. [Foresight Institute](https://www.youtube.com/c/ForesightInstitute)
-  6. [In Real Lab](https://www.youtube.com/channel/UCHH7qoO7ZjEGfxhoOcPXB3Q)
-  7. [Lady Scientist Podcast](https://www.youtube.com/c/LadyScientistPodcast)
-  8. [Molecule](https://www.youtube.com/c/Molecule_dao)
-  9. [OpSci](https://www.youtube.com/channel/UCwMN9E4uZ0jYOo9rDuFb0_Q)
-  10. [ResearchHub](https://www.youtube.com/channel/UCU4kRS13JPo1hIPNV6eONmg) 
-  11. [SCRF](https://www.youtube.com/channel/UCSA8Xu-rCemVuoBG2s449UQ)
-  12. [VitaDAO](https://www.youtube.com/c/VitaDAO)
+1. [Cannabis Genome DAO](https://www.youtube.com/channel/UC4eu4SR0D06qJ8KLCtNvL3g)
+2. [CrunchDAO](https://www.youtube.com/channel/UCJojcucwteZRnxyLyu-7TZw)
+3. [DeSci Labs](https://www.youtube.com/channel/UCzVdQSku9md4WxruSIKdnZw)
+4. [DeSciWorld](https://www.youtube.com/channel/UCivzXLAo8a_m28qEIGWjvUQ/featured)
+5. [Foresight Institute](https://www.youtube.com/c/ForesightInstitute)
+6. [In Real Lab](https://www.youtube.com/channel/UCHH7qoO7ZjEGfxhoOcPXB3Q)
+7. [Lady Scientist Podcast](https://www.youtube.com/c/LadyScientistPodcast)
+8. [Molecule](https://www.youtube.com/c/Molecule_dao)
+9. [OpSci](https://www.youtube.com/channel/UCwMN9E4uZ0jYOo9rDuFb0_Q)
+10. [ResearchHub](https://www.youtube.com/channel/UCU4kRS13JPo1hIPNV6eONmg) 
+11. [SCRF](https://www.youtube.com/channel/UCSA8Xu-rCemVuoBG2s449UQ)
+12. [VitaDAO](https://www.youtube.com/c/VitaDAO)
 
   
-  #### Videos
+#### Videos
   
-  1. [What is DeSci (Decentralized Science)?](https://www.youtube.com/watch?v=W93QzWdHYyM&t=54s) by Phas3
-  2. [Schelling Point Bogota 2022](https://www.youtube.com/playlist?list=PLvTrX8LNPbPnH3RUVw1_yJ_VHgPSmkQ4T) by Gitcoin Media
-  3. [Exploring DeSci Through The Lens of Public Goods and Impact DAOs](https://www.youtube.com/watch?v=X5lhIsd83vg) by Gitcoin Media
-  4. [DeSci Meets ReFi: Quantifying Marine Biodiversity](https://www.youtube.com/watch?v=SX-Al5Yo6Nk) by Gordon Gould (New Atlantis) at IPFS Camp 2022
-  5. [LabDAO (DeSci, LabDAO Overview, Partnership, etc.)](https://www.youtube.com/watch?v=ebA2yPHQ_cI&t=110s) by Niklas Rindtorff (LabDAO) at IPFS Camp 2022
-  6. [¿Qué es la ciencia descentralizada? DeSci explicado](https://www.youtube.com/watch?v=-DeMklVWNdA) by CoinMarketCap
-  7. [La DeSci (Science Décentralisée) : un nouveau mouvement à haut potentiel ?](https://www.youtube.com/watch?v=zSttzDQ7B9k) by Coin Station
-  8. [Intro a DeSci Decentralized Science 🚀 2|9|2022](https://www.youtube.com/watch?v=ijpalN226Kc) by Mujeres en Crypto
-  9. [Investigación y transferencia tecnológica en longevidad y ciencia descentralizada con Estéfano](https://www.youtube.com/watch?v=X4tfnFJOz7M) by Investigando la Investigación.
+1. [What is DeSci (Decentralized Science)?](https://www.youtube.com/watch?v=W93QzWdHYyM&t=54s) — Phas3
+2. [Schelling Point Bogota 2022](https://www.youtube.com/playlist?list=PLvTrX8LNPbPnH3RUVw1_yJ_VHgPSmkQ4T) — Gitcoin Media
+3. [Exploring DeSci Through The Lens of Public Goods and Impact DAOs](https://www.youtube.com/watch?v=X5lhIsd83vg) — Gitcoin Media
+4. [DeSci Meets ReFi: Quantifying Marine Biodiversity](https://www.youtube.com/watch?v=SX-Al5Yo6Nk) — Gordon Gould (New Atlantis) at IPFS Camp 2022
+5. [LabDAO (DeSci, LabDAO Overview, Partnership, etc.)](https://www.youtube.com/watch?v=ebA2yPHQ_cI&t=110s) — Niklas Rindtorff (LabDAO) at IPFS Camp 2022
+6. [¿Qué es la ciencia descentralizada? DeSci explicado](https://www.youtube.com/watch?v=-DeMklVWNdA) — CoinMarketCap
+7. [La DeSci (Science Décentralisée) : un nouveau mouvement à haut potentiel ?](https://www.youtube.com/watch?v=zSttzDQ7B9k) — Coin Station
+8. [Intro a DeSci Decentralized Science 🚀 2|9|2022](https://www.youtube.com/watch?v=ijpalN226Kc) — Mujeres en Crypto
+9. [Investigación y transferencia tecnológica en longevidad y ciencia descentralizada con Estéfano](https://www.youtube.com/watch?v=X4tfnFJOz7M) — Investigando la Investigación.
   
   
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
- ### Jobs
+---
+### Jobs
+
 [Job-listings](https://discord.gg/Frmu3bGPkz) 
 
 [Job-seeking](https://discord.gg/Frmu3bGPkz)
 
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 #### Telegram groups
 
 1. [BlockchainForScience](https://t.me/BlockchainForScience)
