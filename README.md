@@ -230,6 +230,7 @@ Stencel, A. [Science and Web3: Do non-fungible tokens (NFTs) provide a way to de
 2. [UltraRare The Podcast](https://rss.com/podcasts/ultrarare/) - UltraRare Bio
 3. [Every Cure For Every Community- The Podcast](https://open.spotify.com/show/5fcNHh65oeeee5vrCTPJON) - VibeBio
 4. [Crypto Altruism Podcast](https://www.cryptoaltruism.org/podcast) - Crypto Altruism
+5. [Future of Science](https://open.spotify.com/show/34TLXR64bT4OcdEbXkCD2T) - DeSci Foundation
   
   
 #### Spanish
