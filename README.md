@@ -1,4 +1,4 @@
-# Awesome DeSci  
+# Awesome DeSci 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome **Decentralized Science (DeSci)** resources, projects, articles and more.
@@ -229,16 +229,16 @@ Stencel, A. [Science and Web3: Do non-fungible tokens (NFTs) provide a way to de
 ### Podcasts
   
 #### English
-1. [The DeSci Podcast](https://linktr.ee/thedescipodcast) - Molecule
-2. [UltraRare The Podcast](https://rss.com/podcasts/ultrarare/) - UltraRare Bio
-3. [Every Cure For Every Community- The Podcast](https://open.spotify.com/show/5fcNHh65oeeee5vrCTPJON) - VibeBio
-4. [Crypto Altruism Podcast](https://www.cryptoaltruism.org/podcast) - Crypto Altruism
-5. [Future of Science](https://open.spotify.com/show/34TLXR64bT4OcdEbXkCD2T) - DeSci Foundation
+1. [The DeSci Podcast](https://linktr.ee/thedescipodcast) - Molecule.
+2. [UltraRare The Podcast](https://rss.com/podcasts/ultrarare/) - UltraRare Bio.
+3. [Every Cure For Every Community- The Podcast](https://open.spotify.com/show/5fcNHh65oeeee5vrCTPJON) - VibeBio.
+4. [Crypto Altruism Podcast](https://www.cryptoaltruism.org/podcast) - Crypto Altruism.
+5. [Future of Science](https://open.spotify.com/show/34TLXR64bT4OcdEbXkCD2T) - DeSci Foundation.
   
   
 #### Spanish
-1. [Cinco Minutos al futuro: DeSci](https://open.spotify.com/episode/0gaoq6ZZP4zhz9y9d1KC0n?si=dbb80ea34d434f1f&nd=1) - Nuestro Día
-2. [Publicar o Perecer: DeSci-Ciencia Descentralizada](https://paideiastudio.net/tag/publicar-o-perecer/) - Paideia Studio
+1. [Cinco Minutos al futuro: DeSci](https://open.spotify.com/episode/0gaoq6ZZP4zhz9y9d1KC0n?si=dbb80ea34d434f1f&nd=1) - Nuestro Día.
+2. [Publicar o Perecer: DeSci-Ciencia Descentralizada](https://paideiastudio.net/tag/publicar-o-perecer/) - Paideia Studio.
    
   
   ---
@@ -262,14 +262,14 @@ Stencel, A. [Science and Web3: Do non-fungible tokens (NFTs) provide a way to de
   
 #### Videos
   
-1. [What is DeSci (Decentralized Science)?](https://www.youtube.com/watch?v=W93QzWdHYyM&t=54s) - Phas3
-2. [Schelling Point Bogota 2022](https://www.youtube.com/playlist?list=PLvTrX8LNPbPnH3RUVw1_yJ_VHgPSmkQ4T) - Gitcoin Media
-3. [Exploring DeSci Through The Lens of Public Goods and Impact DAOs](https://www.youtube.com/watch?v=X5lhIsd83vg) - Gitcoin Media
-4. [DeSci Meets ReFi: Quantifying Marine Biodiversity](https://www.youtube.com/watch?v=SX-Al5Yo6Nk) - Gordon Gould (New Atlantis) at IPFS Camp 2022
-5. [LabDAO (DeSci, LabDAO Overview, Partnership, etc.)](https://www.youtube.com/watch?v=ebA2yPHQ_cI&t=110s) - Niklas Rindtorff (LabDAO) at IPFS Camp 2022
-6. [¿Qué es la ciencia descentralizada? DeSci explicado](https://www.youtube.com/watch?v=-DeMklVWNdA) - CoinMarketCap
-7. [La DeSci (Science Décentralisée) : un nouveau mouvement à haut potentiel ?](https://www.youtube.com/watch?v=zSttzDQ7B9k) - Coin Station
-8. [Intro a DeSci Decentralized Science 🚀 2|9|2022](https://www.youtube.com/watch?v=ijpalN226Kc) - Mujeres en Crypto
+1. [What is DeSci (Decentralized Science)?](https://www.youtube.com/watch?v=W93QzWdHYyM&t=54s) - Phas3.
+2. [Schelling Point Bogota 2022](https://www.youtube.com/playlist?list=PLvTrX8LNPbPnH3RUVw1_yJ_VHgPSmkQ4T) - Gitcoin Media.
+3. [Exploring DeSci Through The Lens of Public Goods and Impact DAOs](https://www.youtube.com/watch?v=X5lhIsd83vg) - Gitcoin Media.
+4. [DeSci Meets ReFi: Quantifying Marine Biodiversity](https://www.youtube.com/watch?v=SX-Al5Yo6Nk) - Gordon Gould (New Atlantis) at IPFS Camp 2022.
+5. [LabDAO (DeSci, LabDAO Overview, Partnership, etc.)](https://www.youtube.com/watch?v=ebA2yPHQ_cI&t=110s) - Niklas Rindtorff (LabDAO) at IPFS Camp 2022.
+6. [¿Qué es la ciencia descentralizada? DeSci explicado](https://www.youtube.com/watch?v=-DeMklVWNdA) - CoinMarketCap.
+7. [La DeSci (Science Décentralisée) : un nouveau mouvement à haut potentiel ?](https://www.youtube.com/watch?v=zSttzDQ7B9k) - Coin Station.
+8. [Intro a DeSci Decentralized Science 🚀 2|9|2022](https://www.youtube.com/watch?v=ijpalN226Kc) - Mujeres en Crypto.
 9. [Investigación y transferencia tecnológica en longevidad y ciencia descentralizada con Estéfano](https://www.youtube.com/watch?v=X4tfnFJOz7M) - Investigando la Investigación.
   
   
