@@ -1,5 +1,4 @@
-# Awesome DeSci 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome DeSci [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome **Decentralized Science (DeSci)** resources, projects, articles and more.
 
