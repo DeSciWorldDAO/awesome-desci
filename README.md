@@ -5,7 +5,7 @@ A curated list of awesome **Decentralized Science (DeSci)** resources, projects,
 
 Please check the [contribution guidelines](https://github.com/DeSciWorldDAO/awesome-desci/blob/main/CONTRIBUTING.MD) for information on formatting and writing pull requests.
   
-## Contents
+## Content
 
 - 📅[DeSci Events calendar](#desci-calendar)
 - 🔬[Projects](#projects)
