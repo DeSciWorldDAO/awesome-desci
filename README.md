@@ -182,6 +182,9 @@ Feb; 134:104040. Epub 2019 Dec 11. PMID:31865055.
   
 #### English  
 ##### 2022
+
+Jonathan S. et al. [Distributed Ledger Technology for Open Scientists](https://thesciencecommons.substack.com/p/distributed-ledger-technology-for)
+
 Baloyan, S. [DeSci - the New Web 3 Movement to Revolutionize Scientific Research & Funding](https://hackernoon.com/desci-the-new-web-3-movement-to-revolutionize-scientific-research-and-funding)
 
 Couvat, E. [DeSci: How Can DAOs Facilitate Collaboration And Push The Open Science Movement Forward](https://coinvise.mirror.xyz/d_jTD1q4pFNXT8JwWUAp0o9TUacsBWNHr_LnRvTmivc)
