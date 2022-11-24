@@ -70,6 +70,7 @@ Find information on all DeSci past and upcoming events [here](https://www.desci.
    Etica Protocol| |Blockchain protocols, Decentralized Biotech / Biopharma|Metaverse
    Fleming Protocol| |Blockchain protocols, Decentralized Biotech / Biopharma, Science DeFi|
    Foresight Institute| |Blockchain protocols, Decentralized Biotech / Biopharma, Focused Research, Decentralized funding|North America
+   Non-Fungible Fungi|[🌐](https://www.fungiblefungi.xyz/about)|NFT Collection. Support for Psychedelic Research and Mental Health
    Frontier DAO|[🌐](https://desci.world/project/6372a3d082696c627d2f20b9)|Publishing, Focused Research, NFTs, Decentralized Funding, , Data Storage, Philantropy, Aerospace|North America
    Gene-0.eth
    GenomesDAO|[🌐](https://desci.world/project/625f65d3dcfaec643ea479a4)|Biopharma, Data Storage, NFTs|Europe
@@ -213,6 +214,10 @@ DeAngelis, A. [With cryptocurrency and NFTs, ‘decentralized science’ seeks t
 Roberts, T. [Shifting Ideas to Reality](https://aitheric.medium.com/shifting-ideas-to-reality-3796f7dafc07)
 
 Stencel, A. [Science and Web3: Do non-fungible tokens (NFTs) provide a way to democratise and increase scientific funding?](https://medium.com/@AdrianoStencel/science-and-web3-do-non-fungible-tokens-nfts-provide-a-way-to-democratise-and-increase-b57b5caa246b)
+
+##### 2019
+
+Brian Armstrong. [Ideas on how to improve scientific research](https://barmstrong.medium.com/ideas-on-how-to-improve-scientific-research-9e2e56474132)
   
 #### Spanish
 1. [Pantaleo, P. (2022) DeSci o el futuro de la Ciencia](https://paideiastudio.net/desci-o-el-futuro-de-la-ciencia/)
