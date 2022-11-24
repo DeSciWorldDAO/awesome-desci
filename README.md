@@ -27,7 +27,8 @@ Find information on all DeSci past and upcoming events [here](https://www.desci.
 ---
 
 ### Projects 
-🌐= DeSciWorld dashboard integration. Projects can be listed by filling out the form [here](https://airtable.com/shrtaKfMlH2q24lYh)
+🌐= DeSciWorld dashboard integration. 
+Projects can be integrated by filling out the form [here](https://airtable.com/shrtaKfMlH2q24lYh)
 
 | Name   |Integrations| Tags | Geographical Location|
 | -------------|-| ---------------------|-------------|
