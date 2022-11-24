@@ -70,8 +70,8 @@ Find information on all DeSci past and upcoming events [here](https://www.desci.
    Etica Protocol| |Blockchain protocols, Decentralized Biotech / Biopharma|Metaverse
    Fleming Protocol| |Blockchain protocols, Decentralized Biotech / Biopharma, Science DeFi|
    Foresight Institute| |Blockchain protocols, Decentralized Biotech / Biopharma, Focused Research, Decentralized funding|North America
-   Non-Fungible Fungi|[🌐](https://www.fungiblefungi.xyz/about)|NFT Collection. Support for Psychedelic Research and Mental Health
-   Frontier DAO|[🌐](https://desci.world/project/6372a3d082696c627d2f20b9)|Publishing, Focused Research, NFTs, Decentralized Funding, , Data Storage, Philantropy, Aerospace|North America
+   Non-Fungible Fungi||NFTs,Focused Research, Decentralized Funding
+   Frontier DAO|[🌐](https://desci.world/project/6372a3d082696c627d2f20b9)|Publishing, Focused Research, NFTs, Decentralized Funding, Data Storage, Philantropy, Aerospace|North America
    Gene-0.eth
    GenomesDAO|[🌐](https://desci.world/project/625f65d3dcfaec643ea479a4)|Biopharma, Data Storage, NFTs|Europe
    Governance Research Institute
