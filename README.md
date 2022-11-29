@@ -184,45 +184,32 @@ Feb; 134:104040. Epub 2019 Dec 11. PMID:31865055.
   
 #### English  
 ##### 2022
-
-Jonathan S. et al. [Distributed Ledger Technology for Open Scientists](https://thesciencecommons.substack.com/p/distributed-ledger-technology-for)
-
-Baloyan, S. [DeSci - the New Web 3 Movement to Revolutionize Scientific Research & Funding](https://hackernoon.com/desci-the-new-web-3-movement-to-revolutionize-scientific-research-and-funding)
-
-Couvat, E. [DeSci: How Can DAOs Facilitate Collaboration And Push The Open Science Movement Forward](https://coinvise.mirror.xyz/d_jTD1q4pFNXT8JwWUAp0o9TUacsBWNHr_LnRvTmivc)
-
-DeAngelis, A. [With cryptocurrency and NFTs, ‘decentralized science’ seeks to upend drug industry financing](https://www.statnews.com/2022/06/23/with-cryptocurrency-and-nfts-decentralized-science-seeks-to-upend-drug-industry-financing/)
-
- Demailly, A. [Introduction to DeSci](https://www.resolving-pharma.com/en/2022/05/19/introduction-desci_en/)
- 
- Ethereum Foundation [Decentralized science (DeSci)](https://ethereum.org/en/desci/)
- 
- Hamburg, S. [A Guide to DeSci, the Latest Web3 Movement](https://future.com/what-is-decentralized-science-aka-desci/)
- 
- Koepsell, D. [DeSci Origin Story](https://medium.com/coinmonks/a-desci-origin-story-b6b234f7b1a3)
- 
- Galea, K. [AIBC Intelligence: The rise of DeSci, Blockchain and the future of Research](https://aibc.world/news/aibc-intelligence-the-rise-of-desci-blockchain-and-the-future-of-research/)
- 
- Jringo. [Building Trustless Systems of Science](https://odysee.com/@jringo:4/TrustlessScience:d)
- 
- Maria Isabella. [How Do Decentralized Science (DeSci) Organizations Work?](https://www.lifespan.io/topic/how-do-decentralized-science-desci-organizations-work/)
- 
- Parasol, M. [DeSci: Can crypto improve scientific research?](https://cointelegraph.com/magazine/desci-tokens-help-improve-scientific-research/#:~:text=DeSci%20trials%20could%20be%20done,That%27s%20the%20vision.)
- 
- Pearl, J. [A Guide to Decentralized Biotech](https://future.com/a-guide-to-decentralized-biotech/)
+1. Baloyan, S. [DeSci - the New Web 3 Movement to Revolutionize Scientific Research & Funding](https://hackernoon.com/desci-the-new-web-3-movement-to-revolutionize-scientific-research-and-funding)
+2. Brodie, J. [Decentralisation is Disrupting Drug Development](https://medium.com/id-theory/decentralisation-is-disrupting-drug-development-28b5ba5d447f)
+3. Couvat, E. [DeSci: How Can DAOs Facilitate Collaboration And Push The Open Science Movement Forward](https://coinvise.mirror.xyz/d_jTD1q4pFNXT8JwWUAp0o9TUacsBWNHr_LnRvTmivc)
+4. DeAngelis, A. [With cryptocurrency and NFTs, ‘decentralized science’ seeks to upend drug industry financing](https://www.statnews.com/2022/06/23/with-cryptocurrency-and-nfts-decentralized-science-seeks-to-upend-drug-industry-financing/)
+5. Demailly, A. [Introduction to DeSci](https://www.resolving-pharma.com/en/2022/05/19/introduction-desci_en/)
+6. Ethereum Foundation [Decentralized science (DeSci)](https://ethereum.org/en/desci/)
+7. Hamburg, S. [A Guide to DeSci, the Latest Web3 Movement](https://future.com/what-is-decentralized-science-aka-desci/)
+8. Jonathan S. et al. [Distributed Ledger Technology for Open Scientists](https://thesciencecommons.substack.com/p/distributed-ledger-technology-for)
+9. Koepsell, D. [DeSci Origin Story](https://medium.com/coinmonks/a-desci-origin-story-b6b234f7b1a3)
+10. Galea, K. [AIBC Intelligence: The rise of DeSci, Blockchain and the future of Research](https://aibc.world/news/aibc-intelligence-the-rise-of-desci-blockchain-and-the-future-of-research/)
+11. Jringo. [Building Trustless Systems of Science](https://odysee.com/@jringo:4/TrustlessScience:d)
+12. Maria Isabella. [How Do Decentralized Science (DeSci) Organizations Work?](https://www.lifespan.io/topic/how-do-decentralized-science-desci-organizations-work/)
+13. Parasol, M. [DeSci: Can crypto improve scientific research?](https://cointelegraph.com/magazine/desci-tokens-help-improve-scientific-research/#:~:text=DeSci%20trials%20could%20be%20done,That%27s%20the%20vision.)
+14. Pearl, J. [A Guide to Decentralized Biotech](https://future.com/a-guide-to-decentralized-biotech/)
 
 ##### 2021
-
-Roberts, T. [Shifting Ideas to Reality](https://aitheric.medium.com/shifting-ideas-to-reality-3796f7dafc07)
-
-Stencel, A. [Science and Web3: Do non-fungible tokens (NFTs) provide a way to democratise and increase scientific funding?](https://medium.com/@AdrianoStencel/science-and-web3-do-non-fungible-tokens-nfts-provide-a-way-to-democratise-and-increase-b57b5caa246b)
+1. Roberts, T. [Shifting Ideas to Reality](https://aitheric.medium.com/shifting-ideas-to-reality-3796f7dafc07)
+2. Stencel, A. [Science and Web3: Do non-fungible tokens (NFTs) provide a way to democratise and increase scientific funding?](https://medium.com/@AdrianoStencel/science-and-web3-do-non-fungible-tokens-nfts-provide-a-way-to-democratise-and-increase-b57b5caa246b)
 
 ##### 2019
-
-Brian Armstrong. [Ideas on how to improve scientific research](https://barmstrong.medium.com/ideas-on-how-to-improve-scientific-research-9e2e56474132)
+1. Brian Armstrong. [Ideas on how to improve scientific research](https://barmstrong.medium.com/ideas-on-how-to-improve-scientific-research-9e2e56474132)
   
 #### Spanish
 1. [Pantaleo, P. (2022) DeSci o el futuro de la Ciencia](https://paideiastudio.net/desci-o-el-futuro-de-la-ciencia/)
+2. [La Diaria (2022) Hacer ciencia en el mundo crypto](https://ladiaria.com.uy/economia/articulo/2022/11/hacer-ciencia-en-el-mundo-crypto/)
+3. [La Diaria (2022) Financiamiento cuatrático: el futuro de los bienes públicos](https://ladiaria.com.uy/economia/articulo/2022/9/financiamiento-cuadratico-el-futuro-de-los-bienes-publicos/)
 
 
 ---
