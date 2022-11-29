@@ -11,6 +11,7 @@ Please check the [contribution guidelines](https://github.com/DeSciWorldDAO/awes
 - 📄[Scientific papers](#scientific-papers)
 - 📰[Articles](#articles)   
 - ✏️[Blogs](#blogs)
+- 🗞️[Newsletters](#newsletters)
 - 🎙️[Podcasts](#podcasts)
 - ▶️[YouTube](#youtube)
 - 💬[Telegram groups](#telegram-groups)
@@ -228,7 +229,11 @@ Brian Armstrong. [Ideas on how to improve scientific research](https://barmstron
 ### Blogs
 1. [FrontierDAO](https://mirror.xyz/0x4A35674727c44cf4375d80C6171281Ba2f764213)
 2. [Crypto Altruism](https://www.cryptoaltruism.org/)
-  
+
+### Newsletters
+
+#### Spanish
+1. [DeSciReport](https://mirror.xyz/0x4220AD4D0A88892417D7726211D2ba9AA8c4640C)
   
   ---
 ### Podcasts
