@@ -39,6 +39,7 @@ Projects can be integrated by filling out the form [here](https://airtable.com/s
    AthenaDAO ||Focused Research, Decentralized Funding, Decentralized Biotech, Biopharma, Women Reproductive Health|North America
    Avano (Panvala league)||Decentralized Monitoring, Reporting and Verification (dMRV) Systems, NFTs| Metaverse
    AxonDAO|[🌐](https://desci.world/project/62cb980abc63adff7b602bd2)|Focused Research, NFTs, Phychedelics| North America
+   BeakerDAO
    BioDAO|[🌐](https://desci.world/project/625f65d3dcfaec643ea479a5) |Biopharma, Data storage|Metaverse 
    Blockchain BioPharma||Biopharma, NFTs|North America
    Blockchain for Science||Ecosystems, Community|Metaverse
