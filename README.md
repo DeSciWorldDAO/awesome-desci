@@ -46,7 +46,7 @@ Projects can be integrated by filling out the form [here](https://airtable.com/s
    Bloxberg||Ecosystems, Blockchain protocols|Europe
    Braid Science||Decentralized Publishing|Metaverse
    Cannabis Genome DAO|[🌐](https://desci.world/project/637473206ef6dbcf1d58884d)|Science DeFi, Decentralized Funding, NFTs, Focused Research, Ecosystems, Publishing, Decentralized Biotech, Biopharma|North America
-   ClimeCheck|)[🌐](https://desci.world/project/637fa17f33c2a94ed2a08a8d)|Ecosystems, Publishing, Focused Research, Decentralized Funding, Philanthropy, Data Storage|
+   ClimeCheck|[🌐](https://desci.world/project/637fa17f33c2a94ed2a08a8d)|Ecosystems, Publishing, Focused Research, Decentralized Funding, Philanthropy, Data Storage|
    CRISPR DAO
    Crowd Funded Cures|[🌐](https://desci.world/project/62db3b8fc1807e671021c571)|Biopharma, Decentralized funding|North America
    CrunchDAO|[🌐](https://desci.world/project/632552b0de4422cf89b69abb)|Science DeFi|Metaverse 
