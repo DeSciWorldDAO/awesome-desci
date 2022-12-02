@@ -63,7 +63,7 @@ Projects can be integrated by filling out the form [here](https://airtable.com/s
    DeSciLATAM
    DeSci Italia
    DeSci Collective|[🌐](https://desci.world/project/6333d46989588cc81d14039b)|Ecosystems, Decentralized Funding, NFTs, Focused Research, Science DeFi|Europe
-   DeScier
+   DeScier||Ecosystems, Decentralized Funding, NFTs,|
    DeSci Foundation|[🌐](https://desci.world/project/62db6ffbc1807e671021c573)|Ecosystems, Decentralized Funding|Europe
    DeSci Labs|[🌐](https://desci.world/project/62db3a87c1807e671021c570)|Ecosystems, Publishing, Blockchain protocols|Europe
    DeSciWorld|[🌐](https://desci.world/)|Ecosystems, Community, NFTs, Decentralized Funding|Europe
