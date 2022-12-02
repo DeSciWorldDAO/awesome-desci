@@ -36,7 +36,7 @@ Projects can be integrated by filling out the form [here](https://airtable.com/s
    Abakhus|[🌐](https://desci.world/project/637277ad1503962283965fa2)|Ecosystems, Data Storage, Blockchain protocols | Latin America
    Algovera |[🌐](https://desci.world/project/637264412a9e2b5f7b9d8347)|Decentralized Funding, Ecosystems, Data Storage|Europe
    AntidoteDAO||Focused Research, Decentralized Funding, Decentralized Biotech, Biopharma, NFTs, Cancer|North America
-   AthenaDAO ||Focused Research, Decentralized Funding, Decentralized Biotech, Biopharma, Women Reproductive Health|North America
+   AthenaDAO |[🌐](https://desci.world/project/637fba0ed8bc982d8c730754)|Focused Research, Decentralized Funding, Decentralized Biotech, Biopharma, Women Reproductive Health|North America
    Avano (Panvala league)||Decentralized Monitoring, Reporting and Verification (dMRV) Systems, NFTs| Metaverse
    AxonDAO|[🌐](https://desci.world/project/62cb980abc63adff7b602bd2)|Focused Research, NFTs, Phychedelics| North America
    BeakerDAO
