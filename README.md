@@ -55,7 +55,7 @@ Projects can be integrated by filling out the form [here](https://airtable.com/s
    DAO Research Collective
    DATA LAKE|[🌐](https://desci.world/project/635371309809da2300334312)|Science DeFi, Ecosystems|Europe
    DB DAO |[🌐](https://desci.world/project/6375416a4cedb58de3847c3e)|Data storage
-   Decentralized Science
+   Decentralized Science||Decentralized publishing, Decentralized Identity|
    DeSci Africa|[🌐](https://desci.world/project/635b54db0b57f22ac9a041d9)|Ecosystems, Philantropy, Community| Africa
    DeSci Brazil
    DeSci China
