@@ -53,7 +53,6 @@ Projects can be integrated by filling out the form [here](https://airtable.com/s
    Crypto, Culture, & Society
    CureDAO
    DAO Research Collective
-   DAOstewards
    DATA LAKE|[🌐](https://desci.world/project/635371309809da2300334312)|Science DeFi, Ecosystems|Europe
    DB DAO |[🌐](https://desci.world/project/6375416a4cedb58de3847c3e)|Data storage
    Decentralized Science
