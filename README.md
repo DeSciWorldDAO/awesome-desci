@@ -191,13 +191,14 @@ Feb; 134:104040. Epub 2019 Dec 11. PMID:31865055.
 5. Demailly, A. [Introduction to DeSci](https://www.resolving-pharma.com/en/2022/05/19/introduction-desci_en/)
 6. Ethereum Foundation [Decentralized science (DeSci)](https://ethereum.org/en/desci/)
 7. Hamburg, S. [A Guide to DeSci, the Latest Web3 Movement](https://future.com/what-is-decentralized-science-aka-desci/)
-8. Jonathan S. et al. [Distributed Ledger Technology for Open Scientists](https://thesciencecommons.substack.com/p/distributed-ledger-technology-for)
+8. Jonathan, S. et al. [Distributed Ledger Technology for Open Scientists](https://thesciencecommons.substack.com/p/distributed-ledger-technology-for)
 9. Koepsell, D. [DeSci Origin Story](https://medium.com/coinmonks/a-desci-origin-story-b6b234f7b1a3)
 10. Galea, K. [AIBC Intelligence: The rise of DeSci, Blockchain and the future of Research](https://aibc.world/news/aibc-intelligence-the-rise-of-desci-blockchain-and-the-future-of-research/)
 11. Jringo. [Building Trustless Systems of Science](https://odysee.com/@jringo:4/TrustlessScience:d)
 12. Maria Isabella. [How Do Decentralized Science (DeSci) Organizations Work?](https://www.lifespan.io/topic/how-do-decentralized-science-desci-organizations-work/)
 13. Parasol, M. [DeSci: Can crypto improve scientific research?](https://cointelegraph.com/magazine/desci-tokens-help-improve-scientific-research/#:~:text=DeSci%20trials%20could%20be%20done,That%27s%20the%20vision.)
 14. Pearl, J. [A Guide to Decentralized Biotech](https://future.com/a-guide-to-decentralized-biotech/)
+15. Ding, W. et al. [DeSci based on Web3 and DAO: A comprehensive overview and reference model](https://ieeexplore.ieee.org/abstract/document/9906878)
 
 ##### 2021
 1. Roberts, T. [Shifting Ideas to Reality](https://aitheric.medium.com/shifting-ideas-to-reality-3796f7dafc07)
