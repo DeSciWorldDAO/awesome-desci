@@ -198,6 +198,7 @@ Feb; 134:104040. Epub 2019 Dec 11. PMID:31865055.
 12. Maria Isabella. [How Do Decentralized Science (DeSci) Organizations Work?](https://www.lifespan.io/topic/how-do-decentralized-science-desci-organizations-work/)
 13. Parasol, M. [DeSci: Can crypto improve scientific research?](https://cointelegraph.com/magazine/desci-tokens-help-improve-scientific-research/#:~:text=DeSci%20trials%20could%20be%20done,That%27s%20the%20vision.)
 14. Pearl, J. [A Guide to Decentralized Biotech](https://future.com/a-guide-to-decentralized-biotech/)
+15. Nuñez-Inzunza, R.A. [State of the Art: A DeSci Crypto Biome](https://mirror.xyz/cryptobenthic%F0%9F%90%A0.eth/VPekPDF5fqOdbVPSwpRfqv0KimI_208fbTbq5eRGk_4)
 
 ##### 2021
 1. Roberts, T. [Shifting Ideas to Reality](https://aitheric.medium.com/shifting-ideas-to-reality-3796f7dafc07)
