@@ -67,7 +67,7 @@ Projects can be integrated by filling out the form [here](https://airtable.com/s
    DeSci Foundation|[🌐](https://desci.world/project/62db6ffbc1807e671021c573)|Ecosystems, Decentralized Funding|Europe
    DeSci Labs|[🌐](https://desci.world/project/62db3a87c1807e671021c570)|Ecosystems, Publishing, Blockchain protocols|Europe
    DeSciWorld|[🌐](https://desci.world/)|Ecosystems, Community, NFTs, Decentralized Funding|Europe
-   DNAVerse|🌐|Decentralized Biotech / Biopharma, NFTs, Science DeFi|Europe
+   DNAVerse|[🌐](https://desci.world/project/637f9b0c007d8aa5b4f75601)|Decentralized Biotech / Biopharma, NFTs, Science DeFi|Europe
    EncrypGen, Inc.|[🌐](https://desci.world/project/62db3986c1807e671021c56e)|Blockchain protocols, Decentralized Biotech / Biopharma, Science DeFi|North America
    Etica Protocol| |Blockchain protocols, Decentralized Biotech / Biopharma|Metaverse
    Fleming Protocol| |Blockchain protocols, Decentralized Biotech / Biopharma, Science DeFi|
@@ -82,10 +82,11 @@ Projects can be integrated by filling out the form [here](https://airtable.com/s
    Grow Your Own Cloud (GYOC)
    HairDAO|[🌐](https://desci.world/project/630ac8f4900d8f427a2e95e6)|Science DeFi, Decentralized Biotech / Biopharma, Focused Research, hair loss|Metaverse
    Happily Ever After|[🌐](https://desci.world/project/635b53500b57f22ac9a041d7)|Ecosystems|Asia
-   Health X Change|🌐|Ecosystems, NFTs, Science DeFi, Philantropy, medical data|North America
+   Health X Change|[🌐](https://desci.world/project/63753e0c2eebee6964698612)|Ecosystems, NFTs, Science DeFi, Philantropy, medical data|North America
    Hivemapper
    IberoAm| |Ecosystems, Community, Philantropy|Latin America
    IndyGeneUS-AI
+   inTheory |[🌐](https://desci.world/project/635b53500b57f22ac9a041d7)|NFTs, Decentralized Funding, Science DeFi|North America
    INTLEKT Metadata Inc.
    IUCN - Porini Foundation
    Just One Giant Lab
@@ -95,10 +96,11 @@ Projects can be integrated by filling out the form [here](https://airtable.com/s
    Llama
    LunCo|[🌐](https://desci.world/project/63712331f4001346b22e6caf)|Engineering Software, Data Storage, Ecosystems, Space Simulators|Metaverse
    LYNX Technology
-   MedDAO|🌐|Decentralized Biotech / Biopharma, Ecosystems, NFTs, Decentralized Funding, Blockchain protocols, Science DeFi|North America
+   MedDAO|[🌐](https://desci.world/project/637d260860e4e8a680af9587)|Decentralized Biotech / Biopharma, Ecosystems, NFTs, Decentralized Funding, Blockchain protocols, Science DeFi|North America
    Medical.watch|[🌐](https://desci.world/project/62db3a33c1807e671021c56f)|Ecosystems, Data Storage, Decentralized Biotech, Biopharma|North America
    Metagov DAO
    Molecule DAO||Decentralized Biotech / Biopharma, NFTs, Decentralized Funding, Blockchain protocols|Europe
+   Moon DAO|[🌐](https://desci.world/project/63891afc51a8d557291808b3)| Science DeFi, Philanthropy, Ecosystems|
    NeuraDAO
    New Atlantis|[🌐](https://desci.world/project/635b54710b57f22ac9a041d8)|Decentralized Biotech / Biopharma, Data Storage, Science DeF, Ocean Restoration|North America
    Open NMN
@@ -112,18 +114,19 @@ Projects can be integrated by filling out the form [here](https://airtable.com/s
    PsyDAO
    Qcentroid|[🌐](https://desci.world/project/63255561de4422cf89b69abd)|Science DeFi, Ecosystems|Europe
    Quartz Open Access
+   Reputable DAO|[🌐](https://desci.world/project/638faed33eae12118581553ed)|Ecosystems, NFTs, Data Storage |
    Research DAO
    Research Hub| |Ecosystems, Publishing|Metaverse
    RnDAO
    Scholar Contributor DAO
    Sci 3
-   Sci-net
+   Scinet|[🌐](https://desci.world/project/639a76d3aa9f9775aaa1d631)|North America
    sci2sci|[🌐](https://desci.world/project/6333d5b589588cc81d14039e)|Ecosystems, Publishing, Data Storage|Europe
    SciDAO|[🌐](https://desci.world/project/63255463de4422cf89b69abc)|Publishing, NFTs, Blockchain protocols, Science DeFi|Latin America
    Science DAO
    Science Fund
    Scriptus App
-   Seeds of Science
+   Seeds of Science|[🌐](https://desci.world/project/639a7b12aa9f9775aaa1d6f9)|Publishing|Metaverse
    Smart Contract Research Forum
    TalentDAO
    The DeSci Academy
@@ -136,6 +139,7 @@ Projects can be integrated by filling out the form [here](https://airtable.com/s
    VitaDAO|[🌐](https://desci.world/project/625fb37edcfaec643ea479aa)|Biopharma, Science DeFi, Philantropy|Europe
    Weavechain|[🌐](https://desci.world/project/625f65d3dcfaec643ea479a8)|Data storage, Blockchain protocols|North America
    Web3 Women in Science|[🌐](https://desci.world/project/63746508cabb12576663d18d)|Focused Research, Philantropy, Ecosystems|North America
+   WeedWorks|[🌐](https://desci.world/project/63975df7527b85bd9e2043c9)|Focused Research|North America
   
  
  
