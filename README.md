@@ -43,7 +43,7 @@ Projects can be integrated by filling out the form [here](https://airtable.com/s
    BioDAO|[🌐](https://desci.world/project/625f65d3dcfaec643ea479a5) |Biopharma, Data storage|Metaverse 
    Blockchain BioPharma||Biopharma, NFTs|North America
    Blockchain for Science||Ecosystems, Community|Metaverse
-   Bloxberg||Ecosystems, Blockchain protocols|Europe
+   Bloxberg|[🌐](https://desci.world/project/63b2fe30cb05b6965f411817)|Ecosystems, Blockchain protocols|Europe
    Braid Science||Decentralized Publishing|Metaverse
    Cannabis Genome DAO|[🌐](https://desci.world/project/637473206ef6dbcf1d58884d)|Science DeFi, Decentralized Funding, NFTs, Focused Research, Ecosystems, Publishing, Decentralized Biotech, Biopharma|North America
    ClimeCheck|[🌐](https://desci.world/project/637fa17f33c2a94ed2a08a8d)|Ecosystems, Publishing, Focused Research, Decentralized Funding, Philanthropy, Data Storage|
@@ -54,6 +54,7 @@ Projects can be integrated by filling out the form [here](https://airtable.com/s
    CureDAO
    DAO Research Collective
    DATA LAKE|[🌐](https://desci.world/project/635371309809da2300334312)|Science DeFi, Ecosystems|Europe
+   Datatera|[🌐](https://desci.world/project/639cdc069948fdc2efc22c45)|Ecosystems, Decentralized biotech, Biopharma, Data Storage|Europe
    DB DAO |[🌐](https://desci.world/project/6375416a4cedb58de3847c3e)|Data storage
    Decentralized Science||Decentralized publishing, Decentralized Identity|
    DeSci Africa|[🌐](https://desci.world/project/635b54db0b57f22ac9a041d9)|Ecosystems, Philantropy, Community| Africa
@@ -92,7 +93,8 @@ Projects can be integrated by filling out the form [here](https://airtable.com/s
    Just One Giant Lab
    LabDAO|[🌐](https://desci.world/project/625f65d3dcfaec643ea479a7)|Decentralized Biotech / Biopharma, Decentralized Funding, Focused Research, NFTs, Data Storage, Blockchain protocols, Ecosystems|Metaverse 
    Ledgerback Digital Commons Research Cooperative
-   LIberate Science
+   Liberate Science
+   Lifespan.io|[🌐](https://desci.world/project/63b327e3cb05b6965f411ce1)|Decentralized Biotech / Biopharma, Decentralized Funding, Focused Research, NFTs, Philanthropy, Ecosystems|North America 
    Llama
    LunCo|[🌐](https://desci.world/project/63712331f4001346b22e6caf)|Engineering Software, Data Storage, Ecosystems, Space Simulators|Metaverse
    LYNX Technology
@@ -114,11 +116,12 @@ Projects can be integrated by filling out the form [here](https://airtable.com/s
    PsyDAO
    Qcentroid|[🌐](https://desci.world/project/63255561de4422cf89b69abd)|Science DeFi, Ecosystems|Europe
    Quartz Open Access
-   Reputable DAO|[🌐](https://desci.world/project/638faed33eae12118581553ed)|Ecosystems, NFTs, Data Storage |
+   Reputable DAO|[🌐](https://desci.world/project/638faed33eae12118581553ed)|Ecosystems, NFTs, Data Storage |North America
    Research DAO
-   Research Hub| |Ecosystems, Publishing|Metaverse
+   Research Hub|[🌐](https://desci.world/project/63b315ebcb05b6965f411886) |Ecosystems, Publishing|Metaverse
    RnDAO
-   Scholar Contributor DAO
+   Retrox|[🌐](https://desci.world/project/63b31cb4cb05b6965f411964) |Ecosystems, Publishing, Decentralized Funding, Data Storage|Europe
+   Scholar|[🌐](https://desci.world/project/63b3205dcb05b6965f411a41) |Publishing|North America
    Sci 3
    Scinet|[🌐](https://desci.world/project/639a76d3aa9f9775aaa1d631)|North America
    sci2sci|[🌐](https://desci.world/project/6333d5b589588cc81d14039e)|Ecosystems, Publishing, Data Storage|Europe
