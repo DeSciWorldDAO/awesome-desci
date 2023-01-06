@@ -1,5 +1,4 @@
 # Awesome DeSci [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
-
 A curated list of awesome **Decentralized Science (DeSci)** resources, projects, articles and more.
 
 Please check the [contribution guidelines](https://github.com/DeSciWorldDAO/awesome-desci/blob/main/CONTRIBUTING.MD) for information on formatting and writing pull requests.
@@ -15,9 +14,6 @@ Please check the [contribution guidelines](https://github.com/DeSciWorldDAO/awes
 - ▶️[YouTube](#youtube)
 - 💬[Telegram groups](#telegram-groups)
 - 🛠️[Jobs](#jobs)
-
-
-
 
 ---
 
