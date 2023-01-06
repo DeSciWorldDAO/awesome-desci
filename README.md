@@ -83,7 +83,7 @@ Projects can be integrated by filling out the form [here](https://airtable.com/s
    Hivemapper
    IberoAm| |Ecosystems, Community, Philantropy|Latin America
    IndyGeneUS-AI
-   inTheory |[🌐]([https://desci.world/project/635b53500b57f22ac9a041d7](https://desci.world/project/639cd7f991a8578d9f110ff4))|NFTs, Decentralized Funding, Science DeFi|North America
+   inTheory |[🌐](https://desci.world/project/639cd7f991a8578d9f110ff4)|NFTs, Decentralized Funding, Science DeFi|North America
    INTLEKT Metadata Inc.
    IUCN - Porini Foundation
    Just One Giant Lab
