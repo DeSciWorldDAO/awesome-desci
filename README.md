@@ -1,10 +1,10 @@
- # Awesome DeSci [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+# Awesome DeSci [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 A curated list of awesome **Decentralized Science (DeSci)** resources, projects, articles and more.
 
 Please check the [contribution guidelines](https://github.com/DeSciWorldDAO/awesome-desci/blob/main/CONTRIBUTING.MD) for information on formatting and writing pull requests.
   
-  ## Contents
+ ## Contents
 
 - 📅[DeSci Events calendar](#desci-calendar)
 - 🔬[Projects](#projects)
@@ -16,7 +16,7 @@ Please check the [contribution guidelines](https://github.com/DeSciWorldDAO/awes
 - ▶️[YouTube](#youtube)
 - 💬[Telegram groups](#telegram-groups)
 - 🛠️[Jobs](#jobs)
-- 📖[DeScitionary](#desci-dictionary)
+
 
 
 
@@ -295,6 +295,4 @@ Find information on DeSci jobs listings and seeking [here](https://discord.gg/Fr
 6. [GR15 Space Founders](https://t.me/gr15_space)
 
 ---
-### DeScitionary
 
-Coming soon 🙂
