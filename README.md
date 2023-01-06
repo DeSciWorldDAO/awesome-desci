@@ -4,7 +4,8 @@ A curated list of awesome **Decentralized Science (DeSci)** resources, projects,
 Please check the [contribution guidelines](https://github.com/DeSciWorldDAO/awesome-desci/blob/main/CONTRIBUTING.MD) for information on formatting and writing pull requests.
   
 ## Contents
-- 📅[DeSci Events calendar](#desci-calendar)
+
+- 📅[DeSci Calendar](#desci-calendar)
 - 🔬[Projects](#projects)
 - 📄[Scientific papers](#scientific-papers)
 - 📰[Articles](#articles)   
@@ -17,12 +18,12 @@ Please check the [contribution guidelines](https://github.com/DeSciWorldDAO/awes
 
 ---
 
-### DeSci Calendar
+## DeSci Calendar
 Find information on all DeSci past and upcoming events [here](https://www.desci.global/)
 
 ---
 
-### Projects 
+## Projects 
 🌐= DeSciWorld dashboard integration. 
 Projects can be integrated by filling out the form [here](https://airtable.com/shrtaKfMlH2q24lYh)
 
@@ -143,7 +144,7 @@ Projects can be integrated by filling out the form [here](https://airtable.com/s
  
  
   ---
-### Scientific papers
+## Scientific papers
   **Beinke** JH, Fitte C, Teuteberg F(2019).[Towards a Stakeholder-Oriented Blockchain-Based Architecture for Electronic Health Records: Design Science Research Study](10.2196/13585). J Med Internet Res. 2019 Oct 7;21(10):e13585. PMID: 31593548; PMCID: PMC6914222.
   
   **Coelho** FC, Brandão A. (2019) [Decentralising scientific publishing: can the blockchain improve science communication?](https://www.scielo.br/j/mioc/a/pGbLcFHfhKGvXvTYPcGrfWw/abstract/?lang=en) Mem Inst Oswaldo Cruz. 2019;114:e190257. doi: 10.1590/0074-02760190257. PMID: 31432893; PMCID: PMC6701880. 
@@ -182,7 +183,7 @@ Feb; 134:104040. Epub 2019 Dec 11. PMID:31865055.
     
 ---
   
-### Articles
+## Articles
   
 #### English  
 ##### 2022
@@ -216,19 +217,19 @@ Feb; 134:104040. Epub 2019 Dec 11. PMID:31865055.
 
 
 ---
-### Blogs
+## Blogs
 1. [Molecule](https://www.molecule.to/blog)
 2. [Crypto Altruism](https://www.cryptoaltruism.org/)
 3. [FrontierDAO](https://mirror.xyz/0x4A35674727c44cf4375d80C6171281Ba2f764213)
 
 
-### Newsletters
+## Newsletters
 
 #### Spanish
 1. [DeSciReport](https://mirror.xyz/0x4220AD4D0A88892417D7726211D2ba9AA8c4640C)
   
   ---
-### Podcasts
+## Podcasts
   
 #### English
 1. [The DeSci Podcast](https://linktr.ee/thedescipodcast) - Molecule.
@@ -244,7 +245,7 @@ Feb; 134:104040. Epub 2019 Dec 11. PMID:31865055.
    
   
   ---
-### YouTube 
+## YouTube 
   
 #### Channels
   
@@ -273,14 +274,8 @@ Feb; 134:104040. Epub 2019 Dec 11. PMID:31865055.
 7. [La DeSci (Science Décentralisée) : un nouveau mouvement à haut potentiel ?](https://www.youtube.com/watch?v=zSttzDQ7B9k) - Coin Station.
 8. [Intro a DeSci Decentralized Science 🚀 2|9|2022](https://www.youtube.com/watch?v=ijpalN226Kc) - Mujeres en Crypto.
 9. [Investigación y transferencia tecnológica en longevidad y ciencia descentralizada con Estéfano](https://www.youtube.com/watch?v=X4tfnFJOz7M) - Investigando la Investigación.
-  
-  
----
-### Jobs
-Find information on DeSci jobs listings and seeking [here](https://discord.gg/Frmu3bGPkz)
 
----
-#### Telegram groups
+## Telegram groups
 
 1. [BlockchainForScience](https://t.me/BlockchainForScience)
 2. [DeSci Boston](https://t.me/desci_boston)
@@ -288,6 +283,10 @@ Find information on DeSci jobs listings and seeking [here](https://discord.gg/Fr
 4. [DeSci London](https://t.me/DeSciLondon)
 5. [DeSciOnPolygon](https://t.me/DeSciOnPolygon)
 6. [GR15 Space Founders](https://t.me/gr15_space)
+
+---
+## Jobs
+Find information on DeSci jobs listings and seeking [here](https://discord.gg/Frmu3bGPkz)
 
 ---
 
