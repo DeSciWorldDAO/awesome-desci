@@ -225,6 +225,9 @@ Feb; 134:104040. Epub 2019 Dec 11. PMID:31865055.
 
 ## Newsletters
 
+#### English
+1. [BowTiedBiotech](https://bowtiedbiotech.substack.com/)
+
 #### Spanish
 1. [DeSciReport](https://mirror.xyz/0x4220AD4D0A88892417D7726211D2ba9AA8c4640C)
   
