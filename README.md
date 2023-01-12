@@ -29,7 +29,7 @@ Projects can be integrated by filling out the form [here](https://airtable.com/s
 
 | Name   |Integrations| Tags | Geographical Location|
 | -------------|-| ---------------------|-------------|
-   Abakhus|[🌐](https://desci.world/project/637277ad1503962283965fa2)|Ecosystems, Data Storage, Blockchain protocols | Latin America
+   [Abakhus](https://github.com/DeSciWorldDAO/dashboard-abakhus/tree/main)|[🌐](https://desci.world/project/637277ad1503962283965fa2)|Ecosystems, Data Storage, Blockchain protocols | Latin America
    Algovera |[🌐](https://desci.world/project/637264412a9e2b5f7b9d8347)|Decentralized Funding, Ecosystems, Data Storage|Europe
    AntidoteDAO||Focused Research, Decentralized Funding, Decentralized Biotech, Biopharma, NFTs, Cancer|North America
    AthenaDAO |[🌐](https://desci.world/project/637fba0ed8bc982d8c730754)|Focused Research, Decentralized Funding, Decentralized Biotech, Biopharma, Women Reproductive Health|North America
