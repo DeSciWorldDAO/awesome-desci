@@ -31,7 +31,7 @@ Find information on all DeSci past and upcoming events [here](https://www.desci.
    [Algovera](https://www.algovera.ai/) [🌐](https://desci.world/project/637264412a9e2b5f7b9d8347)|Decentralized Funding, Ecosystems, Data Storage|Europe
    [AntidoteDAO](https://www.antidotedao.org/)[🌐](https://desci.world/project/63b3239acb05b6965f411b32)|Focused Research, Decentralized Funding, Decentralized Biotech, Biopharma, NFTs, Cancer|North America
    [AthenaDAO](https://www.athenadao.co/)[🌐](https://desci.world/project/637fba0ed8bc982d8c730754)|Focused Research, Decentralized Funding, Decentralized Biotech, Biopharma, Women Reproductive Health|North America
-   [Avano](http://akornmarketplace.org/)|Decentralized Monitoring, Reporting and Verification (dMRV) Systems, NFTs| Metaverse
+   [Avano](https://linktr.ee/Avano_io)|Decentralized Monitoring, Reporting and Verification (dMRV) Systems, NFTs| Metaverse
    [AxonDAO](https://www.axondao.io/)[🌐](https://desci.world/project/62cb980abc63adff7b602bd2)|Focused Research, NFTs, Phychedelics| North America
    BeakerDAO
    [BioDAO](https://www.biodao.xyz/)[🌐](https://desci.world/project/625f65d3dcfaec643ea479a5) |Biopharma, Data storage|Metaverse 
@@ -39,20 +39,18 @@ Find information on all DeSci past and upcoming events [here](https://www.desci.
    Blockchain for Science|Ecosystems, Community|Metaverse
    [Bloxberg](https://bloxberg.org/)[🌐](https://desci.world/project/63b2fe30cb05b6965f411817)|Ecosystems, Blockchain protocols|Europe
    Braid Science|Decentralized Publishing|Metaverse
-   Cannabis Genome DAO|[🌐](https://desci.world/project/637473206ef6dbcf1d58884d)|Science DeFi, Decentralized Funding, NFTs, Focused Research, Ecosystems, Publishing, Decentralized Biotech, Biopharma|North America
-   ClimeCheck|[🌐](https://desci.world/project/637fa17f33c2a94ed2a08a8d)|Ecosystems, Publishing, Focused Research, Decentralized Funding, Philanthropy, Data Storage|
-   CRISPR DAO
-   Crowd Funded Cures|[🌐](https://desci.world/project/62db3b8fc1807e671021c571)|Biopharma, Decentralized funding|North America
-   CrunchDAO|[🌐](https://desci.world/project/632552b0de4422cf89b69abb)|Science DeFi|Metaverse 
-   Crypto, Culture, & Society
-   CureDAO
-   DAO Research Collective
-   DATA LAKE|[🌐](https://desci.world/project/635371309809da2300334312)|Science DeFi, Ecosystems|Europe
-   Datatera|[🌐](https://desci.world/project/639cdc069948fdc2efc22c45)|Ecosystems, Decentralized biotech, Biopharma, Data Storage|Europe
-   DB DAO |[🌐](https://desci.world/project/6375416a4cedb58de3847c3e)|Data storage
-   Decentralized Science||Decentralized publishing, Decentralized Identity|
-   DeSci Africa|[🌐](https://desci.world/project/635b54db0b57f22ac9a041d9)|Ecosystems, Philantropy, Community| Africa
-   DeSci Brazil
+   [Cannabis Genome DAO](https://cannabisgeno.me/)[🌐](https://desci.world/project/637473206ef6dbcf1d58884d)|Science DeFi, Decentralized Funding, NFTs, Focused Research, Ecosystems, Publishing, Decentralized Biotech, Biopharma|North America
+   [ClimeCheck](https://climecheck.org/)[🌐](https://desci.world/project/637fa17f33c2a94ed2a08a8d)|Ecosystems, Publishing, Focused Research, Decentralized Funding, Philanthropy, Data Storage|
+   [CRISPR DAO](https://mobile.twitter.com/crisprdao)|Community|North America
+   [Crowd Funded Cures](https://crowdfundedcures.org/)[🌐](https://desci.world/project/62db3b8fc1807e671021c571)|Biopharma, Decentralized funding|North America
+   [CrunchDAO](https://www.crunchdao.com/)[🌐](https://desci.world/project/632552b0de4422cf89b69abb)|Science DeFi|Metaverse 
+   [CureDAO](https://www.curedao.org/)|Biopharma, Philanthropy|Metaverse 
+   [DATA LAKE](https://data-lake.co/)[🌐](https://desci.world/project/635371309809da2300334312)|Science DeFi, Ecosystems|Europe
+   [Datatera](https://www.datatera.se/)[🌐](https://desci.world/project/639cdc069948fdc2efc22c45)|Ecosystems, Decentralized biotech, Biopharma, Data Storage|Europe
+   [DB DAO](https://www.dbdao.xyz/)[🌐](https://desci.world/project/6375416a4cedb58de3847c3e)|Data storage
+   [Decentralized Science](https://decentralized.science/)|Decentralized publishing, Decentralized Identity|Europe
+   [DeSci Africa](https://mirror.xyz/0xcE75b62f12ae1F891bA6222c52a630aa36127142/ysCdhI9uUxMEOfuWoWv1xSWKRCWho7wD8BIJl7tOMrM)[🌐](https://desci.world/project/635b54db0b57f22ac9a041d9)|Ecosystems, Philantropy, Community| Africa
+   [DeSci Brazil](https://mobile.twitter.com/DeSciBrazil)| Community| America
    DeSci China
    DeSci Japan
    DeSciLATAM
