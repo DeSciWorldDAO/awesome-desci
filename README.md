@@ -24,23 +24,21 @@ Find information on all DeSci past and upcoming events [here](https://www.desci.
 ---
 
 ## Projects 
-🌐= DeSciWorld dashboard integration. 
-Projects can be integrated by filling out the form [here](https://airtable.com/shrtaKfMlH2q24lYh)
 
-| Name   |Integrations| Tags | Geographical Location|
-| -------------|-| ---------------------|-------------|
-   [Abakhus](https://github.com/DeSciWorldDAO/dashboard-abakhus/tree/main)|[🌐](https://desci.world/project/637277ad1503962283965fa2)|Ecosystems, Data Storage, Blockchain protocols | Latin America
-   Algovera |[🌐](https://desci.world/project/637264412a9e2b5f7b9d8347)|Decentralized Funding, Ecosystems, Data Storage|Europe
-   AntidoteDAO||Focused Research, Decentralized Funding, Decentralized Biotech, Biopharma, NFTs, Cancer|North America
-   AthenaDAO |[🌐](https://desci.world/project/637fba0ed8bc982d8c730754)|Focused Research, Decentralized Funding, Decentralized Biotech, Biopharma, Women Reproductive Health|North America
-   Avano (Panvala league)||Decentralized Monitoring, Reporting and Verification (dMRV) Systems, NFTs| Metaverse
-   AxonDAO|[🌐](https://desci.world/project/62cb980abc63adff7b602bd2)|Focused Research, NFTs, Phychedelics| North America
+| Name   | Tags | Geographical Location|
+| -------------| ---------------------|-------------|
+   [Abakhus](https://abakhus.io/) [🌐](https://desci.world/project/637277ad1503962283965fa2)|Ecosystems, Data Storage, Blockchain protocols | Latin America
+   [Algovera](https://www.algovera.ai/) [🌐](https://desci.world/project/637264412a9e2b5f7b9d8347)|Decentralized Funding, Ecosystems, Data Storage|Europe
+   [AntidoteDAO](https://www.antidotedao.org/)[🌐](https://desci.world/project/63b3239acb05b6965f411b32)|Focused Research, Decentralized Funding, Decentralized Biotech, Biopharma, NFTs, Cancer|North America
+   [AthenaDAO](https://www.athenadao.co/)[🌐](https://desci.world/project/637fba0ed8bc982d8c730754)|Focused Research, Decentralized Funding, Decentralized Biotech, Biopharma, Women Reproductive Health|North America
+   [Avano](http://akornmarketplace.org/)|Decentralized Monitoring, Reporting and Verification (dMRV) Systems, NFTs| Metaverse
+   [AxonDAO](https://www.axondao.io/)[🌐](https://desci.world/project/62cb980abc63adff7b602bd2)|Focused Research, NFTs, Phychedelics| North America
    BeakerDAO
-   BioDAO|[🌐](https://desci.world/project/625f65d3dcfaec643ea479a5) |Biopharma, Data storage|Metaverse 
-   Blockchain BioPharma||Biopharma, NFTs|North America
-   Blockchain for Science||Ecosystems, Community|Metaverse
-   Bloxberg|[🌐](https://desci.world/project/63b2fe30cb05b6965f411817)|Ecosystems, Blockchain protocols|Europe
-   Braid Science||Decentralized Publishing|Metaverse
+   [BioDAO](https://www.biodao.xyz/)[🌐](https://desci.world/project/625f65d3dcfaec643ea479a5) |Biopharma, Data storage|Metaverse 
+   Blockchain BioPharma|Biopharma, NFTs|North America
+   Blockchain for Science|Ecosystems, Community|Metaverse
+   [Bloxberg](https://bloxberg.org/)[🌐](https://desci.world/project/63b2fe30cb05b6965f411817)|Ecosystems, Blockchain protocols|Europe
+   Braid Science|Decentralized Publishing|Metaverse
    Cannabis Genome DAO|[🌐](https://desci.world/project/637473206ef6dbcf1d58884d)|Science DeFi, Decentralized Funding, NFTs, Focused Research, Ecosystems, Publishing, Decentralized Biotech, Biopharma|North America
    ClimeCheck|[🌐](https://desci.world/project/637fa17f33c2a94ed2a08a8d)|Ecosystems, Publishing, Focused Research, Decentralized Funding, Philanthropy, Data Storage|
    CRISPR DAO
