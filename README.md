@@ -283,6 +283,8 @@ Feb; 134:104040. Epub 2019 Dec 11. PMID:31865055.
 4. [DeSci London](https://t.me/DeSciLondon)
 5. [DeSciOnPolygon](https://t.me/DeSciOnPolygon)
 6. [GR15 Space Founders](https://t.me/gr15_space)
+7. [DeSci Toronto](https://t.me/+sAZu37iQ8wszZGI5)
+8. [DeSci New York](https://t.me/+t3nHj_j_aKRiODlh)
 
 ---
 ## Jobs
