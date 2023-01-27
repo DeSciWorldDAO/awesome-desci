@@ -140,6 +140,9 @@ WeedWorks[🌐](https://desci.world/project/63975df7527b85bd9e2043c9)|Focused Re
 ## Scientific papers
   **Beinke** JH, Fitte C, Teuteberg F(2019).[Towards a Stakeholder-Oriented Blockchain-Based Architecture for Electronic Health Records: Design Science Research Study](10.2196/13585). J Med Internet Res. 2019 Oct 7;21(10):e13585. PMID: 31593548; PMCID: PMC6914222.
   
+    
+  **Coelho** R et al.(2022) [A Blockchain-Based Architecture for Trust in Collaborative Scientific Experimentation](https://www.researchgate.net/publication/364319218_A_Blockchain-Based_Architecture_for_Trust_in_Collaborative_Scientific_Experimentation) J Grid Computing 20, 35 (2022). https://doi.org/10.1007/s10723-022-09626-x
+  
   **Coelho** FC, Brandão A. (2019) [Decentralising scientific publishing: can the blockchain improve science communication?](https://www.scielo.br/j/mioc/a/pGbLcFHfhKGvXvTYPcGrfWw/abstract/?lang=en) Mem Inst Oswaldo Cruz. 2019;114:e190257. doi: 10.1590/0074-02760190257. PMID: 31432893; PMCID: PMC6701880. 
   
   **Ducrée** J et al.(2021) [Unchaining Collective Intelligence for Science, Research, and Technology Development by Blockchain-Boosted Community Participation](https://www.frontiersin.org/articles/10.3389/fbloc.2021.631648/full). Front. Blockchain 4:631648.
