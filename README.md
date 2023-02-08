@@ -50,7 +50,7 @@ Braid Science|Decentralized Publishing|Metaverse
 [Datatera](https://www.datatera.se/)[🌐](https://desci.world/project/639cdc069948fdc2efc22c45)|Ecosystems, Decentralized biotech, Biopharma, Data Storage|Europe
 [DB DAO](https://www.dbdao.xyz/)[🌐](https://desci.world/project/6375416a4cedb58de3847c3e)|Data storage
 [Decentralized Science](https://decentralized.science/)|Decentralized publishing, Decentralized Identity|Europe
-[DeSci Africa](https://mirror.xyz/0xcE75b62f12ae1F891bA6222c52a630aa36127142/ysCdhI9uUxMEOfuWoWv1xSWKRCWho7wD8BIJl7tOMrM)[🌐](https://desci.world/project/635b54db0b57f22ac9a041d9)|Ecosystems, Philantropy, Community| Africa
+[DeSci Africa](https://mirror.xyz/0xcE75b62f12ae1F891bA6222c52a630aa36127142/ysCdhI9uUxMEOfuWoWv1xSWKRCWho7wD8BIJl7tOMrM)[🌐](https://desci.world/project/635b54db0b57f22ac9a041d9)|Ecosystems, Philanthropy, Community| Africa
 [DeSci Brazil](https://mobile.twitter.com/DeSciBrazil)| Community| America
 DeSci China
 DeSci Japan
@@ -65,8 +65,8 @@ DeSci Foundation[🌐](https://desci.world/project/62db6ffbc1807e671021c573)|Eco
 [Etica Protocol](https://www.etica.io/)| |Blockchain protocols, Decentralized Biotech / Biopharma|Metaverse
 [Fleming Protocol](https://flemingprotocol.io/)| |Blockchain protocols, Decentralized Biotech / Biopharma, Science DeFi|
 [Foresight Institute](https://foresight.org/)| |Blockchain protocols, Decentralized Biotech / Biopharma, Focused Research, Decentralized funding|North America
-[Non-Fungible Fungi](https://www.fungiblefungi.xyz/)||NFTs,Focused Research, Decentralized Funding
-[Frontier DAO](https://www.frontierdao.xyz/)[🌐](https://desci.world/project/6372a3d082696c627d2f20b9)|Publishing, Focused Research, NFTs, Decentralized Funding, Data Storage, Philantropy, Aerospace|North America
+[Non-Fungible Fungi](https://www.fungiblefungi.xyz/)||NFTs, Focused Research, Decentralized Funding
+[Frontier DAO](https://www.frontierdao.xyz/)[🌐](https://desci.world/project/6372a3d082696c627d2f20b9)|Publishing, Focused Research, NFTs, Decentralized Funding, Data Storage, Philanthropy, Aerospace|North America
 Gene-0.eth
 [GenoBank](https://genobank.io/)|Genomics, Data Storage, NFTs
 [GenomesDAO](https://genomes.io/)[🌐](https://desci.world/project/625f65d3dcfaec643ea479a4)|Biopharma, Data Storage, NFTs|Europe
@@ -75,9 +75,9 @@ Governauts
 Grow Your Own Cloud (GYOC)
 [HairDAO](https://www.hairdao.xyz/)[🌐](https://desci.world/project/630ac8f4900d8f427a2e95e6)|Science DeFi, Decentralized Biotech / Biopharma, Focused Research, Hair loss|Metaverse
 [Happily Ever After](https://hea.care/)[🌐](https://desci.world/project/635b53500b57f22ac9a041d7)|Ecosystems|Asia
-[Health X Change](https://www.health-x-change.com/)[🌐](https://desci.world/project/63753e0c2eebee6964698612)|Ecosystems, NFTs, Science DeFi, Philantropy, medical data|North America
+[Health X Change](https://www.health-x-change.com/)[🌐](https://desci.world/project/63753e0c2eebee6964698612)|Ecosystems, NFTs, Science DeFi, Philanthropy, medical data|North America
 Hivemapper
-IberoAm| |Ecosystems, Community, Philantropy|Latin America
+IberoAm| |Ecosystems, Community, Philanthropy|Latin America
 [IndyGeneUS-AI](indygeneus.ai)| Genomics, Data Storage, 
 [inTheory](https://www.impact-finance.io/intheory)[🌐](https://desci.world/project/639cd7f991a8578d9f110ff4)|NFTs, Decentralized Funding, Science DeFi|North America
 INTLEKT Metadata Inc.
@@ -122,15 +122,15 @@ Seeds of Science[🌐](https://desci.world/project/639a7b12aa9f9775aaa1d6f9)|Pub
 Smart Contract Research Forum
 TalentDAO
 The DeSci Academy
-The Science Commons Initiative[🌐](https://desci.world/project/630aca18900d8f427a2e95e7)|Ecosystems, Publishing, Decentralized Funding, Blockchain protocols, Philantropy|Metaverse
-Therapoid by Open Therapeutics[🌐](https://desci.world/project/625f65d3dcfaec643ea479a6)|Ecosystems, Publishing, Philantropy|Metaverse 
+The Science Commons Initiative[🌐](https://desci.world/project/630aca18900d8f427a2e95e7)|Ecosystems, Publishing, Decentralized Funding, Blockchain protocols, Philanthropy|Metaverse
+Therapoid by Open Therapeutics[🌐](https://desci.world/project/625f65d3dcfaec643ea479a6)|Ecosystems, Publishing, Philanthropy|Metaverse 
 Ultra Rare Bio
 ValleyDAO[🌐](https://desci.world/project/62db3bd6c1807e671021c572)|Ecosystems, Decentralized Biotech / Biopharma, Focused Research, Decentralized Funding|Metaverse 
-VibeBio| |Decentralized Biotech / Biopharma, Decentralized Funding, Philantropy|Metaverse
+VibeBio| |Decentralized Biotech / Biopharma, Decentralized Funding, Philanthropy|Metaverse
 ViralCure[🌐](https://desci.world/project/6333d4ee89588cc81d14039c)|Decentralized Biotech / Biopharma, Decentralized Funding, Science DeFi, NFTs|Latin America
-VitaDAO[🌐](https://desci.world/project/625fb37edcfaec643ea479aa)|Biopharma, Science DeFi, Philantropy|Europe
+VitaDAO[🌐](https://desci.world/project/625fb37edcfaec643ea479aa)|Biopharma, Science DeFi, Philanthropy|Europe
 Weavechain[🌐](https://desci.world/project/625f65d3dcfaec643ea479a8)|Data storage, Blockchain protocols|North America
-Web3 Women in Science|[🌐](https://desci.world/project/63746508cabb12576663d18d)|Focused Research, Philantropy, Ecosystems|North America
+Web3 Women in Science|[🌐](https://desci.world/project/63746508cabb12576663d18d)|Focused Research, Philanthropy, Ecosystems|North America
 WeedWorks[🌐](https://desci.world/project/63975df7527b85bd9e2043c9)|Focused Research|North America
   
  
