@@ -15,6 +15,7 @@ Please check the [contribution guidelines](https://github.com/DeSciWorldDAO/awes
 - ▶️[YouTube](#youtube)
 - 💬[Telegram groups](#telegram-groups)
 - 🛠️[Jobs](#jobs)
+- 🕮 [DeSciWiki](#desciwiki)
 
 ---
 
@@ -292,3 +293,5 @@ Find information on DeSci jobs listings and seeking [here](https://discord.gg/Fr
 
 ---
 
+## DeSciWiki
+Find more information about the DeSci space [here](https://docs.google.com/document/u/1/d/1aQC6zn-eXflSmpts0XGE7CawbUEHwnL6o-OFXO52PTc/mobilebasic#)
