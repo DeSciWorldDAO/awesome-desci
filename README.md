@@ -29,11 +29,13 @@ Find information on all DeSci past and upcoming events [here](https://www.desci.
 | Name   | Tags | Geographical Location|
 | -------------| ---------------------|-------------|
 [Abakhus](https://abakhus.io/)[🌐](https://desci.world/project/637277ad1503962283965fa2)|Ecosystems, Data Storage, Blockchain protocols | Latin America
+[Abstrakta](https://abstrakta.org/)[🌐](https://desci.world/project/63ea4fd3add0809de0e21c38)|Ecosystems, NFTs | North America
 [Algovera](https://www.algovera.ai/)[🌐](https://desci.world/project/637264412a9e2b5f7b9d8347)|Decentralized Funding, Ecosystems, Data Storage|Europe
 [AntidoteDAO](https://www.antidotedao.org/)[🌐](https://desci.world/project/63b3239acb05b6965f411b32)|Focused Research, Decentralized Funding, Decentralized Biotech, Biopharma, NFTs, Cancer|North America
 [AthenaDAO](https://www.athenadao.co/)[🌐](https://desci.world/project/637fba0ed8bc982d8c730754)|Focused Research, Decentralized Funding, Decentralized Biotech, Biopharma, Women Reproductive Health|North America
 [Avano](https://linktr.ee/Avano_io)|Decentralized Monitoring, Reporting and Verification (dMRV) Systems, NFTs| Metaverse
 [AxonDAO](https://www.axondao.io/)[🌐](https://desci.world/project/62cb980abc63adff7b602bd2)|Focused Research, NFTs, Phychedelics| North America
+[Bacalhau](https://www.bacalhau.org/)|Decentralized Computing, Data Storage| Metaverse
 BeakerDAO
 [BioDAO](https://www.biodao.xyz/)[🌐](https://desci.world/project/625f65d3dcfaec643ea479a5) |Biopharma, Data storage|Metaverse 
 Blockchain BioPharma|Biopharma, NFTs|North America
