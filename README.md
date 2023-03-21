@@ -189,7 +189,8 @@ Feb; 134:104040. Epub 2019 Dec 11. PMID:31865055.
 ## Articles
 
 ##### 2023
-1.Rapolas [The Future Of Medicine Is Tokens](https://zeeprime.capital/the-future-of-medicine-is-tokens)
+1. Rapolas [The Future Of Medicine Is Tokens](https://zeeprime.capital/the-future-of-medicine-is-tokens).
+2. Messari.io [The Decentralized Science Ecosystem: Building a Better Research Economy](https://messari.io/report/the-decentralized-science-ecosystem-building-a-better-research-economy?referrer=all-research)
 
 ##### 2022
 1. Baloyan, S. [DeSci - the New Web 3 Movement to Revolutionize Scientific Research & Funding](https://hackernoon.com/desci-the-new-web-3-movement-to-revolutionize-scientific-research-and-funding)
@@ -290,6 +291,7 @@ Feb; 134:104040. Epub 2019 Dec 11. PMID:31865055.
 6. [GR15 Space Founders](https://t.me/gr15_space)
 7. [DeSci Toronto](https://t.me/+sAZu37iQ8wszZGI5)
 8. [DeSci New York](https://t.me/+t3nHj_j_aKRiODlh)
+9. [DeSci x Gitcoin Community](https://t.me/gitcoindesci)
 
 ---
 ## Jobs
