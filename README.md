@@ -72,6 +72,7 @@ DeSci Foundation[🌐](https://desci.world/project/62db6ffbc1807e671021c573)|Eco
 [Frontier DAO](https://www.frontierdao.xyz/)[🌐](https://desci.world/project/6372a3d082696c627d2f20b9)|Publishing, Focused Research, NFTs, Decentralized Funding, Data Storage, Philanthropy, Aerospace|North America
 Gene-0.eth
 [GenoBank](https://genobank.io/)|Genomics, Data Storage, NFTs
+[GenomicDAO](https://genomicdao.com/)[🌐](https://desci.world/project/6418abacbb5c79671293ba3d)|Decentralized Biotech, Precision Medicine, Genomics, AI|Asia
 [GenomesDAO](https://genomes.io/)[🌐](https://desci.world/project/625f65d3dcfaec643ea479a4)|Biopharma, Data Storage, NFTs|Europe
 Governauts
 [Grassland](https://www.grassland.network/)[🌐](https://desci.world/project/635373819809da2300334313)|Blockchain protocols, Science DeFi, Ecosystems|North America
@@ -220,6 +221,7 @@ Feb; 134:104040. Epub 2019 Dec 11. PMID:31865055.
 1. [Molecule](https://www.molecule.to/blog)
 2. [Crypto Altruism](https://www.cryptoaltruism.org/)
 3. [FrontierDAO](https://mirror.xyz/0x4A35674727c44cf4375d80C6171281Ba2f764213)
+4. [GenomicDAO](https://genomicdao.medium.com/)
 
 
 ## Newsletters
