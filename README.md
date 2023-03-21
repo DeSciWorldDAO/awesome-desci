@@ -175,6 +175,8 @@ Feb; 134:104040. Epub 2019 Dec 11. PMID:31865055.
   
   **Ozercan** HI et al.(2018) [Realizing the potential of blockchain technologies in genomics](https://pubmed.ncbi.nlm.nih.gov/30076130/).Genome Res. Sep;28(9):1255-1263. doi: 10.1101/gr.207464.116. Epub 2018 Aug 3. PMID: 30076130; PMCID: PMC6120626  
   
+  **Teo** Z.L., **Tin**, D.S.W. (2023) [Non-fungible tokens for the management of health data](https://www.nature.com/articles/s41591-022-02125-2). Nat Med 29, 287–288.
+  
   **van der Waal** MB et al.(2020)[Blockchain-facilitated sharing to advance outbreak R&D](10.1126/science.aba1355). Science. May 15;368(6492):719-721.PMID: 32409465.
   
   **Wang** F. -Y. et al. (2022). [The DAO to DeSci: AI for Free, Fair, and Responsibility Sensitive Sciences](https://ieeexplore.ieee.org/document/9779591) IEEE Intelligent Systems 37(2), 16-22
@@ -185,6 +187,9 @@ Feb; 134:104040. Epub 2019 Dec 11. PMID:31865055.
 ---
   
 ## Articles
+
+##### 2023
+1.Rapolas [The Future Of Medicine Is Tokens](https://zeeprime.capital/the-future-of-medicine-is-tokens)
 
 ##### 2022
 1. Baloyan, S. [DeSci - the New Web 3 Movement to Revolutionize Scientific Research & Funding](https://hackernoon.com/desci-the-new-web-3-movement-to-revolutionize-scientific-research-and-funding)
@@ -201,10 +206,11 @@ Feb; 134:104040. Epub 2019 Dec 11. PMID:31865055.
 12. Galea, K. [AIBC Intelligence: The rise of DeSci, Blockchain and the future of Research](https://aibc.world/news/aibc-intelligence-the-rise-of-desci-blockchain-and-the-future-of-research/)
 13. Jringo. [Building Trustless Systems of Science](https://odysee.com/@jringo:4/TrustlessScience:d)
 14. Maria Isabella. [How Do Decentralized Science (DeSci) Organizations Work?](https://www.lifespan.io/topic/how-do-decentralized-science-desci-organizations-work/)
-15. Nuñez-Inzunza, R. A. [State of the Art: A DeSci Crypto Biome](https://mirror.xyz/cryptobenthic%F0%9F%90%A0.eth/VPekPDF5fqOdbVPSwpRfqv0KimI_208fbTbq5eRGk_4)
-16. Pantaleo, P. [DeSci o el futuro de la Ciencia](https://paideiastudio.net/desci-o-el-futuro-de-la-ciencia/)
-17. Parasol, M. [DeSci: Can crypto improve scientific research?](https://cointelegraph.com/magazine/desci-tokens-help-improve-scientific-research/#:~:text=DeSci%20trials%20could%20be%20done,That%27s%20the%20vision.)
-18. Pearl, J. [A Guide to Decentralized Biotech](https://future.com/a-guide-to-decentralized-biotech/)
+16. Mayr, P. [The Emerging DeSci Stack](https://www.cherry.xyz/writing/the-emerging-desci-stack)
+17. Nuñez-Inzunza, R. A. [State of the Art: A DeSci Crypto Biome](https://mirror.xyz/cryptobenthic%F0%9F%90%A0.eth/VPekPDF5fqOdbVPSwpRfqv0KimI_208fbTbq5eRGk_4)
+18. Pantaleo, P. [DeSci o el futuro de la Ciencia](https://paideiastudio.net/desci-o-el-futuro-de-la-ciencia/)
+19. Parasol, M. [DeSci: Can crypto improve scientific research?](https://cointelegraph.com/magazine/desci-tokens-help-improve-scientific-research/#:~:text=DeSci%20trials%20could%20be%20done,That%27s%20the%20vision.)
+20. Pearl, J. [A Guide to Decentralized Biotech](https://future.com/a-guide-to-decentralized-biotech/).
 
 
 ##### 2021
