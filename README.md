@@ -292,6 +292,7 @@ Feb; 134:104040. Epub 2019 Dec 11. PMID:31865055.
 7. [DeSci Toronto](https://t.me/+sAZu37iQ8wszZGI5)
 8. [DeSci New York](https://t.me/+t3nHj_j_aKRiODlh)
 9. [DeSci x Gitcoin Community](https://t.me/gitcoindesci)
+10. [Open Science Ecosystem](https://t.me/osftw)
 
 ---
 ## Jobs
