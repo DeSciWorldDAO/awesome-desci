@@ -126,7 +126,7 @@ Find information on all DeSci past and upcoming events [here](https://www.desci.
 [The DeSci Academy](https://www.desci.academy/)|Ecosystems, Community|Metaverse
 [The Science Commons Initiative](https://thesciencecommons.org/)[🌐](https://desci.world/project/630aca18900d8f427a2e95e7)|Ecosystems, Publishing, Decentralized Funding, Blockchain protocols, Philanthropy|Metaverse
 [Therapoid by Open Therapeutics](https://therapoid.net/)[🌐](https://desci.world/project/625f65d3dcfaec643ea479a6)|Ecosystems, Publishing, Philanthropy|Metaverse 
-[Token Engineering Labs](https://www.tokenengineeringlabs.com/) [🌐] (https://desci.world/project/6418a9a2bb5c79671293b99f) |Ecosystems, Focused Research, Science DeFi |Europe
+[Token Engineering Labs](https://www.tokenengineeringlabs.com/)[🌐](https://desci.world/project/6418a9a2bb5c79671293b99f)|Ecosystems, Focused Research, Science DeFi |Europe
 [UltraRare Bio](https://www.ultrarare.bio/)|Ecosystems, Decentralized Biotech / Biopharma, Focused Research, Decentralized Funding, NFTs |Metaverse 
 [ValleyDAO](https://www.valleydao.bio/)[🌐](https://desci.world/project/62db3bd6c1807e671021c572)|Ecosystems, Decentralized Biotech / Biopharma, Focused Research, Decentralized Funding|Metaverse 
 [VibeBio](https://www.vibebio.com/)|Decentralized Biotech / Biopharma, Decentralized Funding, Philanthropy|Metaverse
