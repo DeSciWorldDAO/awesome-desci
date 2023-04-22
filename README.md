@@ -150,6 +150,8 @@ Find information on all DeSci past and upcoming events [here](https://www.desci.
   
   **Ducrée** J et al.(2021) [Unchaining Collective Intelligence for Science, Research, and Technology Development by Blockchain-Boosted Community Participation](https://www.frontiersin.org/articles/10.3389/fbloc.2021.631648/full). Front. Blockchain 4:631648.
   
+  **Friedman**, Daniel, Applegate-Swanson, Shaun, Choudhury, Arhan, Cordes, RJ, El Damaty, Shady, Guénin—Carlut, Avel, Knight, V. Bleu, Metelkin, Ivan, Shrivastava, Siddhant, Singh, Amit Kumar, Smékal, Jakub, Tuttle. Caleb, & Vyatkin, Alexander. (2022). An Active Inference Ontology for Decentralized Science: from Situated Sensemaking to the Epistemic Commons. https://doi.org/10.5281/zenodo.6872311
+  
   **Hasselgren** A et al. (2020) [Blockchain in healthcare and health sciences-A scoping review](10.1016/j.ijmedinf.2019.104040). Int J Med Inform. 2020
 Feb; 134:104040. Epub 2019 Dec 11. PMID:31865055.
   
