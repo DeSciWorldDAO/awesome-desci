@@ -89,7 +89,7 @@ Find information on all DeSci past and upcoming events [here](https://www.desci.
 [inTheory](https://www.impact-finance.io/intheory)[🌐](https://desci.world/project/639cd7f991a8578d9f110ff4)|NFTs, Decentralized Funding, Science DeFi|North America
 [IUCN - Pourini Foundation](https://porini.foundation/naturecollectibles/)|NFTs|Europe
 [JennyCo](https://jennyco.com/) [🌐](https://desci.world/project/63ea4b33d419f1b9810bc679)|Science DeFi, Biopharma, Ecosystems|North America
-[JocelynDAO](https://jocelyn.gosh.sh/)[🌐](https://desci.world/project/63d045fbe6d15779c5cbbfac)|Decentralized Funding, Focused Research, Science DeFi, Focused Research, Blockchain protocols, Ecosystems|Middle East 
+[JocelynDAO](https://jocelyn.gosh.sh/)[🌐](https://desci.world/project/63d045fbe6d15779c5cbbfac)|Scientists At Risk, Focused Research, Blockchain protocols, Review, Mentoring, Reproducibility & Safety, Ecosystems, Decentralized Funding|Middle East 
 [Just One Giant Lab](https://app.jogl.io/)|Ecosystem, Community, Focused Research
 [LabDAO](https://labdao.xyz/)[🌐](https://desci.world/project/625f65d3dcfaec643ea479a7)|Decentralized Biotech / Biopharma, Decentralized Funding, Focused Research, NFTs, Data Storage, Blockchain protocols, Ecosystems|Metaverse 
 [Ledgerback Digital Commons Research Cooperative](https://www.ledgerback.xyz/))[🌐](https://desci.world/project/63ea591094c67da8f01a0b1e)|Ecosystem, Focused Research, Commons
