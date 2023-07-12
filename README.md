@@ -191,8 +191,8 @@ Feb; 134:104040. Epub 2019 Dec 11. PMID:31865055.
 
 | Name | Description | Links |
 | ------------- | --------------------- | ------------- |
-PLEX | Run scientific workflows on decentralized compute | [Github](https://github.com/labdao/plex) [PyPi](https://pypi.org/project/PlexLabExchange/) [Docs](https://docs.labdao.xyz/)
 IP-NFT | Mint intelecutal property as an NFT | [Github](https://github.com/moleculeprotocol/IPNFT) [Docs](https://docs.molecule.to/documentation/ip-nfts/intro-to-ip-nft)
+PLEX | Run scientific workflows on decentralized compute | [Github](https://github.com/labdao/plex) [PyPi](https://pypi.org/project/PlexLabExchange/) [Docs](https://docs.labdao.xyz/)
 
 ---
   
