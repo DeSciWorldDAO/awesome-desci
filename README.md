@@ -183,7 +183,16 @@ Feb; 134:104040. Epub 2019 Dec 11. PMID:31865055.
   **Wang** F. -Y. et al. (2022). [The DAO to DeSci: AI for Free, Fair, and Responsibility Sensitive Sciences](https://ieeexplore.ieee.org/document/9779591) IEEE Intelligent Systems 37(2), 16-22
   
   **Wittek** K. et al (2021). [A Blockchain-Based Approach to Provenance and Reproducibility in Research Workflows](https://arxiv.org/ftp/arxiv/papers/2202/2202.13747.pdf). IEEE International Conference on Blockchain and Cryptocurrency (ICBC), 2021, pp. 1-6
-  
+
+---
+
+## Software
+
+| Name | Description | Links |
+| ------------- | --------------------- | ------------- |
+PLEX | Run scientific workflows on decentralized compute | [Github](https://github.com/labdao/plex) [PyPi](https://pypi.org/project/PlexLabExchange/) [Docs](https://docs.labdao.xyz/)
+IP-NFT | Mint intelecutal property as an NFT | [Github](https://github.com/moleculeprotocol/IPNFT) [Docs](https://docs.molecule.to/documentation/ip-nfts/intro-to-ip-nft)
+---
     
 ---
   
