@@ -8,6 +8,7 @@ Please check the [contribution guidelines](https://github.com/DeSciWorldDAO/awes
 - 📅[DeSci Calendar](#desci-calendar)
 - 🔬[Projects](#projects)
 - 📄[Scientific papers](#scientific-papers)
+- 💻 [Software](#software)
 - 📰[Articles](#articles)   
 - ✏️[Blogs](#blogs)
 - 🗞️[Newsletters](#newsletters)
