@@ -21,7 +21,7 @@ Please check the [contribution guidelines](https://github.com/DeSciWorldDAO/awes
 ---
 
 ## DeSci Calendar
-Find information on all DeSci past and upcoming events [here](https://www.desci.global/)
+Find information on all DeSci past and upcoming events and twitter spaces [here](https://desci.world/calendar)
 
 ---
 
