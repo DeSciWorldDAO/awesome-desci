@@ -67,7 +67,7 @@ Find information on all DeSci past and upcoming events [here](https://www.desci.
 [DeScier](https://twitter.com/desciers)||Ecosystems, Decentralized Funding, NFTs,|Community| Latin America
 [DeSci Foundation](https://descifoundation.org/)[🌐](https://desci.world/project/62db6ffbc1807e671021c573)|Ecosystems, Decentralized Funding|Europe
 [DeSci Labs](https://www.desci.com/)[🌐](https://desci.world/project/62db3a87c1807e671021c570)|Ecosystems, Publishing, Blockchain protocols|Europe
-[DeSciWorld](https://desci.world/)[🌐](https://desci.world/)|Ecosystems, Community, NFTs, Decentralized Funding|Europe
+[DeSciWorld](https://desci.world/)[🌐]|Ecosystems, Community, NFTs, Decentralized Funding|Europe
 [DNAVerse](https://dnaverse.io/)[🌐](https://desci.world/project/637f9b0c007d8aa5b4f75601)|Decentralized Biotech / Biopharma, NFTs, Science DeFi|Europe
 [Etica](https://www.eticaprotocol.org/)[🌐](https://desci.world/project/63ed4205cb7bc8c1920e8a40)|Blockchain protocols, Decentralized Biotech / Biopharma|Metaverse
 [Fleming Protocol](https://flemingprotocol.io/)| |Blockchain protocols, Decentralized Biotech / Biopharma, Science DeFi|
@@ -111,7 +111,7 @@ Find information on all DeSci past and upcoming events [here](https://www.desci.
 [ReSci Network](https://rescinetwork.notion.site/Homebase-961912d30a774a9299d7cef1c46b08f6)[🌐](https://desci.world/project/63d0428be6d15779c5cbbea7)|Focused Research, Ecosystems|North America
 [Reputable DAO](https://desci.world/project/638faed33eae12118581553e)[🌐](https://desci.world/project/638faed33eae12118581553ed)|Ecosystems, NFTs, Data Storage |North America
 [Research DAO](https://researchdao.io/)|Decentralized Funding|Metaverse
-[Research Hub](https://desci.world/project/63b315ebcb05b6965f411886)[🌐](https://desci.world/project/63b315ebcb05b6965f411886) |Ecosystems, Publishing|Metaverse
+[Research Hub](https://www.researchhub.com/))[🌐](https://desci.world/project/63b315ebcb05b6965f411886) |Ecosystems, Publishing|Metaverse
 [Retrox](https://orcidauth.vercel.app/)[🌐](https://desci.world/project/63b31cb4cb05b6965f411964) |Ecosystems, Publishing, Decentralized Funding, Data Storage|Europe
 [Scholar](https://usescholar.org/)[🌐](https://desci.world/project/63b3205dcb05b6965f411a41) |Publishing|North America
 [Scinet](https://www.scinet.one/)[🌐](https://desci.world/project/639a76d3aa9f9775aaa1d631)|North America
