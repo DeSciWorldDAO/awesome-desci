@@ -298,7 +298,7 @@ Feb; 134:104040. Epub 2019 Dec 11. PMID:31865055.
 
 ---
 ## Jobs
-Find information on DeSci jobs listings and seeking [here](https://discord.gg/Frmu3bGPkz)
+Find information on DeSci jobs listings and seeking [here](https://desci.world/jobs)
 
 ---
 
