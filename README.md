@@ -39,7 +39,6 @@ Find information on all DeSci past and upcoming events and twitter spaces [here]
 [AxonDAO](https://www.axondao.io/)[🌐](https://desci.world/project/62cb980abc63adff7b602bd2)|Focused Research, NFTs, Phychedelics| North America
 [Bacalhau](https://www.bacalhau.org/)|Decentralized Computing, Data Storage| Metaverse
 [BeakerDAO](https://beakerdao.xyz/)|Decentralized Funding|Metaverse
-[BioDAO](https://www.biodao.xyz/)[🌐](https://desci.world/project/625f65d3dcfaec643ea479a5) |Biopharma, Data storage|Metaverse
 [Bio.xyz](https://www.bio.xyz/)|Decentralized Funding, Focused Research, Decentralized Biotech, Biopharma |Metaverse
 [Blockchain BioPharma](https://www.linkedin.com/company/blockchain-biopharma/)|Biopharma, NFTs|North America
 [Blockchain for Science](https://www.blockchainforscience.com/)|Ecosystems, Community|Metaverse
