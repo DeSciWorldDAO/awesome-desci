@@ -246,6 +246,8 @@ Feb; 134:104040. Epub 2019 Dec 11. PMID:31865055.
 1. [BowTiedBiotech](https://bowtiedbiotech.substack.com/)
 2. [DeSciReport](https://mirror.xyz/0x4220AD4D0A88892417D7726211D2ba9AA8c4640C)
 3. [Atom](https://atom.beehiiv.com/)
+4. [AthenaDAO](https://athenadao.substack.com/)
+5. [JocelynDAO](https://medium.com/@phs_dao)
 
   
   ---
