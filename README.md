@@ -50,6 +50,7 @@ Find information on all DeSci past and upcoming events and twitter spaces [here]
 [Braid Science](https://mirror.xyz/0xC35e8f52006BE6A603A6a246FD13eFEA69B28a5b/vEFkDGUhVQbculeo86b8hCYx0c34b8M0yGUz5-cL7HI)|Decentralized Publishing|Metaverse
 [Cannabis DAO](https://cannabis-dao.xyz/)[🌐](https://desci.world/project/64637e751603fe267bfe75d6)|Ecosystems, Decentralized biotech , Focused Research, Decentralized funding, Blockchain protocols|Metaverse
 [Cannabis Genome DAO](https://cannabisgeno.me/)[🌐](https://desci.world/project/637473206ef6dbcf1d58884d)|Science DeFi, Decentralized Funding, NFTs, Focused Research, Ecosystems, Publishing, Decentralized Biotech, Biopharma|North America
+[Citaldoc](https://www.citaldoc.com/)|Decentralized Biopharma, Ecosystems, Telemedicine|South America
 [Cerebrum DAO](https://cerebrumdao.com/)[🌐](https://desci.world/project/649222730639e8693377bf66)|Ecosystems, Focused Research, NFTs, Decentralized funding|Europe
 [ClimeCheck](https://climecheck.org/)[🌐](https://desci.world/project/637fa17f33c2a94ed2a08a8d)|Ecosystems, Publishing, Focused Research, Decentralized Funding, Philanthropy, Data Storage|
 [CRISPR DAO](https://mobile.twitter.com/crisprdao)|Community|North America
