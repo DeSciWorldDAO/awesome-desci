@@ -35,6 +35,7 @@ Find information on all DeSci past and upcoming events and twitter spaces [here]
 [Aimedis](https://aimedis.com/)[🌐](https://desci.world/project/64ea7ae09184a81edbf21494)|NFTs, Ecosystems, Decentralized biotech , Focused Research, Publishing, Decentralized funding, Data Storage, Decentralized Computing, Science DeFi| Middle East
 [Algovera](https://www.algovera.ai/)[🌐](https://desci.world/project/637264412a9e2b5f7b9d8347)|Decentralized Funding, Ecosystems, Data Storage|Europe
 [AntidoteDAO](https://www.antidotedao.org/)[🌐](https://desci.world/project/63b3239acb05b6965f411b32)|Focused Research, Decentralized Funding, Decentralized Biotech, Biopharma, NFTs, Cancer|North America
+[Ants Review](https://linktr.ee/antsreview)[🌐](https://desci.world/project/642eb64dafbe53ba3cfae01b)|Ecosystems, Publishing, Science DeFi, Blockchain protocols, Data Storage|Europe
 [AthenaDAO](https://www.athenadao.co/)[🌐](https://desci.world/project/637fba0ed8bc982d8c730754)|Focused Research, Decentralized Funding, Decentralized Biotech, Biopharma, Women Reproductive Health|North America
 [Atom](https://atomprotocol.xyz/)|Decentralized Funding| Metaverse
 [Avano](https://linktr.ee/Avano_io)|Decentralized Monitoring, Reporting and Verification (dMRV) Systems, NFTs| Metaverse
@@ -47,13 +48,16 @@ Find information on all DeSci past and upcoming events and twitter spaces [here]
 [BlockScience](https://block.science/)|Focused Research, Software Engineering, Systems
 [Bloxberg](https://bloxberg.org/)[🌐](https://desci.world/project/63b2fe30cb05b6965f411817)|Ecosystems, Blockchain protocols|Europe
 [Braid Science](https://mirror.xyz/0xC35e8f52006BE6A603A6a246FD13eFEA69B28a5b/vEFkDGUhVQbculeo86b8hCYx0c34b8M0yGUz5-cL7HI)|Decentralized Publishing|Metaverse
+[Cannabis DAO](https://cannabis-dao.xyz/)[🌐](https://desci.world/project/64637e751603fe267bfe75d6)|Ecosystems, Decentralized biotech , Focused Research, Decentralized funding, Blockchain protocols|Metaverse
 [Cannabis Genome DAO](https://cannabisgeno.me/)[🌐](https://desci.world/project/637473206ef6dbcf1d58884d)|Science DeFi, Decentralized Funding, NFTs, Focused Research, Ecosystems, Publishing, Decentralized Biotech, Biopharma|North America
+[Cerebrum DAO](https://cerebrumdao.com/)[🌐](https://desci.world/project/649222730639e8693377bf66)|Ecosystems, Focused Research, NFTs, Decentralized funding|Europe
 [ClimeCheck](https://climecheck.org/)[🌐](https://desci.world/project/637fa17f33c2a94ed2a08a8d)|Ecosystems, Publishing, Focused Research, Decentralized Funding, Philanthropy, Data Storage|
 [CRISPR DAO](https://mobile.twitter.com/crisprdao)|Community|North America
 [Crowd Funded Cures](https://crowdfundedcures.org/)[🌐](https://desci.world/project/62db3b8fc1807e671021c571)|Biopharma, Decentralized funding|North America
 [CrunchDAO](https://www.crunchdao.com/)[🌐](https://desci.world/project/632552b0de4422cf89b69abb)|Science DeFi|Metaverse 
 [CryoDAO](https://www.cryodao.org/)|Focused Research, Decentralized Funding|Metaverse 
-[CureDAO](https://www.curedao.org/)|Biopharma, Philanthropy|Metaverse 
+[CureCoin](https://curecoin.net/)[🌐](https://desci.world/project/632552b0de4422cf89b69abb)|Science DeFi, Philanthropy, Decentralized Computing, Decentralized biotech|North America
+[CureDAO](https://www.curedao.org/)[🌐](https://desci.world/project/64b74e69dbb90d611d224383)|Ecosystems, Data Storage, Publishing, Decentralized biotech , Decentralized Computing|North America
 [Data Driven Sci&Tech IP Marketplace by RMDS Lab](https://rmdsnft.com/)[🌐](https://desci.world/project/63ee3ea4ea1e3e42df4ba969)|Ecosystems, Decentralized Funding, NFTs|North America
 [DATA LAKE](https://data-lake.co/)[🌐](https://desci.world/project/635371309809da2300334312)|Science DeFi, Ecosystems|Europe
 [Datatera](https://www.datatera.se/)[🌐](https://desci.world/project/639cdc069948fdc2efc22c45)|Ecosystems, Decentralized biotech, Biopharma, Data Storage|Europe
@@ -62,9 +66,9 @@ Find information on all DeSci past and upcoming events and twitter spaces [here]
 [DeSci Africa](https://mirror.xyz/0xcE75b62f12ae1F891bA6222c52a630aa36127142/ysCdhI9uUxMEOfuWoWv1xSWKRCWho7wD8BIJl7tOMrM)[🌐](https://desci.world/project/635b54db0b57f22ac9a041d9)|Ecosystems, Philanthropy, Community| Africa
 [DeSci Brazil](https://mobile.twitter.com/DeSciBrazil)| Community| America
 [DeSci China](https://www.descichina.org/)| Community| Asia
-[DeSci Japan](https://twitter.com/descijapan?lang=es)| Community| Asia
+[DeSci Japan](https://descijapan.org/)[🌐](https://desci.world/project/64637a7b1603fe267bfe7393)| Community| Asia
 [DeSciLATAM](https://descilatam.org/) [🌐](https://desci.world/project/63fed8c54ce845aa57965f6f)| Community| Latin America
-[DeSci Italia](https://twitter.com/DeSciItalia)
+[DeSci Italia](https://twitter.com/DeSciItalia)| Community|Europe
 [DeSci Collective](https://mintable.app/DeSciCollective)[🌐](https://desci.world/project/6333d46989588cc81d14039b)|Ecosystems, Decentralized Funding, NFTs, Focused Research, Science DeFi|Europe
 [DeScier](https://twitter.com/desciers)||Ecosystems, Decentralized Funding, NFTs,|Community| Latin America
 [DeSci Foundation](https://descifoundation.org/)[🌐](https://desci.world/project/62db6ffbc1807e671021c573)|Ecosystems, Decentralized Funding|Europe
@@ -72,6 +76,8 @@ Find information on all DeSci past and upcoming events and twitter spaces [here]
 [DeSciWorld](https://desci.world/)[🌐]|Ecosystems, Community, NFTs, Decentralized Funding|Europe
 [DNAVerse](https://dnaverse.io/)[🌐](https://desci.world/project/637f9b0c007d8aa5b4f75601)|Decentralized Biotech / Biopharma, NFTs, Science DeFi|Europe
 [Etica](https://www.eticaprotocol.org/)[🌐](https://desci.world/project/63ed4205cb7bc8c1920e8a40)|Blockchain protocols, Decentralized Biotech / Biopharma|Metaverse
+[Emberflow](https://www.emberflow.org/)[🌐](https://desci.world/project/649221e30639e8693377bdda)|Ecosystems, Focused Research, Data Storage, Blockchain protocols, Decentralized Computing|North America
+[First Approval](https://firstapproval.io/)[🌐](https://desci.world/project/64ea7561b16482f3a1175e9a)|Ecosystems, Publishing, Data Storage, Decentralized biotech|North America
 [Fleming Protocol](https://flemingprotocol.io/)| |Blockchain protocols, Decentralized Biotech / Biopharma, Science DeFi|
 [Foresight Institute](https://foresight.org/)| |Blockchain protocols, Decentralized Biotech / Biopharma, Focused Research, Decentralized funding|North America
 [Non-Fungible Fungi](https://www.fungiblefungi.xyz/)||NFTs, Focused Research, Decentralized Funding
@@ -94,7 +100,8 @@ Find information on all DeSci past and upcoming events and twitter spaces [here]
 [JocelynDAO](https://jocelyn.gosh.sh/)[🌐](https://desci.world/project/63d045fbe6d15779c5cbbfac)|Scientists At Risk, Focused Research, Blockchain protocols, Review, Mentoring, Reproducibility & Safety, Ecosystems, Decentralized Funding|Middle East 
 [Just One Giant Lab](https://app.jogl.io/)|Ecosystem, Community, Focused Research
 [LabDAO](https://labdao.xyz/)[🌐](https://desci.world/project/625f65d3dcfaec643ea479a7)|Decentralized Biotech / Biopharma, Decentralized Funding, Focused Research, NFTs, Data Storage, Blockchain protocols, Ecosystems|Metaverse 
-[Ledgerback Digital Commons Research Cooperative](https://www.ledgerback.xyz/))[🌐](https://desci.world/project/63ea591094c67da8f01a0b1e)|Ecosystem, Focused Research, Commons
+[Ledgerback Digital Commons Research Cooperative](https://www.ledgerback.xyz/))[🌐](https://desci.world/project/63ea591094c67da8f01a0b1e)|Ecosystem, Focused Research |North America
+[LibertasDAO](https://libertas-dao.com/)[🌐](https://desci.world/project/6448964ef180da02d9f7be7a)|Publishing|Europe
 [Lifespan.io](https://www.lifespan.io/)[🌐](https://desci.world/project/63b327e3cb05b6965f411ce1)|Decentralized Biotech / Biopharma, Decentralized Funding, Focused Research, NFTs, Philanthropy, Ecosystems|North America 
 [LunCo](https://lunco.space/)[🌐](https://desci.world/project/63712331f4001346b22e6caf)|Engineering Software, Data Storage, Ecosystems, Space Simulators|Metaverse
 [MedDAO](https://www.meddao.xyz/)[🌐](https://desci.world/project/637d260860e4e8a680af9587)|Decentralized Biotech / Biopharma, Ecosystems, NFTs, Decentralized Funding, Blockchain protocols, Science DeFi|North America
@@ -102,21 +109,29 @@ Find information on all DeSci past and upcoming events and twitter spaces [here]
 [Molecule DAO](https://www.molecule.to/)|Decentralized Biotech / Biopharma, NFTs, Decentralized Funding, Blockchain protocols|Europe
 [Moon DAO](https://www.moondao.com/)[🌐](https://desci.world/project/63891afc51a8d557291808b3)| Science DeFi, Philanthropy, Ecosystems|Metaverse
 [NeuraDAO](https://neuradao.to/)|Focused research, Decentralized biotech|Metaverse
+[Nevermined](https://nevermined.io/)[🌐](https://desci.world/project/64637c971603fe267bfe7512)|Decentralized Computing, Ecosystems, NFTs|Europe
 [New Atlantis](https://newatlantis.io/)[🌐](https://desci.world/project/635b54710b57f22ac9a041d8)|Decentralized Biotech / Biopharma, Data Storage, Science DeF, Ocean Restoration|North America
+[NuNet](https://www.nunet.io/)[🌐](https://desci.world/project/6442131b72e8a7abb5f48e5c)|Decentralized Computing|Europe
 [OpSci](https://www.opsci.io/)[🌐](https://desci.world/project/625f65d3dcfaec643ea479a9)|Publishing, Ecosystems|Metaverse
 [Phage Directory](https://phage.directory/)|Community, Ecosystems, Focused Research|Metaverse
 [PLANT GANG](https://plant-gang.webflow.io/)[🌐](https://desci.world/project/6333d55589588cc81d14039d)|NFTs, Decentralized Funding|Europe
 [Project Toninas](https://yaqupachauy.org/)|Focused Research, Ocean Restoration|Latin America
 [PsyDAO](https://psydao.io/)|Focused Research,Phychedelics,  Decentralized Funding |Metaverse
 [Qcentroid](https://qcentroid.xyz/)[🌐](https://desci.world/project/63255561de4422cf89b69abd)|Science DeFi, Ecosystems|Europe
+[Publed](https://www.publed.io/)[🌐](https://desci.world/project/65008928085abfba4dac80de)|Publishing|Metaverse
+[Qcentroid](https://qcentroid.xyz/)[🌐](https://desci.world/project/63255561de4422cf89b69abd)|Science DeFi, Ecosystems|Europe
 [Quartz](https://quartz.to/) |Publishing|Europe
+[Rejuve.AI](https://rejuve.ai/)[🌐](https://desci.world/project/642cb470afff593e5ff8ea09)|Decentralized biotech, Ecosystems|Metaverse
 [ReSci Network](https://rescinetwork.notion.site/Homebase-961912d30a774a9299d7cef1c46b08f6)[🌐](https://desci.world/project/63d0428be6d15779c5cbbea7)|Focused Research, Ecosystems|North America
+[Replicare](https://www.replicare.dev/)[🌐](https://desci.world/project/644209e75f10cd0270c715f2)|Publishing, Blockchain protocols|Europe
 [Reputable DAO](https://desci.world/project/638faed33eae12118581553e)[🌐](https://desci.world/project/638faed33eae12118581553ed)|Ecosystems, NFTs, Data Storage |North America
 [Research DAO](https://researchdao.io/)|Decentralized Funding|Metaverse
 [Research Hub](https://www.researchhub.com/))[🌐](https://desci.world/project/63b315ebcb05b6965f411886) |Ecosystems, Publishing|Metaverse
 [Retrox](https://orcidauth.vercel.app/)[🌐](https://desci.world/project/63b31cb4cb05b6965f411964) |Ecosystems, Publishing, Decentralized Funding, Data Storage|Europe
+[Salaries Science](https://science-dao.org/salaries-science/)[🌐](https://desci.world/project/64d4de55f242e7dafc5e54f0) |Ecosystems, Publishing, Decentralized funding, Philanthropy|Middle East
 [Scholar](https://usescholar.org/)[🌐](https://desci.world/project/63b3205dcb05b6965f411a41) |Publishing|North America
-[Scinet](https://www.scinet.one/)[🌐](https://desci.world/project/639a76d3aa9f9775aaa1d631)|North America
+[SciDex](https://haai.info/scidex/)[🌐](https://desci.world/project/64a5ed5b5061f813dc1a6f4c)|Publishing, Science DeFi, Blockchain protocols|Asia
+[Scinet](https://www.scinet.one/)[🌐](https://desci.world/project/639a76d3aa9f9775aaa1d631)|Ecosystems, Publishing, Decentralized biotech , NFTs, Decentralized funding, Science DeFi|North America
 [sci2sci](https://www.sci2sci.com/)[🌐](https://desci.world/project/6333d5b589588cc81d14039e)|Ecosystems, Publishing, Data Storage|Europe
 [The Science DAO](https://thesciencedao.io/)[🌐](https://desci.world/project/63ea49cfd419f1b9810bc5f4)|Ecosystems, Decentralized Biotech, NFTs, Blockchain protocols, Decentralized Funding, Biopharma, Science DeFi|Metaverse
 [Science Fund DAO](https://www.sciencefund.io/dao ) |Decentralized Funding|Europe
