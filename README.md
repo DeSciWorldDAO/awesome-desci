@@ -139,7 +139,7 @@ Find information on all DeSci past and upcoming events and twitter spaces [here]
 [Scriptus App](https://scriptus.app/) |Publishing|Metaverse
 [Seeds of Science](https://www.theseedsofscience.org/)[🌐](https://desci.world/project/639a7b12aa9f9775aaa1d6f9)|Publishing|Metaverse
 [Smart Contract Research Forum](https://www.smartcontractresearch.org/)|Ecosystems, Community|Metaverse
-[T2](https://t2.world/)[🌐](https://desci.world/project/649230ca0639e8693377c8da)|Ecosystems, Publishing, Decentralized Funding, Blockchain protocols, Philanthropy|Metaverse
+[t2.world](https://t2.world/)[🌐](https://desci.world/project/649230ca0639e8693377c8da)|Ecosystems, Publishing, Decentralized Funding, Blockchain protocols, Philanthropy|Metaverse
 [TalentDAO](https://www.talentdao.io/)|Ecosystems, Community, Publishing|Metaverse
 [The DeSci Academy](https://www.desci.academy/)|Ecosystems, Community|Metaverse
 [The Science Commons Initiative](https://thesciencecommons.org/)[🌐](https://desci.world/project/630aca18900d8f427a2e95e7)|Ecosystems, Publishing, Blockchain protocols|Europe
