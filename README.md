@@ -41,6 +41,7 @@ Find information on all DeSci past and upcoming events and twitter spaces [here]
 [Avano](https://linktr.ee/Avano_io)|Decentralized Monitoring, Reporting and Verification (dMRV) Systems, NFTs| Metaverse
 [AxonDAO](https://www.axondao.io/)[🌐](https://desci.world/project/62cb980abc63adff7b602bd2)|Focused Research, NFTs, Phychedelics| North America
 [Bacalhau](https://www.bacalhau.org/)|Decentralized Computing, Data Storage| Metaverse
+[BanklessDeSci](https://t.me/BanklessDeSci/) | DeFi, Education, Decentralized Funding, Ecosystems, Publishing
 [BeakerDAO](https://beakerdao.xyz/)|Decentralized Funding|Metaverse
 [Bio.xyz](https://www.bio.xyz/)|Decentralized Funding, Focused Research, Decentralized Biotech, Biopharma |Metaverse
 [Blockchain BioPharma](https://www.linkedin.com/company/blockchain-biopharma/)|Biopharma, NFTs|North America
@@ -49,7 +50,6 @@ Find information on all DeSci past and upcoming events and twitter spaces [here]
 [Bloxberg](https://bloxberg.org/)[🌐](https://desci.world/project/63b2fe30cb05b6965f411817)|Ecosystems, Blockchain protocols|Europe
 [Braid Science](https://mirror.xyz/0xC35e8f52006BE6A603A6a246FD13eFEA69B28a5b/vEFkDGUhVQbculeo86b8hCYx0c34b8M0yGUz5-cL7HI)|Decentralized Publishing|Metaverse
 [Cannabis DAO](https://cannabis-dao.xyz/)[🌐](https://desci.world/project/64637e751603fe267bfe75d6)|Ecosystems, Decentralized biotech , Focused Research, Decentralized funding, Blockchain protocols|Metaverse
-[Cannabis Genome DAO](https://cannabisgeno.me/)[🌐](https://desci.world/project/637473206ef6dbcf1d58884d)|Science DeFi, Decentralized Funding, NFTs, Focused Research, Ecosystems, Publishing, Decentralized Biotech, Biopharma|North America
 [Citaldoc](https://www.citaldoc.com/)|Decentralized Biopharma, Ecosystems, Telemedicine|South America
 [Cerebrum DAO](https://cerebrumdao.com/)[🌐](https://desci.world/project/649222730639e8693377bf66)|Ecosystems, Focused Research, NFTs, Decentralized funding|Europe
 [ClimeCheck](https://climecheck.org/)[🌐](https://desci.world/project/637fa17f33c2a94ed2a08a8d)|Ecosystems, Publishing, Focused Research, Decentralized Funding, Philanthropy, Data Storage|
@@ -113,6 +113,7 @@ Find information on all DeSci past and upcoming events and twitter spaces [here]
 [Nevermined](https://nevermined.io/)[🌐](https://desci.world/project/64637c971603fe267bfe7512)|Decentralized Computing, Ecosystems, NFTs|Europe
 [New Atlantis](https://newatlantis.io/)[🌐](https://desci.world/project/635b54710b57f22ac9a041d8)|Decentralized Biotech / Biopharma, Data Storage, Science DeF, Ocean Restoration|North America
 [NuNet](https://www.nunet.io/)[🌐](https://desci.world/project/6442131b72e8a7abb5f48e5c)|Decentralized Computing|Europe
+[OpenCann](https://opencann.net/)[🌐](https://desci.world/project/637473206ef6dbcf1d58884d)|Science DeFi, Focused Research, Ecosystems, Publishing, Decentralized Biotech, Biopharma|North America
 [OpSci](https://www.opsci.io/)[🌐](https://desci.world/project/625f65d3dcfaec643ea479a9)|Publishing, Ecosystems|Metaverse
 [Phage Directory](https://phage.directory/)|Community, Ecosystems, Focused Research|Metaverse
 [PLANT GANG](https://plant-gang.webflow.io/)[🌐](https://desci.world/project/6333d55589588cc81d14039d)|NFTs, Decentralized Funding|Europe
@@ -258,6 +259,7 @@ Feb; 134:104040. Epub 2019 Dec 11. PMID:31865055.
 2. [Crypto Altruism](https://www.cryptoaltruism.org/)
 3. [FrontierDAO](https://mirror.xyz/0x4A35674727c44cf4375d80C6171281Ba2f764213)
 4. [GenomicDAO](https://genomicdao.medium.com/)
+5. [OpenCann](https://opencann.medium.com/)
 
 
 ## Newsletters
@@ -286,7 +288,7 @@ Feb; 134:104040. Epub 2019 Dec 11. PMID:31865055.
   
 #### Channels
   
-1. [Cannabis Genome DAO](https://www.youtube.com/channel/UC4eu4SR0D06qJ8KLCtNvL3g)
+1. [OpenCann](https://www.youtube.com/@OpenCann)
 2. [CrunchDAO](https://www.youtube.com/channel/UCJojcucwteZRnxyLyu-7TZw)
 3. [DeSci Labs](https://www.youtube.com/channel/UCzVdQSku9md4WxruSIKdnZw)
 4. [DeSciWorld](https://www.youtube.com/channel/UCivzXLAo8a_m28qEIGWjvUQ/featured)
@@ -326,6 +328,7 @@ Feb; 134:104040. Epub 2019 Dec 11. PMID:31865055.
 8. [DeSci New York](https://t.me/+t3nHj_j_aKRiODlh)
 9. [DeSci x Gitcoin Community](https://t.me/gitcoindesci)
 10. [Open Science Ecosystem](https://t.me/osftw)
+11. [BanklessDeSci](https://t.me/banklessdesci)
 
 ---
 ## Jobs
