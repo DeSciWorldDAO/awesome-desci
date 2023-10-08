@@ -1,5 +1,6 @@
 # Awesome DeSci [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 A curated list of awesome **Decentralized Science (DeSci)** resources, projects, articles and more.
+This repository is also on [GOSH](https://app.gosh.sh/o/desciworld/r/awesome-desci/tree/main) 
 
 Please check the [contribution guidelines](https://github.com/DeSciWorldDAO/awesome-desci/blob/main/CONTRIBUTING.MD) for information on formatting and writing pull requests.
   
