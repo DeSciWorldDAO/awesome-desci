@@ -1,0 +1,40 @@
+name: Sync with Gosh
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      -
+        name: Checkout
+        uses: actions/checkout@v4
+        with:
+          # Only a single commit is fetched by default, for the ref/SHA that
+          # triggered the workflow. Set fetch-depth: 0 to fetch all history for
+          # all branches and tags.
+          fetch-depth: 0
+
+      - name: Sync
+        env:
+          CONFIG_JSON: ${{ secrets.CONFIG_JSON }}
+          GOSH_URL: ${{ vars.GOSH_URL }}
+          GOSH_TMP_BRANCH: github_${{ github.ref_name }}
+        run: |
+          git --version
+          wget -O - https://raw.githubusercontent.com/gosh-sh/gosh/dev/install.sh | TAG=6.1.35 bash -s
+          echo "$CONFIG_JSON" >~/.gosh/config.json
+
+          export PATH=$HOME/.gosh:$PATH
+
+          git pull
+          git remote add gosh $GOSH_URL
+          git switch -C $GOSH_TMP_BRANCH
+          git remote -v
+          git status
+          git push -vv gosh
