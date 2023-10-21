@@ -222,11 +222,13 @@ Feb; 134:104040. Epub 2019 Dec 11. PMID:31865055.
 ## Articles
 
 ##### 2023
-1. Rapolas [The Future Of Medicine Is Tokens](https://zeeprime.capital/the-future-of-medicine-is-tokens).
-2. Messari.io [The Decentralized Science Ecosystem: Building a Better Research Economy](https://messari.io/report/the-decentralized-science-ecosystem-building-a-better-research-economy?referrer=all-research)
-3. TalentDAO & DeSciWorld [DeSci Landscape Analysis: Exploring Crowdfunding Effects On Project Development](https://mirror.xyz/erinmagennis.eth/rSAHHVavkVHVqrKsp9C0w-GScJzKcJMnGxYBw0IrQUg)
-4. Starr, J., Menchaca, C., Bagazinski, M., Van Winkle, E. & Etzrodt, M. [Implementing DeSci in Web3 Development: A Guide for Builders](https://hackernoon.com/implementing-desci-in-web3-development-a-guide-for-builders)
-5. Flowscience. [DeSci Goes Bankless | State of the DAOs](https://banklessdao.substack.com/p/desci-goes-bankless-state-of-the)
+1. Cumbers, J. [The DeSci Movement: Will Crypto Really Solve Science's Biggest Problems?](https://www.forbes.com/sites/johncumbers/2023/04/28/the-desci-movement-will-crypto-really-solve-sciences-biggest-problems/?sh=328dd5ce34d1)
+2. Flowscience. [DeSci Goes Bankless | State of the DAOs](https://banklessdao.substack.com/p/desci-goes-bankless-state-of-the)
+3. Messari.io [The Decentralized Science Ecosystem: Building a Better Research Economy](https://messari.io/report/the-decentralized-science-ecosystem-building-a-better-research-economy?referrer=all-research)
+4. Rapolas [The Future Of Medicine Is Tokens](https://zeeprime.capital/the-future-of-medicine-is-tokens).
+5. TalentDAO & DeSciWorld [DeSci Landscape Analysis: Exploring Crowdfunding Effects On Project Development](https://mirror.xyz/erinmagennis.eth/rSAHHVavkVHVqrKsp9C0w-GScJzKcJMnGxYBw0IrQUg)
+6. Starr, J., Menchaca, C., Bagazinski, M., Van Winkle, E. & Etzrodt, M. [Implementing DeSci in Web3 Development: A Guide for Builders](https://hackernoon.com/implementing-desci-in-web3-development-a-guide-for-builders)
+
 
 ##### 2022
 1. Baloyan, S. [DeSci - the New Web 3 Movement to Revolutionize Scientific Research & Funding](https://hackernoon.com/desci-the-new-web-3-movement-to-revolutionize-scientific-research-and-funding)
@@ -240,16 +242,17 @@ Feb; 134:104040. Epub 2019 Dec 11. PMID:31865055.
 9. Ethereum Foundation [Decentralized science (DeSci)](https://ethereum.org/en/desci/)
 10. Hamburg, S. [A Guide to DeSci, the Latest Web3 Movement](https://future.com/what-is-decentralized-science-aka-desci/)
 11. Jonathan S. et al. [Distributed Ledger Technology for Open Scientists](https://thesciencecommons.substack.com/p/distributed-ledger-technology-for)
-12. Koepsell, D. [DeSci Origin Story](https://medium.com/coinmonks/a-desci-origin-story-b6b234f7b1a3)
-13. Galea, K. [AIBC Intelligence: The rise of DeSci, Blockchain and the future of Research](https://aibc.world/news/aibc-intelligence-the-rise-of-desci-blockchain-and-the-future-of-research/)
-14. Jringo. [Building Trustless Systems of Science](https://odysee.com/@jringo:4/TrustlessScience:d)
-15. Maria Isabella. [How Do Decentralized Science (DeSci) Organizations Work?](https://www.lifespan.io/topic/how-do-decentralized-science-desci-organizations-work/)
-16. Mayr, P. [The Emerging DeSci Stack](https://www.cherry.xyz/writing/the-emerging-desci-stack)
-17. Nuñez-Inzunza, R. A. [State of the Art: A DeSci Crypto Biome](https://mirror.xyz/cryptobenthic%F0%9F%90%A0.eth/VPekPDF5fqOdbVPSwpRfqv0KimI_208fbTbq5eRGk_4)
-18. Pantaleo, P. [DeSci o el futuro de la Ciencia](https://paideiastudio.net/desci-o-el-futuro-de-la-ciencia/)
-19. Parasol, M. [DeSci: Can crypto improve scientific research?](https://cointelegraph.com/magazine/desci-tokens-help-improve-scientific-research/#:~:text=DeSci%20trials%20could%20be%20done,That%27s%20the%20vision.)
-20. Pearl, J. [A Guide to Decentralized Biotech](https://future.com/a-guide-to-decentralized-biotech/).
-21. 
+12. Jonathan S. [Building Systems of Trustless Science](https://medium.com/@jringo/building-systems-of-trustless-science-1cd2d072f673)
+13. Koepsell, D. [DeSci Origin Story](https://medium.com/coinmonks/a-desci-origin-story-b6b234f7b1a3)
+14. Galea, K. [AIBC Intelligence: The rise of DeSci, Blockchain and the future of Research](https://aibc.world/news/aibc-intelligence-the-rise-of-desci-blockchain-and-the-future-of-research/)
+15. Jringo. [Building Trustless Systems of Science](https://odysee.com/@jringo:4/TrustlessScience:d)
+16. Maria Isabella. [How Do Decentralized Science (DeSci) Organizations Work?](https://www.lifespan.io/topic/how-do-decentralized-science-desci-organizations-work/)
+17. Mayr, P. [The Emerging DeSci Stack](https://www.cherry.xyz/writing/the-emerging-desci-stack)
+18. Nuñez-Inzunza, R. A. [State of the Art: A DeSci Crypto Biome](https://mirror.xyz/cryptobenthic%F0%9F%90%A0.eth/VPekPDF5fqOdbVPSwpRfqv0KimI_208fbTbq5eRGk_4)
+19. Pantaleo, P. [DeSci o el futuro de la Ciencia](https://paideiastudio.net/desci-o-el-futuro-de-la-ciencia/)
+20. Parasol, M. [DeSci: Can crypto improve scientific research?](https://cointelegraph.com/magazine/desci-tokens-help-improve-scientific-research/#:~:text=DeSci%20trials%20could%20be%20done,That%27s%20the%20vision.)
+21. Pearl, J. [A Guide to Decentralized Biotech](https://future.com/a-guide-to-decentralized-biotech/).
+22. 
 
 
 ##### 2021
