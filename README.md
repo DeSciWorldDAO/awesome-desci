@@ -223,6 +223,7 @@ Feb; 134:104040. Epub 2019 Dec 11. PMID:31865055.
 2. Messari.io [The Decentralized Science Ecosystem: Building a Better Research Economy](https://messari.io/report/the-decentralized-science-ecosystem-building-a-better-research-economy?referrer=all-research)
 3. TalentDAO & DeSciWorld [DeSci Landscape Analysis: Exploring Crowdfunding Effects On Project Development](https://mirror.xyz/erinmagennis.eth/rSAHHVavkVHVqrKsp9C0w-GScJzKcJMnGxYBw0IrQUg)
 4. Starr, J., Menchaca, C., Bagazinski, M., Van Winkle, E. & Etzrodt, M. [Implementing DeSci in Web3 Development: A Guide for Builders](https://hackernoon.com/implementing-desci-in-web3-development-a-guide-for-builders)
+5. Flowscience. [DeSci Goes Bankless | State of the DAOs](https://banklessdao.substack.com/p/desci-goes-bankless-state-of-the)
 
 ##### 2022
 1. Baloyan, S. [DeSci - the New Web 3 Movement to Revolutionize Scientific Research & Funding](https://hackernoon.com/desci-the-new-web-3-movement-to-revolutionize-scientific-research-and-funding)
