@@ -195,8 +195,11 @@ Feb; 134:104040. Epub 2019 Dec 11. PMID:31865055.
   **OECD** (2021). [OECD Digital Education Outlook 2021: Pushing the Frontiers with Artificial Intelligence, Blockchain and Robots](https://doi.org/10.1787/589b283f-en). OECD Publishing, Paris
   
   **Ozercan** HI et al.(2018) [Realizing the potential of blockchain technologies in genomics](https://pubmed.ncbi.nlm.nih.gov/30076130/).Genome Res. Sep;28(9):1255-1263. doi: 10.1101/gr.207464.116. Epub 2018 Aug 3. PMID: 30076130; PMCID: PMC6120626  
+
+  **Subramanian** H. (2023) [A Decentralized Marketplace for Patient-Generated Health Data: Design Science Approach] (https://www.jmir.org/2023/1/e42743) J Med Internet Res 2023;25:e42743b DOI: 10.2196/42743
   
   **Teo** Z.L., **Tin**, D.S.W. (2023) [Non-fungible tokens for the management of health data](https://www.nature.com/articles/s41591-022-02125-2). Nat Med 29, 287–288.
+  
   **Trovò**, B., Massari, N. (2021). Ants-Review: A Privacy-Oriented Protocol for Incentivized Open Peer Reviews on Ethereum. In: , et al. Euro-Par 2020: Parallel Processing Workshops. Euro-Par 2020. Lecture Notes in Computer Science(), vol 12480. Springer, Cham. https://doi.org/10.1007/978-3-030-71593-9_2
   
   **van der Waal** MB et al.(2020)[Blockchain-facilitated sharing to advance outbreak R&D](10.1126/science.aba1355). Science. May 15;368(6492):719-721.PMID: 32409465.
