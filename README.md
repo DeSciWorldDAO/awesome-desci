@@ -37,8 +37,9 @@ Find information on all DeSci past and upcoming events and twitter spaces [here]
 [Algovera](https://www.algovera.ai/)[🌐](https://desci.world/project/637264412a9e2b5f7b9d8347)|Decentralized Funding, Ecosystems, Data Storage|Europe
 [AntidoteDAO](https://www.antidotedao.org/)[🌐](https://desci.world/project/63b3239acb05b6965f411b32)|Focused Research, Decentralized Funding, Decentralized Biotech, Biopharma, NFTs, Cancer|North America
 [Ants Review](https://linktr.ee/antsreview)[🌐](https://desci.world/project/642eb64dafbe53ba3cfae01b)|Ecosystems, Publishing, Science DeFi, Blockchain protocols, Data Storage|Europe
+[AsteriskDAO](https://asteriskdao.xyz/)|Focused Research, Decentralized Funding, Decentralized Biotech, Biopharma, Women Reproductive Health|Europe
 [AthenaDAO](https://www.athenadao.co/)[🌐](https://desci.world/project/637fba0ed8bc982d8c730754)|Focused Research, Decentralized Funding, Decentralized Biotech, Biopharma, Women Reproductive Health|North America
-[Atom](https://atomprotocol.xyz/)|Decentralized Funding| Metaverse
+[Atom](https://atomprotocol.xyz/)[🌐](https://desci.world/project/64489151f180da02d9f7bc41)|Decentralized Funding| Metaverse
 [Avano](https://linktr.ee/Avano_io)|Decentralized Monitoring, Reporting and Verification (dMRV) Systems, NFTs| Metaverse
 [AxonDAO](https://www.axondao.io/)[🌐](https://desci.world/project/62cb980abc63adff7b602bd2)|Focused Research, NFTs, Phychedelics| North America
 [Bacalhau](https://www.bacalhau.org/)|Decentralized Computing, Data Storage| Metaverse
@@ -66,6 +67,7 @@ Find information on all DeSci past and upcoming events and twitter spaces [here]
 [DB DAO](https://www.dbdao.xyz/)[🌐](https://desci.world/project/6375416a4cedb58de3847c3e)|Data storage
 [Decentralized Science](https://decentralized.science/)|Decentralized publishing, Decentralized Identity|Europe
 [DeSci Africa](https://mirror.xyz/0xcE75b62f12ae1F891bA6222c52a630aa36127142/ysCdhI9uUxMEOfuWoWv1xSWKRCWho7wD8BIJl7tOMrM)[🌐](https://desci.world/project/635b54db0b57f22ac9a041d9)|Ecosystems, Philanthropy, Community| Africa
+[DeSci Asia](https://twitter.com/DeSciAsia)[🌐](https://desci.world/project/651dc69f55113fa23ff779ce)|Ecosystems, Philanthropy, Community| Asia
 [DeSci Brazil](https://mobile.twitter.com/DeSciBrazil)| Community| America
 [DeSci China](https://www.descichina.org/)| Community| Asia
 [DeSci Japan](https://descijapan.org/)[🌐](https://desci.world/project/64637a7b1603fe267bfe7393)| Community| Asia
