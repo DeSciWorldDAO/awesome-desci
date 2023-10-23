@@ -133,6 +133,7 @@ Find information on all DeSci past and upcoming events and twitter spaces [here]
 [Research DAO](https://researchdao.io/)|Decentralized Funding|Metaverse
 [Research Hub](https://www.researchhub.com/))[🌐](https://desci.world/project/63b315ebcb05b6965f411886) |Ecosystems, Publishing|Metaverse
 [Retrox](https://orcidauth.vercel.app/)[🌐](https://desci.world/project/63b31cb4cb05b6965f411964) |Ecosystems, Publishing, Decentralized Funding, Data Storage|Europe
+[Rymedi](https://rymedi.com/)|Ecosystems, Decentralized biotech, Data Storage|North America
 [Salaries Science](https://science-dao.org/salaries-science/)[🌐](https://desci.world/project/64d4de55f242e7dafc5e54f0) |Ecosystems, Publishing, Decentralized funding, Philanthropy|Middle East
 [Scholar](https://usescholar.org/)[🌐](https://desci.world/project/63b3205dcb05b6965f411a41) |Publishing|North America
 [SciDex](https://haai.info/scidex/)[🌐](https://desci.world/project/64a5ed5b5061f813dc1a6f4c)|Publishing, Science DeFi, Blockchain protocols|Asia
