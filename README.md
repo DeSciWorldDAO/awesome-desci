@@ -234,7 +234,7 @@ Feb; 134:104040. Epub 2019 Dec 11. PMID:31865055.
 5. Rapolas [The Future Of Medicine Is Tokens](https://zeeprime.capital/the-future-of-medicine-is-tokens).
 6. TalentDAO & DeSciWorld [DeSci Landscape Analysis: Exploring Crowdfunding Effects On Project Development](https://mirror.xyz/erinmagennis.eth/rSAHHVavkVHVqrKsp9C0w-GScJzKcJMnGxYBw0IrQUg)
 7. Starr, J. et al. [Implementing DeSci in Web3 Development: A Guide for Builders](https://hackernoon.com/implementing-desci-in-web3-development-a-guide-for-builders)
-
+8. Kisley, M. [The Reproducibility Crisis Isn't New, But This Way of Fixing It Is](https://litmaps.substack.com/p/the-reproducibility-crisis-isnt-new)
 
 ##### 2022
 1. Baloyan, S. [DeSci - the New Web 3 Movement to Revolutionize Scientific Research & Funding](https://hackernoon.com/desci-the-new-web-3-movement-to-revolutionize-scientific-research-and-funding)
