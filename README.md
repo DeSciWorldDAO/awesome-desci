@@ -171,6 +171,8 @@ Find information on all DeSci past and upcoming events and twitter spaces [here]
   **Coelho** R et al.(2022) [A Blockchain-Based Architecture for Trust in Collaborative Scientific Experimentation](https://www.researchgate.net/publication/364319218_A_Blockchain-Based_Architecture_for_Trust_in_Collaborative_Scientific_Experimentation) J Grid Computing 20, 35 (2022). https://doi.org/10.1007/s10723-022-09626-x
   
   **Coelho** FC, Brandão A. (2019) [Decentralising scientific publishing: can the blockchain improve science communication?](https://www.scielo.br/j/mioc/a/pGbLcFHfhKGvXvTYPcGrfWw/abstract/?lang=en) Mem Inst Oswaldo Cruz. 2019;114:e190257. doi: 10.1590/0074-02760190257. PMID: 31432893; PMCID: PMC6701880. 
+
+  **Ding** W et al (2023)[Architecture and Mechanism for Decentralized Science MetaMarkets](https://ieeexplore.ieee.org/abstract/document/10123021) IEEE Transactions on Systems, Man, and Cybernetics: Systems, vol. 53, no. 9, pp. 5321-5330, doi: 10.1109/TSMC.2023.3266223.
   
   **Ducrée** J et al.(2021) [Unchaining Collective Intelligence for Science, Research, and Technology Development by Blockchain-Boosted Community Participation](https://www.frontiersin.org/articles/10.3389/fbloc.2021.631648/full). Front. Blockchain 4:631648.
   
