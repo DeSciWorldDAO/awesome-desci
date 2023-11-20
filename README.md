@@ -279,7 +279,7 @@ Feb; 134:104040. Epub 2019 Dec 11. PMID:31865055.
 3. [FrontierDAO](https://mirror.xyz/0x4A35674727c44cf4375d80C6171281Ba2f764213)
 4. [GenomicDAO](https://genomicdao.medium.com/)
 5. [OpenCann](https://opencann.medium.com/)
-
+6. [DeSci的自學之路 by Swift Evo](https://matters.town/@swiftevo/collections/Q29sbGVjdGlvbjoxMDA5)
 
 ## Newsletters
 
@@ -348,7 +348,7 @@ Feb; 134:104040. Epub 2019 Dec 11. PMID:31865055.
 9. [DeSci x Gitcoin Community](https://t.me/gitcoindesci)
 10. [Open Science Ecosystem](https://t.me/osftw)
 11. [BanklessDeSci](https://t.me/banklessdesci)
-
+12. [DeSci Asia](https://t.me/DeSciAsia)
 ---
 ## Jobs
 Find information on DeSci jobs listings and seeking [here](https://desci.world/jobs)
