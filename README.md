@@ -109,6 +109,7 @@ Find information on all DeSci past and upcoming events and twitter spaces [here]
 [Lifespan.io](https://www.lifespan.io/)[🌐](https://desci.world/project/63b327e3cb05b6965f411ce1)|Decentralized Biotech / Biopharma, Decentralized Funding, Focused Research, NFTs, Philanthropy, Ecosystems|North America 
 [LunCo](https://lunco.space/)[🌐](https://desci.world/project/63712331f4001346b22e6caf)|Engineering Software, Data Storage, Ecosystems, Space Simulators|Metaverse
 [MedDAO](https://www.meddao.xyz/)[🌐](https://desci.world/project/637d260860e4e8a680af9587)|Decentralized Biotech / Biopharma, Ecosystems, NFTs, Decentralized Funding, Blockchain protocols, Science DeFi|North America
+[Mediblock](https://medibloc.com/)|Decentralized Biotech / Biopharma, Ecosystems, Decentralized Funding, Blockchain protocols, Science DeFi|North America
 [Medical.watch](https://blog.medical.watch/)[🌐](https://desci.world/project/62db3a33c1807e671021c56f)|Ecosystems, Data Storage, Decentralized Biotech, Biopharma|North America
 [Molecule DAO](https://www.molecule.to/)|Decentralized Biotech / Biopharma, NFTs, Decentralized Funding, Blockchain protocols|Europe
 [Moon DAO](https://www.moondao.com/)[🌐](https://desci.world/project/63891afc51a8d557291808b3)| Science DeFi, Philanthropy, Ecosystems|Metaverse
@@ -155,6 +156,7 @@ Find information on all DeSci past and upcoming events and twitter spaces [here]
 [Token Engineering Labs](https://www.tokenengineeringlabs.com/)[🌐](https://desci.world/project/6418a9a2bb5c79671293b99f)|Ecosystems, Focused Research, Science DeFi |Europe
 [UltraRare Bio](https://www.ultrarare.bio/)|Ecosystems, Decentralized Biotech / Biopharma, Focused Research, Decentralized Funding, NFTs |Metaverse 
 [ValleyDAO](https://www.valleydao.bio/)[🌐](https://desci.world/project/62db3bd6c1807e671021c572)|Ecosystems, Decentralized Biotech / Biopharma, Focused Research, Decentralized Funding|Metaverse 
+[VectorSpace Bioscience](https://vectorspacebio.science/)|Ecosystems, Focused Research, Decentralized Funding, Decentralized space research |Metaverse 
 [VibeBio](https://www.vibebio.com/)|Decentralized Biotech / Biopharma, Decentralized Funding, Philanthropy|Metaverse
 [ViralCure](https://www.viralcure.org/)[🌐](https://desci.world/project/6333d4ee89588cc81d14039c)|Decentralized Biotech / Biopharma, Decentralized Funding, Science DeFi, NFTs|Latin America
 [VitaDAO](https://www.vitadao.com/)[🌐](https://desci.world/project/625fb37edcfaec643ea479aa)|Biopharma, Science DeFi, Philanthropy|Europe
