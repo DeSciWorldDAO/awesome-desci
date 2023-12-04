@@ -145,6 +145,7 @@ Find information on all DeSci past and upcoming events and twitter spaces [here]
 [Scisets](https://www.linkedin.com/company/scisets/?trk=public_profile_topcard-current-company&originalSubdomain=uk)[🌐](https://desci.world/project/64039a244871d897a2597297)|Publishing|Metaverse
 [Scriptus App](https://scriptus.app/) |Publishing|Metaverse
 [Seeds of Science](https://www.theseedsofscience.org/)[🌐](https://desci.world/project/639a7b12aa9f9775aaa1d6f9)|Publishing|Metaverse
+[SingularityNET](https://singularitynet.io/)|Decentralized AI, Blockchain protocols, Focused research|Metaverse
 [Smart Contract Research Forum](https://www.smartcontractresearch.org/)|Ecosystems, Community|Metaverse
 [t2.world](https://t2.world/)[🌐](https://desci.world/project/649230ca0639e8693377c8da)|Ecosystems, Publishing, Decentralized Funding, Blockchain protocols, Philanthropy|Metaverse
 [TalentDAO](https://www.talentdao.io/)|Ecosystems, Community, Publishing|Metaverse
