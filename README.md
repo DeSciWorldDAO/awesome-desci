@@ -216,7 +216,6 @@ Feb; 134:104040. Epub 2019 Dec 11. PMID:31865055.
   
   **Wittek** K. et al (2021). [A Blockchain-Based Approach to Provenance and Reproducibility in Research Workflows](https://arxiv.org/ftp/arxiv/papers/2202/2202.13747.pdf). IEEE International Conference on Blockchain and Cryptocurrency (ICBC), 2021, pp. 1-6
   
-
 **Editorial** [The community of the DAO](https://doi.org/10.1038/s41587-023-02005-1). Nat Biotechnol 41, 1357 (2023). 
 
 ---
