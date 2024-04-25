@@ -154,7 +154,8 @@ Find information on all DeSci past and upcoming events and twitter spaces [here]
 [The Science Commons Initiative](https://thesciencecommons.org/)[🌐](https://desci.world/project/630aca18900d8f427a2e95e7)|Ecosystems, Publishing, Blockchain protocols|Europe
 [Therapoid by Open Therapeutics](https://therapoid.net/)[🌐](https://desci.world/project/625f65d3dcfaec643ea479a6)|Ecosystems, Publishing, Philanthropy|Metaverse 
 [Token Engineering Labs](https://www.tokenengineeringlabs.com/)[🌐](https://desci.world/project/6418a9a2bb5c79671293b99f)|Ecosystems, Focused Research, Science DeFi |Europe
-[UltraRare Bio](https://www.ultrarare.bio/)|Ecosystems, Decentralized Biotech / Biopharma, Focused Research, Decentralized Funding, NFTs |Metaverse 
+[UltraRare Bio](https://www.ultrarare.bio/)|Ecosystems, Decentralized Biotech / Biopharma, Focused Research, Decentralized Funding, NFTs |Metaverse
+[Uncommons-Everything about DeSci](https://t.me/theuncommons/12)|DeSci education for Chinese community | Asia
 [ValleyDAO](https://www.valleydao.bio/)[🌐](https://desci.world/project/62db3bd6c1807e671021c572)|Ecosystems, Decentralized Biotech / Biopharma, Focused Research, Decentralized Funding|Metaverse 
 [VectorSpace Bioscience](https://vectorspacebio.science/)|Ecosystems, Focused Research, Decentralized Funding, Decentralized space research |Metaverse 
 [VibeBio](https://www.vibebio.com/)|Decentralized Biotech / Biopharma, Decentralized Funding, Philanthropy|Metaverse
