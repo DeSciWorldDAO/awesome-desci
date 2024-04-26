@@ -107,6 +107,7 @@ Find information on all DeSci past and upcoming events and twitter spaces [here]
 [Ledgerback Digital Commons Research Cooperative](https://www.ledgerback.xyz/))[🌐](https://desci.world/project/63ea591094c67da8f01a0b1e)|Ecosystem, Focused Research |North America
 [LibertasDAO](https://libertas-dao.com/)[🌐](https://desci.world/project/6448964ef180da02d9f7be7a)|Publishing|Europe
 [Lifespan.io](https://www.lifespan.io/)[🌐](https://desci.world/project/63b327e3cb05b6965f411ce1)|Decentralized Biotech / Biopharma, Decentralized Funding, Focused Research, NFTs, Philanthropy, Ecosystems|North America 
+[Lilypad](https://lilypad.tech/)[🌐](https://desci.world/project/662a8aac7fd0a7e2654e7ace)|Decentralized computing, Science DeFi, Ecosystems|Metaverse
 [LunCo](https://lunco.space/)[🌐](https://desci.world/project/63712331f4001346b22e6caf)|Engineering Software, Data Storage, Ecosystems, Space Simulators|Metaverse
 [MedDAO](https://www.meddao.xyz/)[🌐](https://desci.world/project/637d260860e4e8a680af9587)|Decentralized Biotech / Biopharma, Ecosystems, NFTs, Decentralized Funding, Blockchain protocols, Science DeFi|North America
 [Mediblock](https://medibloc.com/)|Decentralized Biotech / Biopharma, Ecosystems, Decentralized Funding, Blockchain protocols, Science DeFi|North America
