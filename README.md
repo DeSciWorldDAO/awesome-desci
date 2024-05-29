@@ -98,7 +98,7 @@ Find information on all DeSci past and upcoming events and twitter spaces [here]
 [Health X Change](https://www.health-x-change.com/)[🌐](https://desci.world/project/63753e0c2eebee6964698612)|Ecosystems, NFTs, Science DeFi, Philanthropy, medical data|North America
 [IberoAm](https://iberoam.xyz/)| Community|Latin America
 [IndyGeneUS-AI](indygeneus.ai)| Genomics, Data Storage, 
-[Innovative Bioresearch]([https://www.innovativebioresearch.com/]|Pharma, HIV and cancer research, DeSci DApps|Italy
+[Innovative Bioresearch]([https://www.innovativebioresearch.com/]|Pharma, HIV and cancer research, DeSci DApps|Europe
 [inTheory](https://www.impact-finance.io/intheory)[🌐](https://desci.world/project/639cd7f991a8578d9f110ff4)|NFTs, Decentralized Funding, Science DeFi|North America
 [IUCN - Pourini Foundation](https://porini.foundation/naturecollectibles/)|NFTs|Europe
 [JennyCo](https://jennyco.com/) [🌐](https://desci.world/project/63ea4b33d419f1b9810bc679)|Science DeFi, Biopharma, Ecosystems|North America
@@ -172,7 +172,7 @@ Find information on all DeSci past and upcoming events and twitter spaces [here]
  
   ---
 ## Scientific papers
-Fior J. (2024) [INNBC DApp, a decentralized application to permanently store biomedical data on a modern, proof-of-stake (POS), blockchain such as BNB Smart Chain](https://doi.org/10.1186/s12911-024-02498-z). BMC Med Inform Decis Mak. 2024 Apr 25;24(1):109. PMID: 38664792; PMCID: PMC11046759.
+**Fior** J. (2024) [INNBC DApp, a decentralized application to permanently store biomedical data on a modern, proof-of-stake (POS), blockchain such as BNB Smart Chain](https://doi.org/10.1186/s12911-024-02498-z). BMC Med Inform Decis Mak. 2024 Apr 25;24(1):109. PMID: 38664792; PMCID: PMC11046759.
 
   **Beinke** JH, Fitte C, Teuteberg F(2019).[Towards a Stakeholder-Oriented Blockchain-Based Architecture for Electronic Health Records: Design Science Research Study](10.2196/13585). J Med Internet Res. 2019 Oct 7;21(10):e13585. PMID: 31593548; PMCID: PMC6914222.
       
