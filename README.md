@@ -98,6 +98,7 @@ Find information on all DeSci past and upcoming events and twitter spaces [here]
 [Health X Change](https://www.health-x-change.com/)[🌐](https://desci.world/project/63753e0c2eebee6964698612)|Ecosystems, NFTs, Science DeFi, Philanthropy, medical data|North America
 [IberoAm](https://iberoam.xyz/)| Community|Latin America
 [IndyGeneUS-AI](indygeneus.ai)| Genomics, Data Storage, 
+[Innovative Bioresearch]([https://www.innovativebioresearch.com/]|Pharma, HIV and cancer research, DeSci DApps|Europe
 [inTheory](https://www.impact-finance.io/intheory)[🌐](https://desci.world/project/639cd7f991a8578d9f110ff4)|NFTs, Decentralized Funding, Science DeFi|North America
 [IUCN - Pourini Foundation](https://porini.foundation/naturecollectibles/)|NFTs|Europe
 [JennyCo](https://jennyco.com/) [🌐](https://desci.world/project/63ea4b33d419f1b9810bc679)|Science DeFi, Biopharma, Ecosystems|North America
@@ -180,6 +181,8 @@ Find information on all DeSci past and upcoming events and twitter spaces [here]
   **Ding** W et al (2023)[Architecture and Mechanism for Decentralized Science MetaMarkets](https://ieeexplore.ieee.org/abstract/document/10123021) IEEE Transactions on Systems, Man, and Cybernetics: Systems, vol. 53, no. 9, pp. 5321-5330, doi: 10.1109/TSMC.2023.3266223.
   
   **Ducrée** J et al.(2021) [Unchaining Collective Intelligence for Science, Research, and Technology Development by Blockchain-Boosted Community Participation](https://www.frontiersin.org/articles/10.3389/fbloc.2021.631648/full). Front. Blockchain 4:631648.
+
+  **Fior** J. (2024) [INNBC DApp, a decentralized application to permanently store biomedical data on a modern, proof-of-stake (POS), blockchain such as BNB Smart Chain](https://doi.org/10.1186/s12911-024-02498-z). BMC Med Inform Decis Mak. 2024 Apr 25;24(1):109. PMID: 38664792; PMCID: PMC11046759.
   
   **Friedman**, Daniel, Applegate-Swanson, Shaun, Choudhury, Arhan, Cordes, RJ, El Damaty, Shady, Guénin—Carlut, Avel, Knight, V. Bleu, Metelkin, Ivan, Shrivastava, Siddhant, Singh, Amit Kumar, Smékal, Jakub, Tuttle. Caleb, & Vyatkin, Alexander. (2022). An Active Inference Ontology for Decentralized Science: from Situated Sensemaking to the Epistemic Commons. https://doi.org/10.5281/zenodo.6872311
   
