@@ -172,7 +172,6 @@ Find information on all DeSci past and upcoming events and twitter spaces [here]
  
   ---
 ## Scientific papers
-
   **Beinke** JH, Fitte C, Teuteberg F(2019).[Towards a Stakeholder-Oriented Blockchain-Based Architecture for Electronic Health Records: Design Science Research Study](10.2196/13585). J Med Internet Res. 2019 Oct 7;21(10):e13585. PMID: 31593548; PMCID: PMC6914222.
       
   **Coelho** R et al.(2022) [A Blockchain-Based Architecture for Trust in Collaborative Scientific Experimentation](https://www.researchgate.net/publication/364319218_A_Blockchain-Based_Architecture_for_Trust_in_Collaborative_Scientific_Experimentation) J Grid Computing 20, 35 (2022). https://doi.org/10.1007/s10723-022-09626-x
