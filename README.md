@@ -172,7 +172,6 @@ Find information on all DeSci past and upcoming events and twitter spaces [here]
  
   ---
 ## Scientific papers
-**Fior** J. (2024) [INNBC DApp, a decentralized application to permanently store biomedical data on a modern, proof-of-stake (POS), blockchain such as BNB Smart Chain](https://doi.org/10.1186/s12911-024-02498-z). BMC Med Inform Decis Mak. 2024 Apr 25;24(1):109. PMID: 38664792; PMCID: PMC11046759.
 
   **Beinke** JH, Fitte C, Teuteberg F(2019).[Towards a Stakeholder-Oriented Blockchain-Based Architecture for Electronic Health Records: Design Science Research Study](10.2196/13585). J Med Internet Res. 2019 Oct 7;21(10):e13585. PMID: 31593548; PMCID: PMC6914222.
       
@@ -183,6 +182,8 @@ Find information on all DeSci past and upcoming events and twitter spaces [here]
   **Ding** W et al (2023)[Architecture and Mechanism for Decentralized Science MetaMarkets](https://ieeexplore.ieee.org/abstract/document/10123021) IEEE Transactions on Systems, Man, and Cybernetics: Systems, vol. 53, no. 9, pp. 5321-5330, doi: 10.1109/TSMC.2023.3266223.
   
   **Ducrée** J et al.(2021) [Unchaining Collective Intelligence for Science, Research, and Technology Development by Blockchain-Boosted Community Participation](https://www.frontiersin.org/articles/10.3389/fbloc.2021.631648/full). Front. Blockchain 4:631648.
+
+  **Fior** J. (2024) [INNBC DApp, a decentralized application to permanently store biomedical data on a modern, proof-of-stake (POS), blockchain such as BNB Smart Chain](https://doi.org/10.1186/s12911-024-02498-z). BMC Med Inform Decis Mak. 2024 Apr 25;24(1):109. PMID: 38664792; PMCID: PMC11046759.
   
   **Friedman**, Daniel, Applegate-Swanson, Shaun, Choudhury, Arhan, Cordes, RJ, El Damaty, Shady, Guénin—Carlut, Avel, Knight, V. Bleu, Metelkin, Ivan, Shrivastava, Siddhant, Singh, Amit Kumar, Smékal, Jakub, Tuttle. Caleb, & Vyatkin, Alexander. (2022). An Active Inference Ontology for Decentralized Science: from Situated Sensemaking to the Epistemic Commons. https://doi.org/10.5281/zenodo.6872311
   
