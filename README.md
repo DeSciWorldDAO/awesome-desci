@@ -98,7 +98,7 @@ Find information on all DeSci past and upcoming events and twitter spaces [here]
 [Health X Change](https://www.health-x-change.com/)[🌐](https://desci.world/project/63753e0c2eebee6964698612)|Ecosystems, NFTs, Science DeFi, Philanthropy, medical data|North America
 [IberoAm](https://iberoam.xyz/)| Community|Latin America
 [IndyGeneUS-AI](indygeneus.ai)| Genomics, Data Storage, 
-[Innovative Bioresearch]([https://www.innovativebioresearch.com/]|Pharma, HIV and cancer research, DeSci DApps|Europe
+[Innovative Bioresearch](https://www.innovativebioresearch.com/)|Pharma, HIV and cancer research, DeSci DApps|Europe
 [inTheory](https://www.impact-finance.io/intheory)[🌐](https://desci.world/project/639cd7f991a8578d9f110ff4)|NFTs, Decentralized Funding, Science DeFi|North America
 [IUCN - Pourini Foundation](https://porini.foundation/naturecollectibles/)|NFTs|Europe
 [JennyCo](https://jennyco.com/) [🌐](https://desci.world/project/63ea4b33d419f1b9810bc679)|Science DeFi, Biopharma, Ecosystems|North America
@@ -231,6 +231,7 @@ Feb; 134:104040. Epub 2019 Dec 11. PMID:31865055.
 | ------------- | --------------------- | ------------- |
 1. IP-NFT | Mint intellectual property as an NFT | [GitHub](https://github.com/moleculeprotocol/IPNFT) [Docs](https://docs.molecule.to/documentation/ip-nfts/intro-to-ip-nft)
 2. PLEX | Run scientific workflows on decentralized compute | [GitHub](https://github.com/labdao/plex) [PyPi](https://pypi.org/project/PlexLabExchange/) [Docs](https://docs.labdao.xyz/)
+3. INNBC DApp | Record biomedical data on BNB Smart Chain blockchain for proof-of-authorship/validity/creation | (https://database.innovativebioresearch.com/)
 
 ---
   
@@ -287,6 +288,7 @@ Feb; 134:104040. Epub 2019 Dec 11. PMID:31865055.
 4. [GenomicDAO](https://genomicdao.medium.com/)
 5. [OpenCann](https://opencann.medium.com/)
 6. [DeSci的自學之路 by Swift Evo](https://matters.town/@swiftevo/collections/Q29sbGVjdGlvbjoxMDA5)
+7. [Innovative Bioresearch](https://www.innovativebioresearch.com/blog)
 
 ## Newsletters
 
@@ -341,6 +343,7 @@ Feb; 134:104040. Epub 2019 Dec 11. PMID:31865055.
 7. [La DeSci (Science Décentralisée) : un nouveau mouvement à haut potentiel ?](https://www.youtube.com/watch?v=zSttzDQ7B9k) - Coin Station.
 8. [Intro a DeSci Decentralized Science 🚀 2|9|2022](https://www.youtube.com/watch?v=ijpalN226Kc) - Mujeres en Crypto.
 9. [Investigación y transferencia tecnológica en longevidad y ciencia descentralizada con Estéfano](https://www.youtube.com/watch?v=X4tfnFJOz7M) - Investigando la Investigación.
+10. [Jonathan Fior: INNBC, DeSci, and Web3 | BigONE Crypto Podcast](https://youtu.be/z_py2IiDYmU) - Fior J.
 
 ## Telegram groups
 
@@ -356,6 +359,7 @@ Feb; 134:104040. Epub 2019 Dec 11. PMID:31865055.
 10. [Open Science Ecosystem](https://t.me/osftw)
 11. [BanklessDeSci](https://t.me/banklessdesci)
 12. [DeSci Asia](https://t.me/DeSciAsia)
+13. [Innovative Bioresearch](https://t.me/innovativebioresearch)
 ---
 ## Jobs
 Find information on DeSci jobs listings and seeking [here](https://desci.world/jobs)
