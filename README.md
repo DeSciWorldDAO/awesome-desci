@@ -172,57 +172,69 @@ Find information on all DeSci past and upcoming events and twitter spaces [here]
  
   ---
 ## Scientific papers
-  **Beinke** JH, Fitte C, Teuteberg F(2019).[Towards a Stakeholder-Oriented Blockchain-Based Architecture for Electronic Health Records: Design Science Research Study](10.2196/13585). J Med Internet Res. 2019 Oct 7;21(10):e13585. PMID: 31593548; PMCID: PMC6914222.
-      
-  **Coelho** R et al.(2022) [A Blockchain-Based Architecture for Trust in Collaborative Scientific Experimentation](https://www.researchgate.net/publication/364319218_A_Blockchain-Based_Architecture_for_Trust_in_Collaborative_Scientific_Experimentation) J Grid Computing 20, 35 (2022). https://doi.org/10.1007/s10723-022-09626-x
-  
-  **Coelho** FC, Brandão A. (2019) [Decentralising scientific publishing: can the blockchain improve science communication?](https://www.scielo.br/j/mioc/a/pGbLcFHfhKGvXvTYPcGrfWw/abstract/?lang=en) Mem Inst Oswaldo Cruz. 2019;114:e190257. doi: 10.1590/0074-02760190257. PMID: 31432893; PMCID: PMC6701880. 
 
-  **Ding** W et al (2023)[Architecture and Mechanism for Decentralized Science MetaMarkets](https://ieeexplore.ieee.org/abstract/document/10123021) IEEE Transactions on Systems, Man, and Cybernetics: Systems, vol. 53, no. 9, pp. 5321-5330, doi: 10.1109/TSMC.2023.3266223.
-  
-  **Ducrée** J et al.(2021) [Unchaining Collective Intelligence for Science, Research, and Technology Development by Blockchain-Boosted Community Participation](https://www.frontiersin.org/articles/10.3389/fbloc.2021.631648/full). Front. Blockchain 4:631648.
+#### 2024
 
-  **Fior** J. (2024) [INNBC DApp, a decentralized application to permanently store biomedical data on a modern, proof-of-stake (POS), blockchain such as BNB Smart Chain](https://doi.org/10.1186/s12911-024-02498-z). BMC Med Inform Decis Mak. 2024 Apr 25;24(1):109. PMID: 38664792; PMCID: PMC11046759.
-  
+ **Fior** J. (2024) [INNBC DApp, a decentralized application to permanently store biomedical data on a modern, proof-of-stake (POS), blockchain such as BNB Smart Chain](https://doi.org/10.1186/s12911-024-02498-z). BMC Med Inform Decis Mak. 2024 Apr 25;24(1):109. PMID: 38664792; PMCID: PMC11046759.
+
+#### 2023
+ **Ding** W et al (2023)[Architecture and Mechanism for Decentralized Science MetaMarkets](https://ieeexplore.ieee.org/abstract/document/10123021) IEEE Transactions on Systems, Man, and Cybernetics: Systems, vol. 53, no. 9, pp. 5321-5330, doi: 10.1109/TSMC.2023.3266223.
+ 
+ **Editorial** [The community of the DAO](https://doi.org/10.1038/s41587-023-02005-1). Nat Biotechnol 41, 1357 (2023). 
+ 
+ **Subramanian** H. (2023) [A Decentralized Marketplace for Patient-Generated Health Data: Design Science Approach] (https://www.jmir.org/2023/1/e42743) J Med Internet Res 2023;25:e42743b DOI: 10.2196/42743  
+ 
+ **Teo** Z.L., **Tin**, D.S.W. (2023) [Non-fungible tokens for the management of health data](https://www.nature.com/articles/s41591-022-02125-2). Nat Med 29, 287–288.
+
+ #### 2022
+ **Coelho** R et al.(2022) [A Blockchain-Based Architecture for Trust in Collaborative Scientific Experimentation](https://www.researchgate.net/publication/364319218_A_Blockchain-Based_Architecture_for_Trust_in_Collaborative_Scientific_Experimentation) J Grid Computing 20, 35 (2022). https://doi.org/10.1007/s10723-022-09626-x 
+
   **Friedman**, Daniel, Applegate-Swanson, Shaun, Choudhury, Arhan, Cordes, RJ, El Damaty, Shady, Guénin—Carlut, Avel, Knight, V. Bleu, Metelkin, Ivan, Shrivastava, Siddhant, Singh, Amit Kumar, Smékal, Jakub, Tuttle. Caleb, & Vyatkin, Alexander. (2022). An Active Inference Ontology for Decentralized Science: from Situated Sensemaking to the Epistemic Commons. https://doi.org/10.5281/zenodo.6872311
   
-  **Hasselgren** A et al. (2020) [Blockchain in healthcare and health sciences-A scoping review](10.1016/j.ijmedinf.2019.104040). Int J Med Inform. 2020
+ **Jaiman** V. et al. (2022). [User incentives for blockchain-based data sharing platforms](https://doi.org/10.1371/journal.pone.0266624) PLOS ONE 17(4): e0266624
+ 
+ **Kochupillai**, M., Köninger, J. (2022). [Creating a Digital Marketplace for Agrobiodiversity and Plant Genetic Sequence Data: Legal and Ethical Considerations of an AI and Blockchain Based Solution](https://doi.org/10.1007/978-3-031-13276-6_12). In: Williamson, H.F., Leonelli, S. (eds) Towards Responsible Plant Data Linkage: Data Challenges for Agricultural Research and Development. Springer, Cham.
+ 
+ **Wang** F. -Y. et al. (2022). [The DAO to DeSci: AI for Free, Fair, and Responsibility Sensitive Sciences](https://ieeexplore.ieee.org/document/9779591) IEEE Intelligent Systems 37(2), 16-22
+
+ #### 2021
+ **Ducrée** J et al.(2021) [Unchaining Collective Intelligence for Science, Research, and Technology Development by Blockchain-Boosted Community Participation](https://www.frontiersin.org/articles/10.3389/fbloc.2021.631648/full). Front. Blockchain 4:631648.
+ 
+**Mohammadipanah** F, Sajedi H. [Potential of blockchain approach on development and security of microbial databases]( 10.1186/s12575-020-00139-z). Biol Proced Online. 2021 Feb 1;23(1):3.PMID: 33517878; PMCID: PMC7847748.  
+
+**Nicola** J.(2021). [How scientists are embracing NFTs](https://www.nature.com/articles/d41586-021-01642-3). Nature 594, 481-482.
+
+**Ng** WY et al. (2021) [Blockchain applications in health care for COVID-19 and beyond: a systematic review](10.1016/S2589-7500(21)00210-7). Lancet Digit Health. 2021 Dec;3(12):e819-e829. Epub 2021 Oct 13. PMID: 34654686; PMCID:PMC8510632.  
+
+**OECD** (2021). [OECD Digital Education Outlook 2021: Pushing the Frontiers with Artificial Intelligence, Blockchain and Robots](https://doi.org/10.1787/589b283f-en). OECD Publishing, Paris
+
+**Trovò**, B., Massari, N. (2021). Ants-Review: A Privacy-Oriented Protocol for Incentivized Open Peer Reviews on Ethereum. In: , et al. Euro-Par 2020: Parallel Processing Workshops. Euro-Par 2020. Lecture Notes in Computer Science(), vol 12480. Springer, Cham. https://doi.org/10.1007/978-3-030-71593-9_2 
+
+ **Wittek** K. et al (2021). [A Blockchain-Based Approach to Provenance and Reproducibility in Research Workflows](https://arxiv.org/ftp/arxiv/papers/2202/2202.13747.pdf). IEEE International Conference on Blockchain and Cryptocurrency (ICBC), 2021, pp. 1-6
+
+
+ #### 2020
+**Hasselgren** A et al. (2020) [Blockchain in healthcare and health sciences-A scoping review](10.1016/j.ijmedinf.2019.104040). Int J Med Inform. 2020
 Feb; 134:104040. Epub 2019 Dec 11. PMID:31865055.
-  
-  **Jaiman** V. et al. (2022). [User incentives for blockchain-based data sharing platforms](https://doi.org/10.1371/journal.pone.0266624) PLOS ONE 17(4): e0266624
-  
-  **Jeng** W. et al. (2020). [A decentralized framework for cultivating research lifecycle transparency](https://doi.org/10.1371/journal.pone.0241496) PLOS ONE 15(11): e0241496
-  
-  **Justinia** T (2019) [Blockchain Technologies: Opportunities for Solving Real-World Problems in Healthcare and Biomedical Sciences](10.5455/aim.2019.27.284-291). Acta Inform Med. Dec;27(4):284-291. PMID: 32055097; PMCID: PMC7004292.
-  
-  **Kochupillai**, M., Köninger, J. (2022). [Creating a Digital Marketplace for Agrobiodiversity and Plant Genetic Sequence Data: Legal and Ethical Considerations of an AI and Blockchain Based Solution](https://doi.org/10.1007/978-3-031-13276-6_12). In: Williamson, H.F., Leonelli, S. (eds) Towards Responsible Plant Data Linkage: Data Challenges for Agricultural Research and Development. Springer, Cham.
-  
-  **Lieble** S. et al. (2019) [A Review on Blockchain Technology and Blockchain Projects Fostering Open Science](https://www.frontiersin.org/articles/10.3389/fbloc.2019.00016/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Blockchain&id=486595). Frontiers in Blockchain 2. 
-   
-  **Mohammadipanah** F, Sajedi H. [Potential of blockchain approach on development and security of microbial databases]( 10.1186/s12575-020-00139-z). Biol Proced Online. 2021 Feb 1;23(1):3.PMID: 33517878; PMCID: PMC7847748.
-  
-  **Nicola** J.(2021). [How scientists are embracing NFTs](https://www.nature.com/articles/d41586-021-01642-3). Nature 594, 481-482.
-  
-  **Ng** WY et al. (2021) [Blockchain applications in health care for COVID-19 and beyond: a systematic review](10.1016/S2589-7500(21)00210-7). Lancet Digit Health. 2021 Dec;3(12):e819-e829. Epub 2021 Oct 13. PMID: 34654686; PMCID:PMC8510632.
-  
-  **OECD** (2021). [OECD Digital Education Outlook 2021: Pushing the Frontiers with Artificial Intelligence, Blockchain and Robots](https://doi.org/10.1787/589b283f-en). OECD Publishing, Paris
-  
-  **Ozercan** HI et al.(2018) [Realizing the potential of blockchain technologies in genomics](https://pubmed.ncbi.nlm.nih.gov/30076130/).Genome Res. Sep;28(9):1255-1263. doi: 10.1101/gr.207464.116. Epub 2018 Aug 3. PMID: 30076130; PMCID: PMC6120626  
 
-  **Subramanian** H. (2023) [A Decentralized Marketplace for Patient-Generated Health Data: Design Science Approach] (https://www.jmir.org/2023/1/e42743) J Med Internet Res 2023;25:e42743b DOI: 10.2196/42743
-  
-  **Teo** Z.L., **Tin**, D.S.W. (2023) [Non-fungible tokens for the management of health data](https://www.nature.com/articles/s41591-022-02125-2). Nat Med 29, 287–288.
-  
-  **Trovò**, B., Massari, N. (2021). Ants-Review: A Privacy-Oriented Protocol for Incentivized Open Peer Reviews on Ethereum. In: , et al. Euro-Par 2020: Parallel Processing Workshops. Euro-Par 2020. Lecture Notes in Computer Science(), vol 12480. Springer, Cham. https://doi.org/10.1007/978-3-030-71593-9_2
-  
-  **van der Waal** MB et al.(2020)[Blockchain-facilitated sharing to advance outbreak R&D](10.1126/science.aba1355). Science. May 15;368(6492):719-721.PMID: 32409465.
-  
-  **Wang** F. -Y. et al. (2022). [The DAO to DeSci: AI for Free, Fair, and Responsibility Sensitive Sciences](https://ieeexplore.ieee.org/document/9779591) IEEE Intelligent Systems 37(2), 16-22
-  
-  **Wittek** K. et al (2021). [A Blockchain-Based Approach to Provenance and Reproducibility in Research Workflows](https://arxiv.org/ftp/arxiv/papers/2202/2202.13747.pdf). IEEE International Conference on Blockchain and Cryptocurrency (ICBC), 2021, pp. 1-6
-  
-**Editorial** [The community of the DAO](https://doi.org/10.1038/s41587-023-02005-1). Nat Biotechnol 41, 1357 (2023). 
+**Jeng** W. et al. (2020). [A decentralized framework for cultivating research lifecycle transparency](https://doi.org/10.1371/journal.pone.0241496) PLOS ONE 15(11): e0241496
 
+**van der Waal** MB et al.(2020)[Blockchain-facilitated sharing to advance outbreak R&D](10.1126/science.aba1355). Science. May 15;368(6492):719-721.PMID: 32409465.
+
+ #### 2019
+**Beinke** JH, Fitte C, Teuteberg F(2019).[Towards a Stakeholder-Oriented Blockchain-Based Architecture for Electronic Health Records: Design Science Research Study](10.2196/13585). J Med Internet Res. 2019 Oct 7;21(10):e13585. PMID: 31593548; PMCID: PMC6914222.
+
+**Coelho** FC, Brandão A. (2019) [Decentralising scientific publishing: can the blockchain improve science communication?](https://www.scielo.br/j/mioc/a/pGbLcFHfhKGvXvTYPcGrfWw/abstract/?lang=en) Mem Inst Oswaldo Cruz. 2019;114:e190257. doi: 10.1590/0074-02760190257. PMID: 31432893; PMCID: PMC6701880. 
+
+**Justinia** T (2019) [Blockchain Technologies: Opportunities for Solving Real-World Problems in Healthcare and Biomedical Sciences](10.5455/aim.2019.27.284-291). Acta Inform Med. Dec;27(4):284-291. PMID: 32055097; PMCID: PMC7004292
+
+**Lieble** S. et al. (2019) [A Review on Blockchain Technology and Blockchain Projects Fostering Open Science](https://www.frontiersin.org/articles/10.3389/fbloc.2019.00016/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Blockchain&id=486595). Frontiers in Blockchain 2. 
+
+#### 2018
+**Ozercan** HI et al.(2018) [Realizing the potential of blockchain technologies in genomics](https://pubmed.ncbi.nlm.nih.gov/30076130/).Genome Res. Sep;28(9):1255-1263. doi: 10.1101/gr.207464.116. Epub 2018 Aug 3. PMID: 30076130; PMCID: PMC6120626  
+ 
+  
+  
 ---
 
 ## Software
