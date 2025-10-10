@@ -33,6 +33,7 @@ Find information on all DeSci past and upcoming events and twitter spaces [here]
 [Abakhus](https://abakhus.io/)[🌐](https://desci.world/project/637277ad1503962283965fa2)|Ecosystems, Data Storage, Blockchain protocols | Latin America
 [Abstrakta](https://abstrakta.org/)[🌐](https://desci.world/project/63ea4fd3add0809de0e21c38)|Ecosystems, NFTs | North America
 [Active Inference Institute](https://www.activeinference.org/)[🌐](https://desci.world/project/64922a620639e8693377c433)|Ecosystems, Focused Research | Metaverse
+[AI Internet-Socialism](https://science-dao.org/ai-internet-socialism/)|AI decides how much to pay to a user, based on automatic Web search.
 [Aimedis](https://aimedis.com/)[🌐](https://desci.world/project/64ea7ae09184a81edbf21494)|NFTs, Ecosystems, Decentralized biotech , Focused Research, Publishing, Decentralized funding, Data Storage, Decentralized Computing, Science DeFi| Middle East
 [Algovera](https://www.algovera.ai/)[🌐](https://desci.world/project/637264412a9e2b5f7b9d8347)|Decentralized Funding, Ecosystems, Data Storage|Europe
 [AntidoteDAO](https://www.antidotedao.org/)[🌐](https://desci.world/project/63b3239acb05b6965f411b32)|Focused Research, Decentralized Funding, Decentralized Biotech, Biopharma, NFTs, Cancer|North America
