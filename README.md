@@ -122,6 +122,7 @@ Find information on all DeSci past and upcoming events and twitter spaces [here]
 [NuNet](https://www.nunet.io/)[🌐](https://desci.world/project/6442131b72e8a7abb5f48e5c)|Decentralized Computing|Europe
 [OpenCann](https://opencann.net/)[🌐](https://desci.world/project/637473206ef6dbcf1d58884d)|Science DeFi, Focused Research, Ecosystems, Publishing, Decentralized Biotech, Biopharma|North America
 [OpSci](https://www.opsci.io/)[🌐](https://desci.world/project/625f65d3dcfaec643ea479a9)|Publishing, Ecosystems|Metaverse
+[P2PCLAW](https://p2pclaw.com/)[🌐](https://p2pclaw.com)|Decentralized Computing, Publishing, Peer Review, Formal Verification, AI Agents, Blockchain protocols|Europe
 [Phage Directory](https://phage.directory/)|Community, Ecosystems, Focused Research|Metaverse
 [PLANT GANG](https://plant-gang.webflow.io/)[🌐](https://desci.world/project/6333d55589588cc81d14039d)|NFTs, Decentralized Funding|Europe
 [Project Toninas](https://yaqupachauy.org/)|Focused Research, Ocean Restoration|Latin America
