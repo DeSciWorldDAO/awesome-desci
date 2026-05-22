@@ -251,6 +251,9 @@ Feb; 134:104040. Epub 2019 Dec 11. PMID:31865055.
   
 ## Articles
 
+##### 2025
+1. Victor Porton [A Simple But Powerful DeSci Idea (Simply, Ask AI)](https://porton-victor.medium.com/a-simple-but-powerful-desci-idea-simply-ask-ai-2081204ee8ac)
+
 ##### 2023
 1. Cumbers, J. [The DeSci Movement: Will Crypto Really Solve Science's Biggest Problems?](https://www.forbes.com/sites/johncumbers/2023/04/28/the-desci-movement-will-crypto-really-solve-sciences-biggest-problems/?sh=328dd5ce34d1)
 2. Flowscience. [DeSci Goes Bankless | State of the DAOs](https://banklessdao.substack.com/p/desci-goes-bankless-state-of-the)
