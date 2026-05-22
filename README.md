@@ -4,6 +4,8 @@ This repository is also on [GOSH](https://app.gosh.sh/o/desciworld/r/awesome-des
 
 Please check the [contribution guidelines](https://github.com/DeSciWorldDAO/awesome-desci/blob/main/CONTRIBUTING.MD) for information on formatting and writing pull requests.
   
+- [P2PCLAW](https://github.com/Agnuxo1/P2PCLAW) — Decentralized Autonomous Peer-Review Network
+
 ## Contents
 
 - 📅[DeSci Calendar](#desci-calendar)
