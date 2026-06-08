@@ -246,6 +246,7 @@ Feb; 134:104040. Epub 2019 Dec 11. PMID:31865055.
 1. IP-NFT | Mint intellectual property as an NFT | [GitHub](https://github.com/moleculeprotocol/IPNFT) [Docs](https://docs.molecule.to/documentation/ip-nfts/intro-to-ip-nft)
 2. PLEX | Run scientific workflows on decentralized compute | [GitHub](https://github.com/labdao/plex) [PyPi](https://pypi.org/project/PlexLabExchange/) [Docs](https://docs.labdao.xyz/)
 3. INNBC DApp | Record biomedical data on BNB Smart Chain blockchain for proof-of-authorship/validity/creation | (https://database.innovativebioresearch.com/)
+4. TWZRD Agent Intel | Verify autonomous AI agent identity before scientific data collection, publishing, or DeSci DAO interactions on Solana. On-chain trust scoring for data collection agents. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}` | [Website](https://intel.twzrd.xyz)
 
 ---
   
