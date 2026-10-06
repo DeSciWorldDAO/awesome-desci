@@ -85,6 +85,7 @@ Find information on all DeSci past and upcoming events and twitter spaces [here]
 [Emberflow](https://www.emberflow.org/)[🌐](https://desci.world/project/649221e30639e8693377bdda)|Ecosystems, Focused Research, Data Storage, Blockchain protocols, Decentralized Computing|North America
 [First Approval](https://firstapproval.io/)[🌐](https://desci.world/project/64ea7561b16482f3a1175e9a)|Ecosystems, Publishing, Data Storage, Decentralized biotech|North America
 [Fleming Protocol](https://flemingprotocol.io/)| |Blockchain protocols, Decentralized Biotech / Biopharma, Science DeFi|
+[fly.ai](https://www.flyaiworld.com)|Focused Research, Decentralized Computing|Europe
 [Foresight Institute](https://foresight.org/)| |Blockchain protocols, Decentralized Biotech / Biopharma, Focused Research, Decentralized funding|North America
 [Non-Fungible Fungi](https://www.fungiblefungi.xyz/)||NFTs, Focused Research, Decentralized Funding
 [Frontier DAO](https://www.frontierdao.xyz/)[🌐](https://desci.world/project/6372a3d082696c627d2f20b9)|Publishing, Focused Research, NFTs, Decentralized Funding, Data Storage, Philanthropy, Aerospace|North America
